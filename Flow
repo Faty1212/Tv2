@@ -5,12 +5,6 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
-
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="Cine, Novelas y Series",Volver 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343477/jpaigp1p0weik0s8red0.png" group-title="Argentina",CNN en Español (C)
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/d0l95-h7jlf-ilii6-4e3g9.m3u8
@@ -200,20 +194,6 @@ https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/in
 #EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
 https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
 
-#EXTINF:0 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Tigo_Sports_2025.png", Tigo Sports HD
-#EXTVLCOPT:network-caching=1000
-http://190.60.40.34:8001/play/a08z
-
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="LD - BEIN SPORTS Ñ HD " tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="• LATINO DEPORTES •",LD - BEIN SPORTS Ñ HD 
-
-https://tv.nousiptv.com:8443/Henrymaria/Perato/1155904
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports SD" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/90/43/98/904398d9-bf56-dbf6-dd0a-b716b8316566/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/246x0w.png" group-title="Deportes",Bein Sports 2
-http://xpaneltv.com:8080/Alirf/78587421/89710
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Ñ FHD" tvg-logo="http://visi4k.site:8080/images/8d3c9ae4362687a0705ca9631736c123.jpg" group-title="Deportes",Bein Sports Ñ 3
-http://xpaneltv.com:8080/Alirf/78587421/172140
-
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS
 http://217.26.190.76:8888/play/a0co/index.m3u8
 
@@ -262,3 +242,11 @@ https://joy.nx-pc.edge-apps.net/hls/g0hl8-7cc8c-58lnc-8d80n.m3u8
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343555/qquu2rgawhx5vewx5k5s.png" group-title="Infantil",Disney Jr 
 #EXTVLCOPT:http-us
+
+
+
+
+
+
+
+
