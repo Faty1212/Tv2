@@ -1,7 +1,5 @@
 #EXTINF:-1 tvg-id="321566" tvg-name="ESPN Premium • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="Deportes", ESPN Premium • Argentina
 http://45.181.122.46:8090/play/a015?PlaylistM3UCL
-#EXTINF:-1 tvg-id="323730" tvg-name="ESPN 7 • América Latina" tvg-logo="https://es.wikipedia.org/wiki/Archivo:ESPN_7_logo.svg" group-title="Deportes", ESPN 7 • América Latina
-http://45.232.210.1:8029/play/a0at/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="323728" tvg-name="ESPN 6 • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1200px-ESPN_6_logo.svg.png" group-title="Deportes", ESPN 6 • América Latina
 http://45.181.122.46:8090/play/a01u?PlaylistM3UCL
 #EXTINF:-1 tvg-id="323360" tvg-name="ESPN 5 • América Latina" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:ESPN_5_logo.svg" group-title="Deportes", ESPN 5 • América Latina
@@ -18,5 +16,58 @@ http://181.13.252.102:8000/play/a05a/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT FULL HD" tvg-logo="https://i.ibb.co/7Lbfbbn/unnamed.jpg" group-title="TV LITE PLAY",TV LITE SPORT FULL HD
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137366
+
+#EXTINF:-1 group-title="Deportes Argentina",ESPN Premium HD
+http://181.13.252.102:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="Deportes Argentina",TNT Sports HD
+http://181.13.252.102:8000/play/a0bc/index.m3u8
+#EXTINF:0 group-title="Deportes Argentina",DIRECTV Sport
+http://179.43.96.253:8000/play/a24w/index.m3u8
+#EXTINF:0 group-title="Deportes Argentina",DIRECTV Sport no
+http://179.43.96.253:8000/play/a20a/index.m3u8
+#EXTINF:-1 group-title="Deportes Argentina",DSports HD
+http://177.10.184.193:8000/play/a0fc/index.m3u8
+#EXTINF:-1 group-title="Deportes Argentina",D SPORT +
+http://38.199.5.160:8000/play/a09q/index.m3u8
+#EXTINF:-1 group-title="Deportes Argentina",ESPN HD
+http://181.13.252.102:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="Deportes Argentina",ESPN 2 HD
+http://181.13.252.102:8000/play/a059/index.m3u8
+#EXTINF:- group-title="Deportes Argentina",ESPN 3 HD
+http://181.13.252.102:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="Deportes Argentina",ESPN 4 HD
+http://181.13.252.102:8000/play/a076/index.m3u8
+#EXTINF:-1 group-title="Deportes Argentina",Fox Sports HD
+http://181.13.252.102:8000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="Deportes Argentina",Fox Sports 2 HD
+http://181.13.252.102:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="Deportes Argentina",Fox Sports 3 HD
+http://181.13.252.102:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="Deportes Argentina",TyC Sports HD
+http://181.13.252.102:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="Deportes Argentina",TyC Sports 
+https://livetrx03.vodgc.net/tyc24/index.m3u8
+#EXTINF:-1 group-title="Deportes Argentina",DeporTV
+http://181.13.252.102:8000/play/a06h/index.m3u8
+
+
+#EXTINF:-1 group-title="Deportes Argentina",ESPN
+http://45.5.151.251:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Deportes Argentina",ESPN 2
+http://45.5.151.251:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Deportes Argentina",ESPN 3
+http://45.5.151.251:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Deportes Argentina",ESPN 4
+http://45.5.151.251:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Deportes Argentina",ESPN PREMIUM
+http://45.5.151.251:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Deportes Argentina",FOX SPORTS
+http://45.5.151.251:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Deportes Argentina",FOX SPORTS 2
+http://45.5.151.251:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Deportes Argentina",FOX SPORTS 3
+http://45.5.151.251:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Deportes Argentina",TNT SPORTS
+http://45.5.151.251:8000/play/a00p/index.m3u8
 
 
