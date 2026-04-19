@@ -305,9 +305,6 @@ https://tv.nousiptv.com:8443/mparodi/6900/1285663
 https://tv.nousiptv.com:8443/mparodi/6900/1285664
 
 
-
-
-
 #EXTINF:-1 tvg-id="321174" tvg-name="TV Pública • Argentina" tvg-logo="https://i.postimg.cc/cLtNCgRK/tvp.png" group-title="Argentina", TV Publica
 https://g5.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321697" tvg-name="El Nueve • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="Argentina", El Nueve
@@ -322,7 +319,6 @@ http://181.13.252.102:8000/play/a01s/index.m3u8?PlaylistM3UCL
 http://181.13.252.102:8000/play/a01q/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320880" tvg-name="América TV • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina", America
 http://181.13.252.102:8000/play/a055/index.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT FULL HD" tvg-logo="https://i.ibb.co/7Lbfbbn/unnamed.jpg" group-title="TV LITE PLAY",TV LITE SPORT FULL HD
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137366
 #EXTINF:-1 tvg-id="321566" tvg-name="ESPN Premium • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="Deportes", ESPN Premium
@@ -339,8 +335,11 @@ http://128.201.227.251:4000/play/a0er?PlaylistM3UCL
 http://181.13.252.102:8000/play/a059/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318341" tvg-name="ESPN • América Latina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPloc1JEBHcAbAwueDD-wwAoQFp_Tsxmfq9g&s" group-title="Deportes", ESPN
 http://181.13.252.102:8000/play/a05a/index.m3u8?PlaylistM3UCL
-
-
-
+#EXTINF: -1  tvg-id="america 2.ar" tvg-name="america 2.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="AR-TV",America
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF: -1 tvg-id="net tv.ar" tvg-name="Canal26.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-canal-26.png" group-title="AR-TV",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/ar-tvp.png" group-title="AR-TV", TVP
+https://g1.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 
