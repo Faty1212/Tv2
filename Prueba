@@ -14,3 +14,9 @@ http://128.201.227.251:4000/play/a0er?PlaylistM3UCL
 http://181.13.252.102:8000/play/a059/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318341" tvg-name="ESPN • América Latina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPloc1JEBHcAbAwueDD-wwAoQFp_Tsxmfq9g&s" group-title="Deportes", ESPN • América Latina
 http://181.13.252.102:8000/play/a05a/index.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT FULL HD" tvg-logo="https://i.ibb.co/7Lbfbbn/unnamed.jpg" group-title="TV LITE PLAY",TV LITE SPORT FULL HD
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137366
+
+
