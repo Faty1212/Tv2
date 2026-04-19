@@ -308,11 +308,6 @@ https://tv.nousiptv.com:8443/mparodi/6900/1285664
 
 
 
-#EXTINF:-0 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/292.png" group-title="ARGENTINA", TV PUBLICA
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zEquFz3S7xeuJr4/euh2Yg","kid":"zIyCrC7H6XmVJ8KdtzVOgQ"}]}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.ar/
-https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd
-
- 
+#EXTINF:-1 tvg-id="321174" tvg-name="TV Pública • Argentina" tvg-logo="https://i.postimg.cc/cLtNCgRK/tvp.png" group-title="Argentina", TV Pública • Argentina
+https://g5.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8?PlaylistM3UCL
 
