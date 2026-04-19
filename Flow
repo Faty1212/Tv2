@@ -314,14 +314,5 @@ https://tv.nousiptv.com:8443/mparodi/6900/1285664
 #EXTVLCOPT:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd
 
-#EXTINF:0,TV PUBLICA
-#EXTVLCOPT:network-caching=1000
-http://181.78.27.128:12543/play/a05l/index.m3u8
-#EXTINF:0,TV PUBLICA HD 
-#EXTVLCOPT:network-caching=1000
-http://181.78.27.128:12543/play/a04g/index.m3u8
-#EXTINF:11,TYC SPORT HD 
-#EXTVLCOPT:network-caching=1000
-http://181.78.27.128:12543/play/a04n/index.m3u8
-
+ 
 
