@@ -1,28 +1,28 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/files/argentina2.xml.gz,https://www.open-epg.com/files/argentina3.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,http://192.99.212.247/epg.xml"
 
-#EXTINF:0 group-title="Eventos en Vivo" ,DSPORTS +
+#EXTINF:0 group-title="Deportes" ,DSPORTS +
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592039.ts
-#EXTINF:0 group-title="Eventos en Vivo" ,DSPORTS 2
+#EXTINF:0 group-title="Deportes" ,DSPORTS 2
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592038.ts
-#EXTINF:0 group-title="Eventos en Vivo" ,DSPORTS URU
+#EXTINF:0 group-title="Deportes" ,DSPORTS URU
 http://br1.urutelam.com:8073/VTV%20HD%20URUGUAY?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:-1 group-title="Eventos en Vivo" ,ESPN
+#EXTINF:-1 group-title="Deportes" ,ESPN
 http://200.112.174.230/mtcast_espnhd/mpegts
-#EXTINF:-1 group-title="Eventos en Vivo" ,ESPN 2
+#EXTINF:-1 group-title="Deportes" ,ESPN 2
 http://200.112.174.230/mtcast_espn2hd/mpegts
-#EXTINF:-1 group-title="Eventos en Vivo" ,ESPN 3
+#EXTINF:-1 group-title="Deportes" ,ESPN 3
 http://200.112.174.230/mtcast_espn3hd/mpegts
-#EXTINF:-1 group-title="Eventos en Vivo" ,ESPN 4
+#EXTINF:-1 group-title="Deportes" ,ESPN 4
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-95.playlist.m3u8
-#EXTINF:0 group-title="Eventos en Vivo" ,ESPN 5
+#EXTINF:0 group-title="Deportes" ,ESPN 5
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-104.playlist.m3u8
-#EXTINF:0 group-title="Eventos en Vivo" ,ESPN 6
+#EXTINF:0 group-title="Deportes" ,ESPN 6
 http://181.78.82.6:46090/play/a00w/index.m3u8
-#EXTINF:0 group-title="Eventos en Vivo" ,ESPN 7
+#EXTINF:0 group-title="Deportes" ,ESPN 7
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-106.playlist.m3u8
-#EXTINF:-1 group-title="Eventos en Vivo" ,ESPN Premium
+#EXTINF:-1 group-title="Deportes" ,ESPN Premium
 http://200.112.174.230/mtcast_espnpremiumhd/mpegts
-#EXTINF:0 group-title="Eventos en Vivo" ,ESPN PREMIUM
+#EXTINF:0 group-title="Deportes" ,ESPN PREMIUM
 http://46.225.94.157/hls/espn/index.m3u8
 #EXTINF:-1 group-title="Eventos en Vivo" ,EVENTOS 01
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-01.playlist.m3u8
@@ -36,11 +36,11 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-04.playl
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-05.playlist.m3u8
 #EXTINF:0 group-title="Eventos en Vivo" ,EVENTOS 06
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-06.playlist.m3u8
-#EXTINF:-1 group-title="Eventos en Vivo" ,TNT Premium
+#EXTINF:-1 group-title="Deportes" ,TNT Premium
 http://200.112.174.230/mtcast_tntsportshd/mpegts
-#EXTINF:0 group-title="Eventos en Vivo" ,TNT Premium
+#EXTINF:0 group-title="Deportes" ,TNT Premium
 http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 group-title="Eventos en Vivo" ,TYC SPORTS
+#EXTINF:-1 group-title="Deportes" ,TYC SPORTS
 http://200.112.174.230/mtcast_tychd/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 1
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
