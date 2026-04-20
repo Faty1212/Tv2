@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/files/argentina2.xml.gz,https://www.open-epg.com/files/argentina3.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://epghub.xyz/epg/EPG-PLEX-RAKUTEN-SV.xml.gz,https://juno.epg.elektamedia.com/api/Programme/40mediaSpA/Juno/xml/allchannels/xmltv.xml,https://nocords.xyz/pluto/epg.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/br.xml.gz,http://192.99.212.247/epg.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/files/argentina2.xml.gz,https://www.open-epg.com/files/argentina3.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,http://192.99.212.247/epg.xml"
 
 #EXTINF:0 group-title="Eventos en Vivo" ,DSPORTS +
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592039.ts
