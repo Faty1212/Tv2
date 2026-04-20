@@ -21,20 +21,7 @@ http://181.13.252.102:8000/play/a05a/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Eventos en Vivo" ,DSPORTS (x)
 http://167.17.67.240:8888/DSPORTS/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Eventos en Vivo" ,ESPN
-http://200.112.174.230/mtcast_espnhd/mpegts
-#EXTINF:-1 group-title="Eventos en Vivo" ,ESPN 2
-http://200.112.174.230/mtcast_espn2hd/mpegts
-#EXTINF:-1 group-title="Eventos en Vivo" ,ESPN 3
-http://200.112.174.230/mtcast_espn3hd/mpegts
-#EXTINF:-1 group-title="Eventos en Vivo" ,ESPN 4
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-95.playlist.m3u8
-#EXTINF:0 group-title="Eventos en Vivo" ,ESPN 5
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-104.playlist.m3u8
-#EXTINF:0 group-title="Eventos en Vivo" ,ESPN 6
-http://181.78.82.6:46090/play/a00w/index.m3u8
-#EXTINF:0 group-title="Eventos en Vivo" ,ESPN 7
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-106.playlist.m3u8
+
 
 
 
