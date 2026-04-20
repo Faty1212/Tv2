@@ -187,25 +187,25 @@ http://181.78.7.90:12500/play/a00r/index.m3u8
 
 http://191.97.59.33:8000/play/a094/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.ESPN.(Chile).sv" tvg-name="CHI-Espn 1 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CHILE",DISNEY 1
+#EXTINF:-1 tvg-id="Canal.ESPN.(Chile).sv" tvg-name="CHI-Espn 1 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="⭐Eventos en Vivo⭐",DISNEY 1
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9905
 
 #EXTINF:0 tvg-id="ESPN.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", DISNEY OPC 2
 #EXTVLCOPT:network-caching=1000
 http://45.169.163.237:4000/play/a03e
 
-#EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="⭐ ALTERNATIVOS 4 ⭐",DISNEY 2
+#EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="⭐Eventos en Vivo⭐",DISNEY 2
 http://191.97.14.162:8000/play/a016/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=ed53871dc50dcdc59a6271db3c8c51b3:0c21dc8629e3f2e6fe9efa8b80dc447e
 
-#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="FLOW 3" ch-number="103" type="channel",DISNEY 3
+#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="⭐Eventos en Vivo⭐" ch-number="103" type="channel",DISNEY 3
 
 https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc_C/ESPN3_Uy-Py.mpd
 
-#EXTINF:-1 group-title="PACK FUTBOL",DISNEY 4
+#EXTINF:-1 group-title="⭐Eventos en Vivo⭐",DISNEY 4
 http://205.235.6.29:8000/play/a0pz/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="Deportes",Fox Sports 
@@ -302,7 +302,7 @@ http://181.13.252.102:8000/play/a01s/index.m3u8?PlaylistM3UCL
 http://181.13.252.102:8000/play/a01q/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320880" tvg-name="América TV • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina", America
 http://181.13.252.102:8000/play/a055/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT FULL HD" tvg-logo="https://i.ibb.co/7Lbfbbn/unnamed.jpg" group-title="TV LITE PLAY",TV LITE SPORT FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT FULL HD" tvg-logo="https://i.ibb.co/7Lbfbbn/unnamed.jpg" group-title="⭐Eventos en Vivo⭐",TV LITE SPORT FULL HD
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137366
 #EXTINF:-1 tvg-id="321566" tvg-name="ESPN Premium • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="⚽Deportes🏀", ESPN Premium
 http://45.181.122.46:8090/play/a015?PlaylistM3UCL
