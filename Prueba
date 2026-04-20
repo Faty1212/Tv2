@@ -24,8 +24,10 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-93.playl
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="sin señal", DSPORTS (x)
 http://190.108.89.228:8000/play/a05w/index.m3u8
-
-
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZuzidkljUdpUVMhKC0o-n7c_yA3YBCsf9Q&s" group-title="Sin señal", DSports 2 (x)
+http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/316
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1600px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="Deportes",DSPORTS (x)
+http://xpaneltv.com:8080/Alirf/78587421/172144
 
 
 
@@ -69,8 +71,7 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS
 http://217.26.190.76:8888/play/a0co/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1600px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="Deportes",DSPORTS (x)
-http://xpaneltv.com:8080/Alirf/78587421/172144
+
 
 #EXTINF:-1 tvg-id="Canal.Discovery.Kids.(Chile).cl" tvg-name="DEPORTES - Directv Sports 1 CHI (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="DEPORTES",DSports
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9561
@@ -81,9 +82,7 @@ http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9562
 #EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DEPORTES - Directv Sports 1 ECU (e)(720)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="DEPORTES",DSports
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9563
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZuzidkljUdpUVMhKC0o-n7c_yA3YBCsf9Q&s" group-title="Sin señal", DSports 2 (x)
 
-http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/316
 
 #EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="DEPORTES",DSPORTS 2
 
