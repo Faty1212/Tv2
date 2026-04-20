@@ -240,9 +240,6 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS
 http://217.26.190.76:8888/play/a0co/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
-http://190.108.89.228:8000/play/a05w/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1600px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="Deportes",DSPORTS
 http://xpaneltv.com:8080/Alirf/78587421/172144
 
