@@ -36,11 +36,11 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-04.playl
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-05.playlist.m3u8
 #EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 06
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-06.playlist.m3u8
-#EXTINF:-1 group-title="Deportes" ,TNT Premium
+#EXTINF:-1 group-title="⚽Deportes🏀" ,TNT Premium
 http://200.112.174.230/mtcast_tntsportshd/mpegts
-#EXTINF:0 group-title="Deportes" ,TNT Premium
+#EXTINF:0 group-title="⚽Deportes🏀" ,TNT Premium
 http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 group-title="Deportes" ,TYC SPORTS
+#EXTINF:-1 group-title="⚽Deportes🏀" ,TYC SPORTS
 http://200.112.174.230/mtcast_tychd/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="⭐Eventos en Vivo⭐", EVENTOS TICKET 1
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
@@ -48,7 +48,7 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="⭐Eventos en Vivo⭐", EVENTOS TICKET 3
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343477/jpaigp1p0weik0s8red0.png" group-title="Argentina",CNN en Español (C)
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343477/jpaigp1p0weik0s8red0.png" group-title="🇦🇷Argentina🇦🇷",CNN en Español (C)
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/d0l95-h7jlf-ilii6-4e3g9.m3u8
 
