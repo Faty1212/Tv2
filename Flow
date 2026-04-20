@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Eventos en Vivo" ,DSPORTS
-http://167.17.67.240:8888/DSPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Eventos en Vivo" ,DSPORTS +
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592039.ts
 #EXTINF:0 group-title="Eventos en Vivo" ,DSPORTS 2
