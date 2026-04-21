@@ -97,8 +97,15 @@ http://45.228.234.30:16000/play/a02e
 http://45.228.234.30:16000/play/a01n
 #EXTINF:-1,Warner FHD
 http://45.228.234.30:16000/play/a01o
-EXTINF:-1 tvg-id="" tvg-name="ESPN 1 FHD (Latino)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN 1 FHD (Latino)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 FHD (Latino)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN 1 FHD (Latino)
 http://xpaneltv.com:8080/Alirf/78587421/90573
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SUR FHD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN SUR FHD 1
+http://xpaneltv.com:8080/Alirf/78587421/224010
+
+
+
+
+
 
 
 
