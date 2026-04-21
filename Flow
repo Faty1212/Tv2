@@ -45,7 +45,7 @@ http://200.112.174.230/mtcast_espnpremiumhd/mpegts
 #EXTINF:0 group-title="⚽Deportes🏀" ,ESPN PREMIUM
 http://46.225.94.157/hls/espn/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="⚽Deportes🏀",ESPN Premium 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 #EXTINF:0 CUID="1366" tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="⚽Deportes🏀",Espn Premium
 http://190.7.19.197:232/play/a038/index.m3u8
@@ -56,7 +56,7 @@ http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157562
 #EXTINF:-1 tvg-id="321566" tvg-name="ESPN Premium • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="⚽Deportes🏀", ESPN Premium
 http://45.181.122.46:8090/play/a015?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxnmtt7S/lfpargentina.png" group-title="⚽Deportes🏀",TNT Premium 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/07-TNTSports.png?raw=true" group-title="⚽Deportes🏀",TNT Premium
 http://190.7.19.197:232/play/a037/index.m3u8
@@ -69,29 +69,29 @@ http://181.13.252.102:8000/play/a0bc/index.m3u8
 #EXTINF:-1 group-title="⚽Deportes🏀" ,TYC SPORTS
 http://200.112.174.230/mtcast_tychd/mpegts
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345246/bkxx3r33ra53vmbwc1qp.png" group-title="⚽Deportes🏀",TyC Sports
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8
 #EXTINF:-1 tvg-name="TyC Sports Play" tvg-logo="https://i.ibb.co/bsFcWYm/tycsportplay.png" group-title="⚽Deportes🏀",TyC Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 #EXTVLCOPT:http-referrer=https://play.tycsports.com/
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png" group-title="⚽Deportes🏀",ESPN 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham.m3u8
 #EXTINF:1 CUID="176" tvg-name="ESPN HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" tvg-id="ESPN.ar" group-title="⚽Deportes🏀",ESPN
 http://190.7.19.197:232/play/a03n/index.m3u8 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343621/dvoznks55wyxhidxt5tz.png" group-title="⚽Deportes🏀",ESPN 2 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/io3a7-ob45b-2dnm5-ac8ak.m3u8 
 #EXTINF:1 CUID="173" tvg-name="ESPN 2 HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png" tvg-id="ESPN2.ar" group-title="⚽Deportes🏀",ESPN 2
 http://190.7.19.197:232/play/a03m/index.m3u8 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343670/ypj5fzsecjbhs6itvldj.png" group-title="⚽Deportes🏀",ESPN 3
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
 #EXTINF:1 CUID="174" tvg-name="ESPN 3 HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png" tvg-id="ESPN3.ar" group-title="⚽Deportes🏀",ESPN 3
 http://190.7.19.197:232/play/a03o/index.m3u8 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1708005521/wazxwdf0tycbg0qc6jwt.png" group-title="⚽Deportes🏀",ESPN 4 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8 
 #EXTINF:1 CUID="175" tvg-name="ESPN 4 HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/800/542/0/0/16514023071132.png" tvg-id="ESPN4.ar" group-title="⚽Deportes🏀",ESPN 4
 http://190.7.19.197:232/play/a05t/index.m3u8
@@ -103,13 +103,13 @@ http://181.78.7.90:12500/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://foro.univers.la/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" group-title="⚽Deportes🏀",ESPN 7
 http://191.97.59.33:8000/play/a094/index.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="⚽Deportes🏀",Fox Sports 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344086/ga6vdlikxfa3c8puixeq.png" group-title="⚽Deportes🏀",Fox Sports 2 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/km6lk-2io4c-7f9jm-peep.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344107/fdnnmnk6gnmfoggvvh8t.png" group-title="⚽Deportes🏀",Fox Sports 3 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/nhpm-b5ank-dc0f8-23dl8.m3u8
 #EXTINF:-1 tvg-id="323728" tvg-name="ESPN 6 • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1200px-ESPN_6_logo.svg.png" group-title="⚽Deportes🏀", ESPN 6
 http://45.181.122.46:8090/play/a01u?PlaylistM3UCL
@@ -180,14 +180,14 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137366
 
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343477/jpaigp1p0weik0s8red0.png" group-title="🇦🇷Argentina🇦🇷",CNN en Español (C)
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/d0l95-h7jlf-ilii6-4e3g9.m3u8
 #EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", Argentina 12
 https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc_C/Investigacion_Periodistica.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343495/lfiirtos0kntrahjmmro.png" group-title="🇦🇷Argentina🇦🇷",Cronica 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/50l1p-9en4e-g05p7-n6588.m3u8
 #EXTINF:-1 tvg-id="320169" tvg-name="Crónica TV • Argentina" tvg-logo="https://i.ytimg.com/vi/avly0uwZzOE/maxresdefault.jpg" group-title="🇦🇷Argentina🇦🇷", Cronica
 http://181.13.252.102:8000/play/a01q/index.m3u8?PlaylistM3UCL
@@ -196,10 +196,10 @@ https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tT42fk7G/a24logo.png" group-title="🇦🇷Argentina🇦🇷",A24 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/eh9gc-bail8-o30pk-k1hih.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/c5n.png" group-title="🇦🇷Argentina🇦🇷",C5N 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i.m3u8
 #EXTINF:-1 tvg-id="330183" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="🇦🇷Argentina🇦🇷", C5N
 http://181.13.252.102:8000/play/a01p/index.m3u8?PlaylistM3UCL
@@ -208,7 +208,7 @@ https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344457/fcjc3stfsqmhfiwhg3gl.png" group-title="🇦🇷Argentina🇦🇷",LN+ 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
 #EXTINF:-1 tvg-id="320017" tvg-name="LN Más • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="🇦🇷Argentina🇦🇷", LN+
 http://181.13.252.102:8000/play/a01s/index.m3u8?PlaylistM3UCL
@@ -217,7 +217,7 @@ https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343427/vhidvtxodaxhsijzvbok.png" group-title="🇦🇷Argentina🇦🇷",Canal 26 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/l4bk3-m0kk9-e914k-dm053.m3u8
 #EXTINF: -1 tvg-id="net tv.ar" tvg-name="Canal26.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-canal-26.png" group-title="🇦🇷Argentina🇦🇷",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
@@ -226,7 +226,7 @@ https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_C/26_TV_HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343409/r6vbn4n6dfsem4thbh7g.png" group-title="🇦🇷Argentina🇦🇷",El Nueve 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 #EXTINF:-1 tvg-id="321697" tvg-name="El Nueve • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="🇦🇷Argentina🇦🇷", El Nueve
 http://181.13.252.102:8000/play/a04h/index.m3u8?PlaylistM3UCL
@@ -255,10 +255,10 @@ https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="ARG - TELEFE ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="🇦🇷ARGENTINA🇦🇷",TELEFE
 http://gama-mx.com:8080/PEDRO1984@/PEDRO1984@/50510.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345069/wy5gze1xto6u7pzndpo4.png" group-title="🇦🇷Argentina🇦🇷",TN
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343316/lbquokaz3dmb2gtsynxh.png" group-title="🇦🇷Argentina🇦🇷",TV Publica
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
 #EXTINF:-1 ch-number="11" tvg-id="La TV Pública (ARG).ar" tvg-logo="https://i.postimg.cc/5t1Qr2mk/LEP.png" group-title="🇦🇷Argentina🇦🇷", TV Pública
 https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd	
@@ -269,7 +269,7 @@ https://g5.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/ar-tvp.png" group-title="🇦🇷Argentina🇦🇷", TV Publica 
 https://g1.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345193/qp8dffd1cyk93u2guoqx.png" group-title="🇦🇷Argentina🇦🇷",El Trece
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
@@ -313,7 +313,7 @@ http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/184317
 
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343539/hbtoaryt4rspl7nuvo5f.png" group-title="🧩Infantil🧩",Disney Channel 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/g0hl8-7cc8c-58lnc-8d80n.m3u8
 
 
@@ -350,25 +350,25 @@ http://190.7.19.197:232/play/a03p/index.m3u8
 #EXTINF:1 CUID="189" tvg-name="Fox Sports 3 HD" tvg-logo="https://logo.m3uassets.com/foxsports3.png" tvg-id="FOXSports3.ar" group-title="⚽Deportes🏀",Fox Sports 3 HD (S)
 http://190.7.19.197:232/play/a04x/index.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343459/qeyq8c2njqjrpfvzwhmz.png" group-title="🧩Infantil🧩",Cartoon Network 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/f33ci-2pl6j-7pki5-goboo.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345162/dr9opo1wgzz6rjqestvs.png" group-title="🧩Infantil🧩",Tooncast 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/9649e-56dn4-4b1g5-dilf.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345870/wz2y1iajjlrvbuajnsw9.png" group-title="🧩Infantil🧩",Zoo Moo 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/gpn0p-h6fp8-7689p-kkcc6.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344683/o5wmeruzw6cwdozlkb64.png" group-title="🧩Infantil🧩",Paka Paka 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343332/k6apxdxseirljmuvoctg.png" group-title="🧩Infantil🧩",Baby TV 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/6onej-bja31-d1m6a-99and.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684348314/yvbj7oz3ujktnle6so2a.png" group-title="🧩Infantil🧩",Canal Infantil 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1750353500/e02amybvvycqtiovtkxy.png" group-title="🧩Infantil🧩",Plim Plim TV 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/mb6hp-85n73-pedjc-o07ef.m3u8
 #EXTINF:-1   tvg-id="VOLVER.ar" tvg-logo="https://i.postimg.cc/tR1jTzHt/Fondo-Oscuro.png" group-title="🎬Cine, Novelas y Series🎥", Volver
 https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_C/Volver.mpd
