@@ -379,7 +379,7 @@ http://190.7.19.197:232/play/a01o/index.m3u8
 http://190.7.19.197:232/play/a04z/index.m3u8
 #EXTINF:1 CUID="192" tvg-name="HBO" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/800/542/0/0/228799490721.png" tvg-id="HBO.ar" group-title="🎬Cine, Novelas y Series🎥",HBO (S)
 http://190.7.19.197:232/play/a05e/index.m3u8
-#EXTINF:1 CUID="193" tvg-name="HBO 2" tvg-logo="https://logo.m3uassets.com/hbo2.png" tvg-id="HBO2.ar" group-title="Cine, Novelas y Series",HBO 2 (S)
+#EXTINF:1 CUID="193" tvg-name="HBO 2" tvg-logo="https://logo.m3uassets.com/hbo2.png" tvg-id="HBO2.ar" group-title="🎬Cine, Novelas y Series🎥",HBO 2 (S)
 http://190.7.19.197:232/play/a05g/index.m3u8
 #EXTINF:1 CUID="194" tvg-name="HBO Family" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/800/542/0/0/7354519807335.png" tvg-id="HBOFamily.ar" group-title="🎬Cine, Novelas y Series🎥",HBO Family (S)
 http://190.7.19.197:232/play/a01m/index.m3u8
@@ -484,5 +484,5 @@ http://190.7.19.197:232/play/a019/index.m3u8
 http://190.7.19.197:232/play/a03h/index.m3u8
 #EXTINF:1 CUID="213" tvg-name="Nat Geo HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/110/CH_LOGO/800/542/0/0/83674247072710.png" tvg-id="NationalGeographic.ar" group-title="Variedades",Nat Geo 
 http://190.7.19.197:232/play/a03s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Reality-Gran Hermano - 24 hs (L)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="CANALES-REALITY LIVE",Gran Hermano - 24 hs 
+#EXTINF:-1 tvg-id="" tvg-name="Reality-Gran Hermano - 24 hs (L)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="Reality Show",Gran Hermano - 24 hs 
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/184317
