@@ -65,7 +65,38 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlis
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Canal-13-Jujuy-en-vivo-Online.png?fit=1920%2C1080&ssl=1"group-title="CRISTIANO",13 TRECE HD
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-
+EXTINF:-1,Hbo FHD
+http://45.228.234.30:16000/play/a008
+#EXTINF:-1,Hbo2 FHD
+http://45.228.234.30:16000/play/a009
+#EXTINF:-1,Hbo+ FHD
+http://45.228.234.30:16000/play/a00a
+#EXTINF:-1,Hbo family FHD
+http://45.228.234.30:16000/play/a00b
+#EXTINF:-1,Hbo xtreme FHD
+http://45.228.234.30:16000/play/a00c
+#EXTINF:-1,Paramount SD
+http://45.228.234.30:16000/play/a004
+#EXTINF:-1,Dhe SD
+http://45.228.234.30:16000/play/a003
+#EXTINF:-1,History FHD
+http://45.228.234.30:16000/play/a011
+#EXTINF:-1,Multipremier SD
+http://45.228.234.30:16000/play/a025
+#EXTINF:-1,Cinemax SD
+http://45.228.234.30:16000/play/a027
+#EXTINF:-1,Studio SD
+http://45.228.234.30:16000/play/a028
+#EXTINF:-1,Cinecanal FHD
+http://45.228.234.30:16000/play/a01q
+#EXTINF:-1,SonyChannel FHD
+http://45.228.234.30:16000/play/a01p
+#EXTINF:-1,Space FHD
+http://45.228.234.30:16000/play/a02e
+#EXTINF:-1,Star FHD
+http://45.228.234.30:16000/play/a01n
+#EXTINF:-1,Warner FHD
+http://45.228.234.30:16000/play/a01o
 
 
 
