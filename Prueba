@@ -14,20 +14,14 @@ http://181.13.252.102:8000/play/a059/index.m3u8?PlaylistM3UCL
 http://181.13.252.102:8000/play/a05a/index.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 group-title="Sin señal" ,DSPORTS (x)
-http://167.17.67.240:8888/DSPORTS/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Sin señal" ,FOX SPORTS (x)
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
 #EXTINF:-1 group-title="Sin señal" ,FOX SPORTS 2 (x)
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-93.playlist.m3u8
 #EXTINF:-1 group-title="Sin señal" ,FOX SPORTS 3 (x)
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="sin señal", DSPORTS (x)
-http://190.108.89.228:8000/play/a05w/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZuzidkljUdpUVMhKC0o-n7c_yA3YBCsf9Q&s" group-title="Sin señal", DSports 2 (x)
-http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/316
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1600px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="Deportes",DSPORTS (x)
-http://xpaneltv.com:8080/Alirf/78587421/172144
+
 
 
 
@@ -40,7 +34,32 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd
 http://181.13.252.102:8000/play/a06c/index.m3u8
 #EXTINF:-1 group-title="CANALES 24/7", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:-1, DSPORTS 🇦🇷
+http://201.230.121.186:8000/play/a0od/index.m3u8
 
+#EXTINF:-1, DSPORTS 1 🇦🇷
+http://201.230.121.85:8000/play/a0yv/index.m3u8
+
+#EXTINF:-1, DSPORTS 1 🇦🇷
+http://190.117.20.37:8000/play/a08d/index.m3u8
+
+#EXTINF:-1, DSPORTS 1 🇦🇷
+http://190.117.20.39:8000/play/a08d/index.m3u8
+
+#EXTINF:-1, ESPN 🇦🇷
+http://45.173.74.2:2010/play/a08a/index.m3u8
+
+#EXTINF:-1, ESPN 2 🇦🇷
+http://181.205.130.194:4000/play/a07i
+
+#EXTINF:-1, ESPN 2 🇦🇷
+http://191.97.49.82:8001/play/a00m/index.m3u8
+
+#EXTINF:-1, ESPN 3 🇦🇷
+http://167.250.223.26:8085/play/a069/index.m3u8
+
+#EXTINF:-1, ESPN PREMIUM 🇦🇷
+http://167.250.223.26:8085/play/a04g/index.m3u8
 
 
 
