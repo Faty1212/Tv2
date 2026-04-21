@@ -111,7 +111,7 @@ http://200.10.30.241:8000/play/a01r/index.m3u8
 https://t.freetv.fun/live/telefe.m3u8
 #EXTINF:-1 ,LA: Telefe FHD
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/31879.ts
-
+#EXTINF:-1  ch-number="11" tvg-id="telefe" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="Argentina", Telefé
 
 
 
