@@ -102,12 +102,16 @@ http://217.26.190.76:8888/play/a0kh/index.m3u8
 http://181.78.7.90:12500/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://foro.univers.la/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" group-title="⚽Deportes🏀",ESPN 7
 http://191.97.59.33:8000/play/a094/index.m3u8
+#EXTINF:1 CUID="190" tvg-name="Fox Sports HD" tvg-logo="https://logo.m3uassets.com/foxsports.png" tvg-id="FOXSports.ar" group-title="⚽Deportes🏀",Fox Sports
+http://190.7.19.197:232/play/a05u/index.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="⚽Deportes🏀",Fox Sports 
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344086/ga6vdlikxfa3c8puixeq.png" group-title="⚽Deportes🏀",Fox Sports 2 
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/km6lk-2io4c-7f9jm-peep.m3u8
+#EXTINF:1 CUID="189" tvg-name="Fox Sports 3 HD" tvg-logo="https://logo.m3uassets.com/foxsports3.png" tvg-id="FOXSports3.ar" group-title="⚽Deportes🏀",Fox Sports 3
+http://190.7.19.197:232/play/a04x/index.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344107/fdnnmnk6gnmfoggvvh8t.png" group-title="⚽Deportes🏀",Fox Sports 3 
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/nhpm-b5ank-dc0f8-23dl8.m3u8
@@ -315,6 +319,27 @@ http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/184317
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343539/hbtoaryt4rspl7nuvo5f.png" group-title="🧩Infantil🧩",Disney Channel 
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/g0hl8-7cc8c-58lnc-8d80n.m3u8
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343459/qeyq8c2njqjrpfvzwhmz.png" group-title="🧩Infantil🧩",Cartoon Network 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/f33ci-2pl6j-7pki5-goboo.m3u8
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345162/dr9opo1wgzz6rjqestvs.png" group-title="🧩Infantil🧩",Tooncast 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/9649e-56dn4-4b1g5-dilf.m3u8
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345870/wz2y1iajjlrvbuajnsw9.png" group-title="🧩Infantil🧩",Zoo Moo 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/gpn0p-h6fp8-7689p-kkcc6.m3u8
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344683/o5wmeruzw6cwdozlkb64.png" group-title="🧩Infantil🧩",Paka Paka 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9.m3u8
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343332/k6apxdxseirljmuvoctg.png" group-title="🧩Infantil🧩",Baby TV 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/6onej-bja31-d1m6a-99and.m3u8
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684348314/yvbj7oz3ujktnle6so2a.png" group-title="🧩Infantil🧩",Canal Infantil 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1750353500/e02amybvvycqtiovtkxy.png" group-title="🧩Infantil🧩",Plim Plim TV 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/mb6hp-85n73-pedjc-o07ef.m3u8
 
 
 
@@ -343,33 +368,9 @@ https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_C/CNN_en_Es
 
 
 
-#EXTINF:1 CUID="190" tvg-name="Fox Sports HD" tvg-logo="https://logo.m3uassets.com/foxsports.png" tvg-id="FOXSports.ar" group-title="⚽Deportes🏀",Fox Sports HD (S)
-http://190.7.19.197:232/play/a05u/index.m3u8
-#EXTINF:1 CUID="188" tvg-name="Fox Sports 2 HD" tvg-logo="https://logo.m3uassets.com/foxsports2.png" tvg-id="FOXSports2.ar" group-title="⚽Deportes🏀",Fox Sports 2 HD (S)
-http://190.7.19.197:232/play/a03p/index.m3u8
-#EXTINF:1 CUID="189" tvg-name="Fox Sports 3 HD" tvg-logo="https://logo.m3uassets.com/foxsports3.png" tvg-id="FOXSports3.ar" group-title="⚽Deportes🏀",Fox Sports 3 HD (S)
-http://190.7.19.197:232/play/a04x/index.m3u8
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343459/qeyq8c2njqjrpfvzwhmz.png" group-title="🧩Infantil🧩",Cartoon Network 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/f33ci-2pl6j-7pki5-goboo.m3u8
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345162/dr9opo1wgzz6rjqestvs.png" group-title="🧩Infantil🧩",Tooncast 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/9649e-56dn4-4b1g5-dilf.m3u8
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345870/wz2y1iajjlrvbuajnsw9.png" group-title="🧩Infantil🧩",Zoo Moo 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/gpn0p-h6fp8-7689p-kkcc6.m3u8
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344683/o5wmeruzw6cwdozlkb64.png" group-title="🧩Infantil🧩",Paka Paka 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9.m3u8
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343332/k6apxdxseirljmuvoctg.png" group-title="🧩Infantil🧩",Baby TV 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/6onej-bja31-d1m6a-99and.m3u8
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684348314/yvbj7oz3ujktnle6so2a.png" group-title="🧩Infantil🧩",Canal Infantil 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1750353500/e02amybvvycqtiovtkxy.png" group-title="🧩Infantil🧩",Plim Plim TV 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/mb6hp-85n73-pedjc-o07ef.m3u8
+
+
+
 #EXTINF:-1   tvg-id="VOLVER.ar" tvg-logo="https://i.postimg.cc/tR1jTzHt/Fondo-Oscuro.png" group-title="🎬Cine, Novelas y Series🎥", Volver
 https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_C/Volver.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
