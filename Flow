@@ -8,8 +8,24 @@ url-tvg="https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://www.open-ep
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592039.ts
 #EXTINF:0 group-title="⚽Deportes🏀" ,DSPORTS 2
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592038.ts
-#EXTINF:0 group-title="⚽Deportes🏀" ,DSPORTS URU
+#EXTINF:0 group-title="⚽Deportes🏀" ,DSPORTS (URU)
 http://br1.urutelam.com:8073/VTV%20HD%20URUGUAY?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="⚽Deportes🏀", DSPORTS
+http://217.26.190.76:8888/play/a0co/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Discovery.Kids.(Chile).cl" tvg-name="DEPORTES - Directv Sports 1 CHI (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="⚽DEPORTES🏀",DSports (Chi)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9561
+#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DEPORTES - Directv Sports 1 ECU (e)(1080)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="⚽DEPORTES🏀",DSports (Ecu)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9562
+#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DEPORTES - Directv Sports 1 ECU (e)(720)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="⚽DEPORTES🏀",DSports (Ecu)
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9563
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="⚽Deportes🏀",DSPORTS 2
+https://tv.nousiptv.com:8443/Henrymaria/Perato/32882
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFK_heqWba22Mvq468L1tEM42AcS0CHGuiA&s" group-title="⚽Deportes🏀",Dsports +
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - DIRECTV SPORTS PLUS SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="⚽Deportes🏀",DSPORTS +
+https://tv.nousiptv.com:8443/Henrymaria/Perato/8520
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
 #EXTINF:-1 group-title="⚽Deportes🏀" ,ESPN
 http://200.112.174.230/mtcast_espnhd/mpegts
 #EXTINF:-1 group-title="⚽Deportes🏀" ,ESPN 2
@@ -32,8 +48,6 @@ http://46.225.94.157/hls/espn/index.m3u8
 http://200.112.174.230/mtcast_tntsportshd/mpegts
 #EXTINF:0 group-title="⚽Deportes🏀" ,TNT Premium
 http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 group-title="⚽Deportes🏀" ,TYC SPORTS
-http://200.112.174.230/mtcast_tychd/mpegts
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="⚽Deportes🏀",ESPN Premium 
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
@@ -43,6 +57,8 @@ http://190.7.19.197:232/play/a038/index.m3u8
 http://181.13.252.102:8000/play/a078/index.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="⚽Deportes🏀",ESPN Premium
 http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157562
+#EXTINF:-1 tvg-id="321566" tvg-name="ESPN Premium • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="⚽Deportes🏀", ESPN Premium
+http://45.181.122.46:8090/play/a015?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxnmtt7S/lfpargentina.png" group-title="⚽Deportes🏀",TNT Premium 
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
@@ -50,6 +66,8 @@ https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 http://190.7.19.197:232/play/a037/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="⚽Deportes🏀", TNT Premium
 http://181.13.252.102:8000/play/a0bc/index.m3u8
+#EXTINF:-1 group-title="⚽Deportes🏀" ,TYC SPORTS
+http://200.112.174.230/mtcast_tychd/mpegts
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345246/bkxx3r33ra53vmbwc1qp.png" group-title="⚽Deportes🏀",TyC Sports
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8
@@ -93,24 +111,6 @@ https://joy.nx-pc.edge-apps.net/hls/km6lk-2io4c-7f9jm-peep.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344107/fdnnmnk6gnmfoggvvh8t.png" group-title="⚽Deportes🏀",Fox Sports 3 
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/nhpm-b5ank-dc0f8-23dl8.m3u8
-#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="⚽Deportes🏀", DSPORTS
-http://217.26.190.76:8888/play/a0co/index.m3u8
-#EXTINF:-1 tvg-id="Canal.Discovery.Kids.(Chile).cl" tvg-name="DEPORTES - Directv Sports 1 CHI (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="⚽DEPORTES🏀",DSports
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9561
-#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DEPORTES - Directv Sports 1 ECU (e)(1080)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="⚽DEPORTES🏀",DSports
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9562
-#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DEPORTES - Directv Sports 1 ECU (e)(720)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="⚽DEPORTES🏀",DSports
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9563
-#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="⚽Deportes🏀",DSPORTS 2
-https://tv.nousiptv.com:8443/Henrymaria/Perato/32882
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFK_heqWba22Mvq468L1tEM42AcS0CHGuiA&s" group-title="⚽Deportes🏀",Dsports +
-http://217.26.190.76:8888/play/a0jb/index.m3u8
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - DIRECTV SPORTS PLUS SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="⚽Deportes🏀",DSPORTS +
-https://tv.nousiptv.com:8443/Henrymaria/Perato/8520
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
-#EXTINF:-1 tvg-id="321566" tvg-name="ESPN Premium • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="⚽Deportes🏀", ESPN Premium
-http://45.181.122.46:8090/play/a015?PlaylistM3UCL
 #EXTINF:-1 tvg-id="323728" tvg-name="ESPN 6 • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1200px-ESPN_6_logo.svg.png" group-title="⚽Deportes🏀", ESPN 6
 http://45.181.122.46:8090/play/a01u?PlaylistM3UCL
 #EXTINF:-1 tvg-id="323360" tvg-name="ESPN 5 • América Latina" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:ESPN_5_logo.svg" group-title="⚽Deportes🏀", ESPN 5
