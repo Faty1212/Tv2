@@ -3,6 +3,7 @@ url-tvg="https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://www.open-ep
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
 
+
 #EXTINF:0 group-title="⚽Deportes🏀" ,DSPORTS +
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592039.ts
 #EXTINF:0 group-title="⚽Deportes🏀" ,DSPORTS 2
@@ -108,6 +109,21 @@ http://217.26.190.76:8888/play/a0jb/index.m3u8
 https://tv.nousiptv.com:8443/Henrymaria/Perato/8520
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
+#EXTINF:-1 tvg-id="321566" tvg-name="ESPN Premium • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="⚽Deportes🏀", ESPN Premium
+http://45.181.122.46:8090/play/a015?PlaylistM3UCL
+#EXTINF:-1 tvg-id="323728" tvg-name="ESPN 6 • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1200px-ESPN_6_logo.svg.png" group-title="⚽Deportes🏀", ESPN 6
+http://45.181.122.46:8090/play/a01u?PlaylistM3UCL
+#EXTINF:-1 tvg-id="323360" tvg-name="ESPN 5 • América Latina" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:ESPN_5_logo.svg" group-title="⚽Deportes🏀", ESPN 5
+http://45.181.122.46:8090/play/a01i?PlaylistM3UCL
+#EXTINF:-1 tvg-id="323359" tvg-name="ESPN 4 • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png" group-title="⚽Deportes🏀", ESPN 4
+http://128.201.227.251:4000/play/a0es?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318343" tvg-name="ESPN 3 • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="⚽Deportes🏀", ESPN 3
+http://128.201.227.251:4000/play/a0er?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318342" tvg-name="ESPN 2 • América Latina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkr2RzuQwTckHKkKyRG6lJD-RyjurAfRqxQ&s" group-title="⚽Deportes🏀", ESPN 2
+http://181.13.252.102:8000/play/a059/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318341" tvg-name="ESPN • América Latina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPloc1JEBHcAbAwueDD-wwAoQFp_Tsxmfq9g&s" group-title="⚽Deportes🏀", ESPN
+http://181.13.252.102:8000/play/a05a/index.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 01
@@ -156,6 +172,11 @@ https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
 https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
+#EXTINF:-1 ch-number="11" tvg-id="Flow Sports.ar" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/53028730071359.png" group-title="⭐Eventos en Vivo⭐", Flow Sports
+https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_C/Eventos1HD.mpd
+#EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT FULL HD" tvg-logo="https://i.ibb.co/7Lbfbbn/unnamed.jpg" group-title="⭐Eventos en Vivo⭐",TV LITE SPORT FULL HD
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137366
+
 
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343477/jpaigp1p0weik0s8red0.png" group-title="🇦🇷Argentina🇦🇷",CNN en Español (C)
@@ -207,43 +228,6 @@ https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
 https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
-
-
-#EXTINF:-1 ch-number="11" tvg-id="El Doce CANAL 12 DE CORDOBA.ar" tvg-logo="https://i.postimg.cc/mk9jsWhc/Logo-1.png" group-title="🇦🇷Interior Argentina🇦🇷", eldoce Córdoba
-https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_C/Canal_12_CBA.mpd
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 ch-number="11" tvg-id="Flow Sports.ar" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/53028730071359.png" group-title="⚽Deportes🏀", Flow Sports
-https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_C/Eventos1HD.mpd
-
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343539/hbtoaryt4rspl7nuvo5f.png" group-title="Infantil",Disney Channel 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/g0hl8-7cc8c-58lnc-8d80n.m3u8
-
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343555/qquu2rgawhx5vewx5k5s.png" group-title="Infantil",Disney Jr 
-#EXTVLCOPT:http-us
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="Reality Show",GH PRINCIPAL
-https://tv.nousiptv.com:8443/mparodi/6900/1285296
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="Reality Show",GH CAM 1
-https://tv.nousiptv.com:8443/mparodi/6900/1285661
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="Reality Show",GH CAM 2
-https://tv.nousiptv.com:8443/mparodi/6900/1285662
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="Reality Show",GH CAM 3
-https://tv.nousiptv.com:8443/mparodi/6900/1285663
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="Reality Show",GH MULTICÁMARA
-https://tv.nousiptv.com:8443/mparodi/6900/1285664
-
-
 #EXTINF:-1 tvg-id="321174" tvg-name="TV Pública • Argentina" tvg-logo="https://i.postimg.cc/cLtNCgRK/tvp.png" group-title="🇦🇷Argentina🇦🇷", TV Publica
 https://g5.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321697" tvg-name="El Nueve • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="🇦🇷Argentina🇦🇷", El Nueve
@@ -258,28 +242,52 @@ http://181.13.252.102:8000/play/a01s/index.m3u8?PlaylistM3UCL
 http://181.13.252.102:8000/play/a01q/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320880" tvg-name="América TV • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="🇦🇷Argentina🇦🇷", America
 http://181.13.252.102:8000/play/a055/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT FULL HD" tvg-logo="https://i.ibb.co/7Lbfbbn/unnamed.jpg" group-title="⭐Eventos en Vivo⭐",TV LITE SPORT FULL HD
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137366
-#EXTINF:-1 tvg-id="321566" tvg-name="ESPN Premium • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="⚽Deportes🏀", ESPN Premium
-http://45.181.122.46:8090/play/a015?PlaylistM3UCL
-#EXTINF:-1 tvg-id="323728" tvg-name="ESPN 6 • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1200px-ESPN_6_logo.svg.png" group-title="⚽Deportes🏀", ESPN 6
-http://45.181.122.46:8090/play/a01u?PlaylistM3UCL
-#EXTINF:-1 tvg-id="323360" tvg-name="ESPN 5 • América Latina" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:ESPN_5_logo.svg" group-title="⚽Deportes🏀", ESPN 5
-http://45.181.122.46:8090/play/a01i?PlaylistM3UCL
-#EXTINF:-1 tvg-id="323359" tvg-name="ESPN 4 • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png" group-title="⚽Deportes🏀", ESPN 4
-http://128.201.227.251:4000/play/a0es?PlaylistM3UCL
-#EXTINF:-1 tvg-id="318343" tvg-name="ESPN 3 • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="⚽Deportes🏀", ESPN 3
-http://128.201.227.251:4000/play/a0er?PlaylistM3UCL
-#EXTINF:-1 tvg-id="318342" tvg-name="ESPN 2 • América Latina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkr2RzuQwTckHKkKyRG6lJD-RyjurAfRqxQ&s" group-title="⚽Deportes🏀", ESPN 2
-http://181.13.252.102:8000/play/a059/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="318341" tvg-name="ESPN • América Latina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPloc1JEBHcAbAwueDD-wwAoQFp_Tsxmfq9g&s" group-title="⚽Deportes🏀", ESPN
-http://181.13.252.102:8000/play/a05a/index.m3u8?PlaylistM3UCL
 #EXTINF: -1  tvg-id="america 2.ar" tvg-name="america 2.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="🇦🇷Argentina🇦🇷",America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF: -1 tvg-id="net tv.ar" tvg-name="Canal26.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-canal-26.png" group-title="🇦🇷Argentina🇦🇷",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/ar-tvp.png" group-title="🇦🇷Argentina🇦🇷", TV Publica 
 https://g1.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+
+
+
+#EXTINF:-1 ch-number="11" tvg-id="El Doce CANAL 12 DE CORDOBA.ar" tvg-logo="https://i.postimg.cc/mk9jsWhc/Logo-1.png" group-title="🇦🇷Interior Argentina🇦🇷", eldoce Córdoba
+https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_C/Canal_12_CBA.mpd
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="Reality Show",GH PRINCIPAL
+https://tv.nousiptv.com:8443/mparodi/6900/1285296
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="Reality Show",GH CAM 1
+https://tv.nousiptv.com:8443/mparodi/6900/1285661
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="Reality Show",GH CAM 2
+https://tv.nousiptv.com:8443/mparodi/6900/1285662
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="Reality Show",GH CAM 3
+https://tv.nousiptv.com:8443/mparodi/6900/1285663
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="Reality Show",GH MULTICÁMARA
+https://tv.nousiptv.com:8443/mparodi/6900/1285664
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343539/hbtoaryt4rspl7nuvo5f.png" group-title="Infantil",Disney Channel 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/g0hl8-7cc8c-58lnc-8d80n.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343555/qquu2rgawhx5vewx5k5s.png" group-title="Infantil",Disney Jr 
+#EXTVLCOPT:http-us
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="Interés General"  tvg-id="[TODONOT].Todo.Noticias.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/800/542/0/0/859370090736.png" group-title="Interés General", TN
