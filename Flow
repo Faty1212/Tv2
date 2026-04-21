@@ -266,7 +266,8 @@ https://tv.nousiptv.com:8443/mparodi/6900/1285662
 https://tv.nousiptv.com:8443/mparodi/6900/1285663
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="Reality Show",GH MULTICÁMARA
 https://tv.nousiptv.com:8443/mparodi/6900/1285664
-
+#EXTINF:-1 tvg-id="" tvg-name="Reality-Gran Hermano - 24 hs (L)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="Reality Show",GH PRINCIPAL
+http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/184317
 
 
 
@@ -484,5 +485,4 @@ http://190.7.19.197:232/play/a019/index.m3u8
 http://190.7.19.197:232/play/a03h/index.m3u8
 #EXTINF:1 CUID="213" tvg-name="Nat Geo HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/110/CH_LOGO/800/542/0/0/83674247072710.png" tvg-id="NationalGeographic.ar" group-title="Variedades",Nat Geo 
 http://190.7.19.197:232/play/a03s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Reality-Gran Hermano - 24 hs (L)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="Reality Show",Gran Hermano - 24 hs 
-http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/184317
+
