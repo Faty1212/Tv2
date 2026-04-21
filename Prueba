@@ -36,6 +36,32 @@ http://xpaneltv.com:8080/Alirf/78587421/172144
 
 
 
+#EXTINF:1 CUID="190" tvg-name="Fox Sports HD" tvg-logo="https://logo.m3uassets.com/foxsports.png" tvg-id="FOXSports.ar" group-title="⚽Deportes🏀",Fox Sports HD (S)
+http://190.7.19.197:232/play/a05u/index.m3u8
+#EXTINF:1 CUID="188" tvg-name="Fox Sports 2 HD" tvg-logo="https://logo.m3uassets.com/foxsports2.png" tvg-id="FOXSports2.ar" group-title="⚽Deportes🏀",Fox Sports 2 HD (S)
+http://190.7.19.197:232/play/a03p/index.m3u8
+#EXTINF:1 CUID="189" tvg-name="Fox Sports 3 HD" tvg-logo="https://logo.m3uassets.com/foxsports3.png" tvg-id="FOXSports3.ar" group-title="⚽Deportes🏀",Fox Sports 3 HD (S)
+http://190.7.19.197:232/play/a04x/index.m3u8
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343459/qeyq8c2njqjrpfvzwhmz.png" group-title="🧩Infantil🧩",Cartoon Network 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/f33ci-2pl6j-7pki5-goboo.m3u8
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345162/dr9opo1wgzz6rjqestvs.png" group-title="🧩Infantil🧩",Tooncast 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/9649e-56dn4-4b1g5-dilf.m3u8
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345870/wz2y1iajjlrvbuajnsw9.png" group-title="🧩Infantil🧩",Zoo Moo 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/gpn0p-h6fp8-7689p-kkcc6.m3u8
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344683/o5wmeruzw6cwdozlkb64.png" group-title="🧩Infantil🧩",Paka Paka 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9.m3u8
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343332/k6apxdxseirljmuvoctg.png" group-title="🧩Infantil🧩",Baby TV 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/6onej-bja31-d1m6a-99and.m3u8
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684348314/yvbj7oz3ujktnle6so2a.png" group-title="🧩Infantil🧩",Canal Infantil 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1750353500/e02amybvvycqtiovtkxy.png" group-title="🧩Infantil🧩",Plim Plim TV 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 15; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 
 
 
@@ -44,44 +70,12 @@ http://xpaneltv.com:8080/Alirf/78587421/172144
 
 
 
-
-#EXTINF:-1 group-title="Interés General"  tvg-id="[TODONOT].Todo.Noticias.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/800/542/0/0/859370090736.png" group-title="🇦🇷Argentina🇦🇷", TN
+#EXTINF:-1 group-title="Interés General"  tvg-id="[TODONOT].Todo.Noticias.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/800/542/0/0/859370090736.png" group-title="🇦🇷Argentina🇦🇷", TN (x)
 https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
-#EXTINF:-1 ch-number="11" tvg-id="La TV Pública (ARG).ar" tvg-logo="https://i.postimg.cc/5t1Qr2mk/LEP.png" group-title="🇦🇷Argentina🇦🇷", TV Pública
-https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd	
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
-#EXTINF:-1 ch-number="11" tvg-id="EL TRECE.ar" tvg-logo="https://i.postimg.cc/3wJGsKBB/eltrece_2.png" group-title="🇦🇷Argentina🇦🇷", eltrece
-https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
-#EXTINF:-1 ch-number="11" tvg-id="[CNNL].CNN.En.Español.uy" tvg-logo="https://i.postimg.cc/J0CFyJwB/CNN_en_Español.png" group-title="🇦🇷Argentina🇦🇷", CNN en Español
+
+#EXTINF:-1 ch-number="11" tvg-id="[CNNL].CNN.En.Español.uy" tvg-logo="https://i.postimg.cc/J0CFyJwB/CNN_en_Español.png" group-title="🇦🇷Argentina🇦🇷", CNN en Español (x)
 https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_C/CNN_en_Espanol.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
-#EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", Argentina 12
-https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc_C/Investigacion_Periodistica.mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
-#EXTINF:-1 ch-number="11" tvg-id="CRONICA TV.ar" tvg-logo="https://i.postimg.cc/Ny2kSPBN/Cronica.png" group-title="🇦🇷Argentina🇦🇷", Cronica
-https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
-#EXTINF:0 tvg-id="Canal 26 (ARG)..ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/800/542/0/0/34056872073.png" group-title="🇦🇷Argentina🇦🇷", Canal 26
-https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_C/26_TV_HD.mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
-#EXTINF:-1 ch-number="11" tvg-id="[C5NARG].C5N.uy" tvg-logo="https://i.postimg.cc/05w67PCx/Fondo-Oscuro.png" group-title="🇦🇷Argentina🇦🇷", C5N
-https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
-#EXTINF:-1 ch-number="11" tvg-id="La Nacion.uy" tvg-logo="https://i.postimg.cc/dtnjTfgB/LN.png" group-title="🇦🇷Argentina🇦🇷", LN +
-https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
-#EXTINF:-1 ch-number="11" tvg-id="EL NUEVE.ar" tvg-logo="https://i.postimg.cc/TwrJGTSJ/elnueve_2.png" group-title="🇦🇷Argentina🇦🇷", el nueve
-https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
-#EXTINF:-1 ch-number="11" tvg-id="America TV (ARG).ar" tvg-logo="https://i.postimg.cc/WpH8xpLd/Normal_2.png" group-title="🇦🇷Argentina🇦🇷", America 
-https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd
+
