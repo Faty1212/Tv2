@@ -34,22 +34,16 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd
 http://181.13.252.102:8000/play/a06c/index.m3u8
 #EXTINF:-1 group-title="CANALES 24/7", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-#EXTINF:-1, DSPORTS 🇦🇷
-http://201.230.121.186:8000/play/a0od/index.m3u8
+
 
 #EXTINF:-1, DSPORTS 1 🇦🇷
 http://201.230.121.85:8000/play/a0yv/index.m3u8
-
-#EXTINF:-1, DSPORTS 1 🇦🇷
+#EXTINF:-1, DSPORTS + 🇦🇷
 http://190.117.20.37:8000/play/a08d/index.m3u8
-
-#EXTINF:-1, DSPORTS 1 🇦🇷
+#EXTINF:-1, DSPORTS + 🇦🇷
 http://190.117.20.39:8000/play/a08d/index.m3u8
-
 #EXTINF:-1, ESPN 🇦🇷
 http://45.173.74.2:2010/play/a08a/index.m3u8
-
-
 #EXTINF:-1, ESPN 2 🇦🇷
 http://191.97.49.82:8001/play/a00m/index.m3u8
 
