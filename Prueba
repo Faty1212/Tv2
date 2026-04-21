@@ -107,7 +107,8 @@ http://38.224.22.252:8000/play/a01y/index.m3u8
 http://181.118.156.46:8000/play/a04g/index.m3u8
 #EXTINF:-1, ESPN 2
 http://200.10.30.241:8000/play/a01r/index.m3u8
-
+#EXTINF:-1, TELEFE
+https://t.freetv.fun/live/telefe.m3u8
 
 
 
