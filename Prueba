@@ -53,20 +53,18 @@ http://190.0.247.38:8000/play/a012
 
 #EXTINF:-1, DSPORTS 1 🇦🇷
 http://190.117.20.37:8000/play/a08d/index.m3u8
-
 #EXTINF:-1, ESPN 2 🇦🇷
 http://181.205.130.194:4000/play/a07i
 #EXTINF:-1, ESPN 🇦🇷
 http://200.106.13.204:8000/play/a0kp/index.m3u8
-
 #EXTINF:-1, ESPN 🇦🇷
 http://181.118.156.46:8000/play/a04g/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"group-title="ARGENTINA",TELEFE
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ARGENTINA",TyC
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
-
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Canal-13-Jujuy-en-vivo-Online.png?fit=1920%2C1080&ssl=1"group-title="CRISTIANO",13 TRECE HD
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
 
 
