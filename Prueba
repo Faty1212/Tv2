@@ -159,20 +159,6 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_C/FoxSports2H
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3HD.mpd
 
-#EXTINF:-1 tvg-logo="https://juani.webcindario.com/img/dsports1.png" group-title="DEPORTES", D Sports ar
-###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"l48HPu4yYGo/JUQwb7Gnsw","kid":"PhwN2NlRM12djFNNKSd8kQ"}],"type":"temporary"}###
-###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey###
-https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
-###https://1059-vos.dtvott.com/DASH/manifest.mpd###
-
-#EXTINF:-1 tvg-logo="https://juani.webcindario.com/img/dsports1.png" group-title="DEPORTES", D Sports +
-###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dACp+QXxctXXTX3EQHJMjg","kid":"8Zw6jGONUsKrd7lWa8splg"}],"type":"temporary"}###
-###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey###
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
-###https://1071-abc-da-bpk.dtvott.com/dash_live_1071/manifest.mpd###
 
 
 
