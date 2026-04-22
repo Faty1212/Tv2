@@ -125,6 +125,15 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/94.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN ARG 3
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/95.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", WAPA 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/130.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN PREMIER 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/280.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO MUNDI 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/281.m3u8
+
 
 
 
