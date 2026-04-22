@@ -1,12 +1,7 @@
 #extm3u
-#EXTINF:-1 tvg-id="El Trece A" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece A
-http://45.5.151.147:8000/play/a00f/index.m3u8
 
-#EXTINF:-1 tvg-id="El Trece B" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece B
-http://45.5.149.220:8000/play/a03e/index.m3u8
 
-#EXTINF:-1 tvg-id="El Trece C" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="Noticias",El Trece C
-http://181.13.252.102:8000/play/a0bg/index.m3u8
+
 
 
 
