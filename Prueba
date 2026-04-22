@@ -28,35 +28,6 @@ http://200.115.120.1:8000/play/ca016/index.m3u8
 #EXTINF:-1, ESPN 🇦🇷
 http://190.7.19.197:232/play/a03n/index.m3u8
 
-#EXTINF:-1,Hbo+ FHD
-http://45.228.234.30:16000/play/a00a
-#EXTINF:-1,Hbo family FHD
-http://45.228.234.30:16000/play/a00b
-#EXTINF:-1,Hbo xtreme FHD
-
-#EXTINF:-1,History FHD
-http://45.228.234.30:16000/play/a011
-
-#EXTINF:-1,Cinecanal FHD
-http://45.228.234.30:16000/play/a01q
-#EXTINF:-1,SonyChannel FHD
-http://45.228.234.30:16000/play/a01p
-#EXTINF:-1,Space FHD
-http://45.228.234.30:16000/play/a02e
-#EXTINF:-1,Star FHD
-http://45.228.234.30:16000/play/a01n
-#EXTINF:-1,Warner FHD
-http://45.228.234.30:16000/play/a01o
-
-
-
-
-
-
-
-
-
-
 
 
 
