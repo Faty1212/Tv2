@@ -112,45 +112,15 @@ https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 #KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
 #EXTINF:-1 ch-number="11" tvg-id="EL TRECE.ar" tvg-logo="https://i.postimg.cc/3wJGsKBB/eltrece_2.png" group-title="🇦🇷Argentina🇦🇷", eltrece
 https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="Nacionales", Telefé
-http://45.238.54.67:8000/play/b02e/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="Mexico",Fox Sports
-#EXTVLCOPT:http-referrer=https://netplay.sv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-https://netplay.sv/multimedia/live/canal-010/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="Mexico",Fox Sports 2
-#EXTVLCOPT:http-referrer=https://netplay.sv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-https://netplay.sv/multimedia/live/canal-031/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="Mexico",Fox Sports 3
-#EXTVLCOPT:http-referrer=https://netplay.sv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png",Telefe
 https://latam-cache-sv2-cdn.latamlive.net/TELEFE_AR_IP_ENC_LIVE/index.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://gentvoficial.com/wp-content/uploads/2025/08/logo-footer.png",GEN TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local", Somos Uno Tv
-https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Nacionales", La Nación +
-http://181.209.114.13:8000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png" group-title="Nacionales", Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="Nacionales", TN
-http://181.209.114.13:8000/play/a058/index.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="Nacionales", A24
-http://186.0.248.113:8000/play/a0bq/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="Nacionales", Latina Radio FM 101.1
-https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
-
-#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="Nacionales", C5N
-http://143.0.67.77:8000/play/a01p/index.m3u8
 
 
 
