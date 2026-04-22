@@ -10,8 +10,7 @@ http://128.201.227.251:4000/play/a0es?PlaylistM3UCL
 http://128.201.227.251:4000/play/a0er?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318342" tvg-name="ESPN 2 • América Latina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkr2RzuQwTckHKkKyRG6lJD-RyjurAfRqxQ&s" group-title="Deportes", ESPN 2 • América Latina
 http://181.13.252.102:8000/play/a059/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="318341" tvg-name="ESPN • América Latina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPloc1JEBHcAbAwueDD-wwAoQFp_Tsxmfq9g&s" group-title="Deportes", ESPN • América Latina
-http://181.13.252.102:8000/play/a05a/index.m3u8?PlaylistM3UCL
+
 
 
 
@@ -42,8 +41,7 @@ http://201.230.121.85:8000/play/a0yv/index.m3u8
 http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1, DSPORTS + 🇦🇷
 http://190.117.20.39:8000/play/a08d/index.m3u8
-#EXTINF:-1, ESPN 🇦🇷
-http://45.173.74.2:2010/play/a08a/index.m3u8
+
 #EXTINF:-1, ESPN 2 🇦🇷
 http://191.97.49.82:8001/play/a00m/index.m3u8
 #EXTINF:-1, TELEFE 🇦🇷
@@ -55,8 +53,7 @@ http://190.0.247.38:8000/play/a012
 http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1, ESPN 2 🇦🇷
 http://181.205.130.194:4000/play/a07i
-#EXTINF:-1, ESPN 🇦🇷
-http://200.106.13.204:8000/play/a0kp/index.m3u8
+
 #EXTINF:-1, ESPN 🇦🇷
 http://181.118.156.46:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ARGENTINA",TyC
@@ -99,8 +96,6 @@ http://xpaneltv.com:8080/Alirf/78587421/90573
 http://xpaneltv.com:8080/Alirf/78587421/224010
 #EXTINF:-1,ESPN4
 http://38.224.22.252:8000/play/a01y/index.m3u8
-#EXTINF:-1, ESPN
-http://181.118.156.46:8000/play/a04g/index.m3u8
 #EXTINF:-1, ESPN 2
 http://200.10.30.241:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345193/qp8dffd1cyk93u2guoqx.png" group-title="🇦🇷Argentina🇦🇷",El Trece
