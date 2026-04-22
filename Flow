@@ -102,6 +102,12 @@ http://217.26.190.76:8888/play/a0kh/index.m3u8
 http://181.78.7.90:12500/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://foro.univers.la/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" group-title="⚽Deportes🏀",ESPN 7
 http://191.97.59.33:8000/play/a094/index.m3u8
+#EXTINF:-1 group-title="⚽Deportes🏀" ,FOX SPORTS 
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
+#EXTINF:-1 group-title="⚽Deportes🏀" ,FOX SPORTS 2 
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-93.playlist.m3u8
+#EXTINF:-1 group-title="⚽Deportes🏀" ,FOX SPORTS 3 
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
 #EXTINF:1 CUID="190" tvg-name="Fox Sports HD" tvg-logo="https://logo.m3uassets.com/foxsports.png" tvg-id="FOXSports.ar" group-title="⚽Deportes🏀",Fox Sports
 http://190.7.19.197:232/play/a05u/index.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="⚽Deportes🏀",Fox Sports 
