@@ -127,64 +127,12 @@ https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_e
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/605.png" group-title="DEPORTES", FOX SPORTS
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qsYbcw4qwd8j8ehy51QcGw","kid":"y8Kgx6ON8KozM81xhB07DQ"}]}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_C/FoxSports.mpd
-
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1606.png" group-title="DEPORTES", FOX SPORTS 2 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UIbTcOhAAQIyz0UysW4Zfw","kid":"yY3f/EcP5EmuGo1kkhFpdg"}]}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_C/FoxSports2HD.mpd
-
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/607.png" group-title="DEPORTES", FOX SPORTS 3 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+jnoVVQ8XXDzBgDVnl5MGw","kid":"VbRzkM+eSZfa5trIXgV4dQ"}]}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3HD.mpd
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CULTURA" tvg-logo="http://redworld.pro:8880/images/952787d87ff3e80bc242faf3452059e1.png",VIDEOS DE PAISAJES 4K
-http://rlatinop.com:8880/live/superplusrestream/dEH3pv9zLdWu/364245.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTE ARGENTINA" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png",AR | ESPN
-http://rlatinop.com:8880/live/panchoenlared/qf6JEgTypQFn/327914.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTE ARGENTINA" tvg-logo="http://goldfull.pro:8880/images/06f8b949029a4cf1f5b2021eed2e8159.png",AR | ESPN 2
-http://rlatinop.com:8880/live/panchoenlared/qf6JEgTypQFn/327915.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTE ARGENTINA" tvg-logo="http://goldfull.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png",AR | ESPN 3
-http://rlatinop.com:8880/live/panchoenlared/qf6JEgTypQFn/327916.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTE ARGENTINA" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png",AR | ESPN PREMIUM
-http://rlatinop.com:8880/live/panchoenlared/qf6JEgTypQFn/327917.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTE ARGENTINA" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png",AR | TYC SPORTS
-http://rlatinop.com:8880/live/panchoenlared/qf6JEgTypQFn/327918.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTE ARGENTINA" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png",AR | FUT SPORTS
-http://rlatinop.com:8880/live/panchoenlared/qf6JEgTypQFn/327919.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTE ARGENTINA" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png",AR | F0X $PORTS 1
-http://rlatinop.com:8880/live/panchoenlared/qf6JEgTypQFn/328108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTE ARGENTINA" tvg-logo="http://redworld.pro:8880/images/4e30238679427cf61979378dc815f0ae.png",AR | F0X $PORTS 2
-http://rlatinop.com:8880/live/panchoenlared/qf6JEgTypQFn/328109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTE ARGENTINA" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png",AR | F0X $PORTS 3
-http://rlatinop.com:8880/live/panchoenlared/qf6JEgTypQFn/328110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTE ARGENTINA" tvg-logo="http://redworld.pro:8880/images/65d1b536a5c2eb33ca65344adeabdfba.png",AR | F0X $PORTS PREMIUM
-http://rlatinop.com:8880/live/panchoenlared/qf6JEgTypQFn/328111.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTE ARGENTINA" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png",AR | FUT SPORTS OP2
-http://rlatinop.com:8880/live/panchoenlared/qf6JEgTypQFn/327920.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTE ARGENTINA" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png",AR | ESPN PREMIUM OPC 2
-http://rlatinop.com:8880/live/panchoenlared/qf6JEgTypQFn/377719.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTE ARGENTINA" tvg-logo="http://goldfull.pro:8880/images/418d5555f6030759ca609d5ccaabaaa9.png",AR | DEPORT TV
-http://rlatinop.com:8880/live/panchoenlared/qf6JEgTypQFn/397594.m3u8
+
+
 
 
