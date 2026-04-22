@@ -115,66 +115,6 @@ https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
 
 
 
-#EXTINF:-1 group-title="⚽ ESPN ⚽" tvg-logo="https://i.ibb.co/9mkcw2dN/espn-seeklogo.png",ESPN 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
-
-# (Siguen ESPN 2, ESPN 3, ESPN 4, ESPN 5, ESPN 6, ESPN 7, ESPN PREMIUM con sus respectivos clearkeys)
-
-# =============================================
-# ⚽ FOX SPORTS ⚽
-# =============================================
-#EXTINF:-1 group-title="⚽ FOX SPORTS ⚽" tvg-logo="https://i.ibb.co/zbWxZ95/fs1.png",FOX SPORTS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
-
-# (Siguen FOX SPORTS 2 y FOX SPORTS 3)
-
-# =============================================
-# ⚽ TyC SPORTS ⚽
-# =============================================
-#EXTINF:-1 group-title="⚽ TyC SPORTS ⚽" tvg-logo="https://i.ibb.co/60QvHcnr/R-2.png",TYC SPORTS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://DL.dropbox.com/scl/fi/i6npptnp7m4apf6pakd86/clearkey_tycsports.json?rlkey=fmyz3j13z4kbjv6usbjx45nch&st=o3mip5ys&dl=0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MTI4NjMwIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1NvbW9zX05vcnRlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMzdmOTFiMGRlYzFmZTlhIiwic2Vzc2lvbl9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiLTE3NzU5NTU4MjktMjUzIiwiY2xpZW50X2lkIjoiZmxvdzozNjEwMDkzLS1mbG93OjM2MTAwOTM6UCIsImRldmljZV9pZCI6ImZkMTVhMjhhMDBmYzQ3NDJlMjdiMjJjYjNhNDdiNzhiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNzgiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.zizcD6DTf6rr5WYgevku5aVUkcqbchlm3uFX-q90ULCJEgYJJH8XmIElkGDoWhXAxGuBouY1CN-l5GkbSycTsg==/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd
-
-# =============================================
-# ⚽ DSPORT ⚽
-# =============================================
-#EXTINF:-1 group-title="⚽ DSPORT ⚽" tvg-logo="https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",DIRECTV SPORTS
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTVLCOPT:http-header=X-App=di
-#EXTVLCOPT:http-header=X-Version=10/1.0.9
-#EXTVLCOPT:http-header=X-Did=ab633f575ddff7bb
-http://tv.m3uts.xyz/stream/secure/ZGLjKmZkZy8kZmthAGxhZwV2YwtmKmR3AmH2BQHlAQusLJV2ZmAzAGp1MTEzMwqvLy8j/312.m3u8
-
-#EXTINF:-1 group-title="⚽ DSPORT ⚽" tvg-logo="https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",DIRECTV SPORTS 2
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTVLCOPT:http-header=X-App=di
-#EXTVLCOPT:http-header=X-Version=10/1.0.9
-#EXTVLCOPT:http-header=X-Did=ab633f575ddff7bb
-http://tv.m3uts.xyz/stream/secure/AmHjKmZkA18kZmthAGxhZwV2YwtmKmR3AmH2BQH0AmIsLJV2ZmAzAGp1MTEzMwqvLy8j/317.m3u8
-
-#EXTINF:-1 group-title="⚽ DSPORT ⚽" tvg-logo="https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",DIRECTV SPORTS PLUS
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTVLCOPT:http-header=X-App=di
-#EXTVLCOPT:http-header=X-Version=10/1.0.9
-#EXTVLCOPT:http-header=X-Did=ab633f575ddff7bb
-http://tv.m3uts.xyz/stream/secure/ZGN3KmZkAS8kZmthAGxhZwV2YwtmKmR3AmH2BQH0ZGSsLJV2ZmAzAGp1MTEzMwqvLy8j/314.m3u8
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1604.png" group-title="DEPORTES", ESPN PREMIUM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
