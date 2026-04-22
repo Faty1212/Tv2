@@ -273,10 +273,6 @@ https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd
 https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
 #EXTINF:-1 tvg-id="320017" tvg-name="LN Más • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="🇦🇷Argentina🇦🇷", LN+
 http://181.13.252.102:8000/play/a01s/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 ch-number="11" tvg-id="La Nacion.uy" tvg-logo="https://i.postimg.cc/dtnjTfgB/LN.png" group-title="🇦🇷Argentina🇦🇷", LN +
-https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3.png" group-title="🇦🇷ARGENTINA🇦🇷", Canal 26
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "rWDF4dN4qXJxv4aI8JTQkg","kid": "4yqqS2dDCztRvh785adKxQ"}],"type": "temporary"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -345,11 +341,9 @@ https://g5.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 https://g1.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="🇦🇷Argentina🇦🇷", El Trece
 http://181.13.252.102:8000/play/a0bg/index.m3u8
-#EXTINF:-1 group-title="🇦🇷ARGENTINA🇦🇷" tvg-id="ElTrece.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-trece.png",El Trece
-#EXTVLCOPT:http-referrer=https://vodgc.net
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="El Trece C" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="🇦🇷Argentina🇦🇷",El Trece
+http://181.13.252.102:8000/play/a0bg/index.m3u8
 #EXTINF:-1 group-title="🇦🇷Argentina🇦🇷",el trece
-
 #EXTINF:-1 tvg-id="330182" tvg-name="América 24 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yfXBuQmon9WVy3ETX9fuq0w4U8Hvq391YA&s" group-title="🇦🇷Argentina🇦🇷", A24 
 http://181.13.252.102:8000/play/a01o/index.m3u8?PlaylistM3UCL
 
@@ -478,10 +472,7 @@ https://joy.nx-pc.edge-apps.net/hls/mb6hp-85n73-pedjc-o07ef.m3u8
 
 
 
-#EXTINF:-1   tvg-id="VOLVER.ar" tvg-logo="https://i.postimg.cc/tR1jTzHt/Fondo-Oscuro.png" group-title="🎬Cine, Novelas y Series🎥", Volver
-https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_C/Volver.mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
+
 #EXTINF:1 CUID="127" tvg-name="AandE HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/800/542/0/0/95118087071584.png" tvg-id="AandE.ar" group-title="🎬Cine, Novelas y Series🎥",A&E
 http://190.7.19.197:232/play/a00c/index.m3u8
 #EXTINF:1 CUID="131" tvg-name="AMC" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/800/542/0/0/29332619071250.png" tvg-id="AMC.ar" group-title="🎬Cine, Novelas y Series🎥",AMC
