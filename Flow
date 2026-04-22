@@ -348,9 +348,9 @@ https://g1.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="🇦🇷Argentina🇦🇷", El Trece
 http://181.13.252.102:8000/play/a0bg/index.m3u8
 #EXTINF:-1 group-title="🇦🇷Argentina🇦🇷", EL TRECE
-https://iptel-staisabel.cdn.rcs.net.ar/mnp/el13/output.mpd
+
 #EXTINF:-1 group-title="🇦🇷Argentina🇦🇷",el trece
-http://181.209.37.74:8001/play/a07b/index.m3u8
+
 #EXTINF:-1 tvg-id="330182" tvg-name="América 24 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yfXBuQmon9WVy3ETX9fuq0w4U8Hvq391YA&s" group-title="🇦🇷Argentina🇦🇷", A24 
 http://181.13.252.102:8000/play/a01o/index.m3u8?PlaylistM3UCL
 
