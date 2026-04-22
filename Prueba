@@ -116,33 +116,15 @@ https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
 https://latam-cache-sv2-cdn.latamlive.net/TELEFE_AR_IP_ENC_LIVE/index.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://gentvoficial.com/wp-content/uploads/2025/08/logo-footer.png",GEN TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/30.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO 2
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/31.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN ARG 1
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/93.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO FAMILY 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/32.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN ARG 2
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/94.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", HISTORY 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/33.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO PLUS 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/34.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", NAT GEO 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/35.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO POP 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/37.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO XTREME 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/39.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO SIGNATURE 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/41.m3u8
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN ARG 3
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/95.m3u8
 
 
 
