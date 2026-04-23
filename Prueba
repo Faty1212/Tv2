@@ -67,6 +67,14 @@ https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
+http://190.238.43.117:8000/play/a09d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
+http://181.198.105.69:8111/play/a279/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
+http://190.108.89.228:8000/play/a05w/index.m3u8
 
 
 
