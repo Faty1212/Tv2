@@ -44,6 +44,9 @@ http://dns002.xyz:2082/live/Argenserver72/uqWj94dd82H/189502.ts
 http://dns002.xyz:2082/live/Argenserver72/uqWj94dd82H/189501.ts
 
 
+#EXTINF:0,m DSPORT
+#EXTVLCOPT:network-caching=1000
+http://181.78.27.128:12543/play/a06f/index.m3u8
 
 
 
