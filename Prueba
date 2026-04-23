@@ -22,19 +22,11 @@ http://38.199.6.1:17001/play/a0d0/index.m3u8
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/05KHcNMm/DIRECTV-1.jpg" d DSPORTS HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/05KHcNMm/DIRECTV-1.jpg", d DSPORTS HD
 http://181.78.106.127:9000/play/ca026/index.m3u8
 
-EXTINF:-1 tvg-logo="https://i.postimg.cc/05KHcNMm/DIRECTV-1.jpg" group-title="DEPORTES",e DSPORTS HD (Arg)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/05KHcNMm/DIRECTV-1.jpg" group-title="DEPORTES",e DSPORTS HD (Arg)
 http://38.199.6.1:17001/play/a0d0/index.m3u8
-
-
-
-
 
 
 
