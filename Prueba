@@ -1,19 +1,25 @@
 #extm3u
 
 
-
-#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS
+#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", a DSPORTS
 http://217.26.190.76:8888/play/a0co/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",Dsports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png", b Dsports
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsip&token=3574401799
 
 
 
-#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS
+#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", c DSPORTS
 http://38.199.6.1:17001/play/a0d0/index.m3u8
+
+
+
+
+
+
+
 
 
 
