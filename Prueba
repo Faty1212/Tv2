@@ -38,7 +38,10 @@ http://38.252.213.12:8000/play/a01k
 #EXTINF:-1 group-title="DEPORTES.AR", l DSports
 http://205.235.6.29:8000/play/a0nq/index.m3u8
 
-
+#EXTINF:0 CUID="7388" tvg-name="Uy | 2️⃣ Dsports" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/4e/22/03/4e22035c-a29b-4f4e-9382-1f68860ec97e/source/512x512bb.jpg" group-title="Uruguay",Uy | 2️⃣ Dsports
+http://dns002.xyz:2082/live/Argenserver72/uqWj94dd82H/189502.ts
+#EXTINF:0 CUID="7389" tvg-name="Uy | 1️⃣ Dsports" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/4e/22/03/4e22035c-a29b-4f4e-9382-1f68860ec97e/source/512x512bb.jpg" group-title="Uruguay",Uy | 1️⃣ Dsports
+http://dns002.xyz:2082/live/Argenserver72/uqWj94dd82H/189501.ts
 
 
 
