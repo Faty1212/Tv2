@@ -1,41 +1,16 @@
 #EXTM3U url-tvg="https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://www.open-epg.com/generate/YbXmXks9dD.xml.gz,https://epghub.xyz/epg/EPG-ES-UY.xml.gz,https://epghub.xyz/epg/EPG-PLEX-RAKUTEN-SV.xml.gz,https://juno.epg.elektamedia.com/api/Programme/40mediaSpA/Juno/xml/allchannels/xmltv.xml,https://nocords.xyz/pluto/epg.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/br.xml.gz,http://192.99.212.247/epg.xml"
-#EXTINF:-1,América TV
-http://cdn.cvattv.com.ar/live/c3eds/AmericaTV/sa_hls_full_e_95AEFABF606F67368D62A486/AmericaTV-mp4a_145200_spa=20001.m3u8
-
-#EXTINF:-1,TV Pública
-http://cdn.cvattv.com.ar/live/c6eds/Canal7/sa_hls_full_e_95AEFABF606F67368D62A486/Canal7-mp4a_145200_spa=30.m3u8
-
-#EXTINF:-1,Bravo TV
-http://cdn.cvattv.com.ar/live/c7eds/BravoTV/sa_hls_full_e_95AEFABF606F67368D62A486/BravoTV-mp4a_145200_spa=20000.m3u8
-
-#EXTINF:-1,El Nueve
-http://cdn.cvattv.com.ar/live/c3eds/Canal9/sa_hls_full_e_95AEFABF606F67368D62A486/Canal9-mp4a_145200_spa=20002.m3u8
-
-#EXTINF:-1,Net TV
-http://cdn.cvattv.com.ar/live/c6eds/Net_TV/sa_hls_full_e_95AEFABF606F67368D62A486/Net_TV-mp4a_145200_spa=2.m3u8
-
-#EXTINF:-1,Telefe
-http://cdn.cvattv.com.ar/live/c6eds/TelefeHD/sa_hls_full_e_95AEFABF606F67368D62A486/TelefeHD-mp4a_145200_spa=4.m3u8
-
-#EXTINF:-1,Telefe Internacional
-http://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/sa_hls_full_e_95AEFABF606F67368D62A486/Telefe_Internacional-mp4a_145200_spa=1.m3u8
-
-#EXTINF:-1,El Trece
-http://cdn.cvattv.com.ar/live/c3eds/ArtearHD/sa_hls_full_e_95AEFABF606F67368D62A486/ArtearHD-mp4a_145200_spa=20003.m3u8
-
-#EXTINF:-1,El Trece Internacional
-http://cdn.cvattv.com.ar/live/c4eds/Artear_Internacional/sa_hls_full_e_95AEFABF606F67368D62A486/Artear_Internacional-mp4a_145200_spa=12.m3u8
-
-#EXTINF:-1,Ciudad Magacine
-http://cdn.cvattv.com.ar/live/c3eds/Magazine/sa_hls_full_e_95AEFABF606F67368D62A486/Magazine-mp4a_145200_spa=20001.m3u8
-
-#EXTINF:-1,Volver
-http://cdn.cvattv.com.ar/live/c6eds/Volver/sa_hls_full_e_95AEFABF606F67368D62A486/Volver-mp4a_145200_spa=2.m3u8
-
-#EXTINF:-1,Mix TV
-http://cdn.cvattv.com.ar/live/c4eds/MixTV/sa_hls_full_e_95AEFABF606F67368D62A486/MixTV-mp4a_145200_spa=8.m3u8
 
 
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pjV1gdBS/Photoroom-20250616-002323.png"group-title="ARGENTINA",CANAL 12 HD
+https://nd106.republicaservers.com:443/hls/diegologonitv/0_1/index.m3u8?sessId=3190510
 
 
 
