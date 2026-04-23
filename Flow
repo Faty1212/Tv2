@@ -669,32 +669,32 @@ https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_C/Discov
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c9eb3ead38a122ac460ad96a8ebfd2e:66bfbfa4449eb8bc1bcf7577d5bffaad
-#EXTINF:-1 ch-number="507" tvg-id="[MTVL].MTV.uy" tvg-logo="https://i.postimg.cc/CLLYMTwk/MTV.png" group-title="🎙️Música🎤", MTV
+#EXTINF:-1 ch-number="507" tvg-id="[MTVL].MTV.uy" tvg-logo="https://i.postimg.cc/CLLYMTwk/MTV.png" group-title="🎙️Musica🎤", MTV
 https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_C/MTV_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
-#EXTINF:-1 ch-number="511" tvg-id="QUIERO.ar" tvg-logo="https://i.postimg.cc/tJWc3vRN/QUIERO.png" group-title="🎙️Música🎤", Quiero Música
+#EXTINF:-1 ch-number="511" tvg-id="QUIERO.ar" tvg-logo="https://i.postimg.cc/tJWc3vRN/QUIERO.png" group-title="🎙️Musica🎤", Quiero Música
 https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc_C/Quiero_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabe2c22350c26c7f0ad84b34932f08d:39fa06836ec0f81d8dd9b6e01a3070e3
-#EXTINF:-1 ch-number="11" tvg-id="Vorterix.ar" tvg-logo="https://i.postimg.cc/ZK5jK2FZ/Vorterix.png" group-title="🎙️Música🎤", Vorterix
+#EXTINF:-1 ch-number="11" tvg-id="Vorterix.ar" tvg-logo="https://i.postimg.cc/ZK5jK2FZ/Vorterix.png" group-title="🎙️Musica🎤", Vorterix
 https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_C/Vorterix.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e55e61b81b992d6c21466891d72157e9:566d341bf7209a88976e75c20ad7aca2
-#EXTINF:-1 group-title="🎙️Música🎤" ch-number="500" tvg-id="Allegro HD.uy" tvg-logo="https://i.postimg.cc/rFv7K69q/Logo_1.png", Allegro
+#EXTINF:-1 group-title="🎙️Musica🎤" ch-number="500" tvg-id="Allegro HD.uy" tvg-logo="https://i.postimg.cc/rFv7K69q/Logo_1.png", Allegro
 https://cdn.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc_C/AllegroHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d
-#EXTINF:-1 tvg-id="HTV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/104/CH_LOGO/800/542/0/0/4926258407115.png" group-title="🎙️Música🎤", HTV
+#EXTINF:-1 tvg-id="HTV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/104/CH_LOGO/800/542/0/0/4926258407115.png" group-title="🎙️Musica🎤", HTV
 https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_C/HTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=682f36b5736f4560951ca14b80d29524:3accb729067a39b3b8143f1b447b9d25
-#EXTINF:-1 ch-number="11" tvg-id="CANAL DE LA MUSICA.ar" tvg-logo="https://i.postimg.cc/3JH12Ykm/CM.png" group-title="🎙️Música🎤", Canal de la Música
+#EXTINF:-1 ch-number="11" tvg-id="CANAL DE LA MUSICA.ar" tvg-logo="https://i.postimg.cc/3JH12Ykm/CM.png" group-title="🎙️Musica🎤", Canal de la Música
 https://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_C/CM.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -844,22 +844,22 @@ https://cdn.cvattv.com.ar/live/c3eds/France24_Flow/SA_Live_dash_enc_C/France24_F
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
-#EXTINF:-1 ch-number="11" tvg-id="Flow Music" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png" group-title="🎙️Música🎤", Flow Music
+#EXTINF:-1 ch-number="11" tvg-id="Flow Music" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png" group-title="🎙️Musica🎤", Flow Music
 https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_C/Flow_Music_XP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f34cd7709f093d23d4db009107d96862:d8a829138d970b45e867c9733a31b2f0
-#EXTINF:-1 ch-number="11" tvg-id="Flow Music 2" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png" group-title="🎙️Música🎤", Flow Music 2
+#EXTINF:-1 ch-number="11" tvg-id="Flow Music 2" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png" group-title="🎙️Musica🎤", Flow Music 2
 https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc_C/Flow_Music_1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=596b599580b39ae2f3c413f7eae36902:2d7e3d5d31f68690fd877a111f84e8e3
-#EXTINF:-1 ch-number="11" tvg-id="Flow Music 3" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png" group-title="🎙️Música🎤", Flow Music 3
+#EXTINF:-1 ch-number="11" tvg-id="Flow Music 3" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png" group-title="🎙️Musica🎤", Flow Music 3
 https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc_C/Flow_Music_2.mpd	|referer=https://portal.app.flow.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e078b15ed770ec71f803c0ecc43de033:7010bccda544f74d1b425c4cebd082d4
-#EXTINF:-1 ch-number="11" tvg-id="Flow Music 4" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png" group-title="🎙️Música🎤", Flow Music 4
+#EXTINF:-1 ch-number="11" tvg-id="Flow Music 4" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png" group-title="🎙️Musica🎤", Flow Music 4
 https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_enc_C/Flow_Music_3.mpd	|referer=https://portal.app.flow.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
