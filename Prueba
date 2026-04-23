@@ -26,15 +26,10 @@ http://38.199.6.1:17001/play/a0d0/index.m3u8
 
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/05KHcNMm/DIRECTV-1.jpg" DSPORTS HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/05KHcNMm/DIRECTV-1.jpg" d DSPORTS HD
 http://181.78.106.127:9000/play/ca026/index.m3u8
 
-EXTINF:-1 tvg-logo="https://i.postimg.cc/05KHcNMm/DIRECTV-1.jpg" group-title="DEPORTES",DSPORTS HD (Arg)
+EXTINF:-1 tvg-logo="https://i.postimg.cc/05KHcNMm/DIRECTV-1.jpg" group-title="DEPORTES",e DSPORTS HD (Arg)
 http://38.199.6.1:17001/play/a0d0/index.m3u8
 
 
@@ -44,25 +39,25 @@ http://38.199.6.1:17001/play/a0d0/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="Deportes" ch-number="125",DSports 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="Deportes" ch-number="125",f DSports 
 http://201.230.121.85:8000/play/a0yv/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="D SPORTS + HD (Arg)" tvg-logo="https://i.postimg.cc/BQW7yGHz/DIRECTV-MAS.jpg" group-title="DEPORTES",DSPORTS + HD (Arg)
+#EXTINF:-1 tvg-id="" tvg-name="D SPORTS + HD (Arg)" tvg-logo="https://i.postimg.cc/BQW7yGHz/DIRECTV-MAS.jpg" group-title="DEPORTES",g DSPORTS + HD (Arg)
 http://38.199.6.1:17001/play/a0vx/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="Deportes" ch-number="126",DSports +
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="Deportes" ch-number="126",h DSports +
 http://209.45.81.84:8000/play/a03d
 
-#EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports+.png" group-title="Deportes", DSPORTS +
+#EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports+.png" group-title="Deportes",i DSPORTS +
 http://38.199.6.1:17001/play/a0vx/index.m3u8
 
-#EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports+.png" group-title="Deportes", Dsports 2 (col)
+#EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports+.png" group-title="Deportes", j Dsports 2 (col)
 http://217.26.190.76:8888/play/a0jb/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSPORTS 0P 3
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", k DSPORTS 0P 3
 http://38.252.213.12:8000/play/a01k
 
 
