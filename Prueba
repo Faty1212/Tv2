@@ -18,8 +18,7 @@ http://38.199.6.1:17001/play/a0d0/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Tango Sports", DSPORTS + (RESPALDO)
-http://38.199.6.1:17001/play/a0vx/index.m3u8
+
 
 
 
@@ -52,19 +51,16 @@ http://209.45.81.84:8000/play/a03d
 #EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports+.png" group-title="Deportes", DSPORTS +
 http://38.199.6.1:17001/play/a0vx/index.m3u8
 
-#EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports+.png" group-title="Deportes", DSPORTS +
+#EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports+.png" group-title="Deportes", Dsports 2 (col)
 http://217.26.190.76:8888/play/a0jb/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="DSPORTS", DSPORTS
-http://190.117.20.37:8000/play/a08d/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSPORTS 0P 3
 http://38.252.213.12:8000/play/a01k
 
 
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://raw.githubusercontent.com/franperal352-hue/I/refs/heads/main/DSports_%2B_2022.png" tvg-name="DIRECTVSPORT" group-title="DEPORTES",DSPORTS+ DIRECTV OP2
-http://38.199.6.1:17001/play/a0vx/index.m3u8
+
 
 
 
