@@ -14,14 +14,16 @@ http://200.115.120.1:8000/play/ca016/index.m3u8
 #EXTINF:-1, ESPN 🇦🇷
 http://190.7.19.197:232/play/a03n/index.m3u8
 
-#EXTINF:-1 ch-number="11" tvg-id="EL TRECE.ar" tvg-logo="https://i.postimg.cc/3wJGsKBB/eltrece_2.png" group-title="🇦🇷Argentina🇦🇷", el trece
-https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
-
+#EXTINF:-1 ch-number="11" tvg-id="El Doce CANAL 12 DE CORDOBA.ar" tvg-logo="https://i.postimg.cc/mk9jsWhc/Logo-1.png" group-title="Interés General", eldoce Córdoba
+https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_C/Canal_12_CBA.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
 
+#EXTINF:-1 ch-number="11" tvg-id="EL TRECE.ar" tvg-logo="https://i.postimg.cc/3wJGsKBB/eltrece_2.png" group-title="🇦🇷Argentina🇦🇷", el trece
+https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4343f3f5f5b4d3dffa9584d20d912ac6:9f0c94b68cf89c38d30dd56a2fbecd48
+#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
+
 #EXTINF:-1 ch-number="11" tvg-id="Verte Olavarria.ar" tvg-logo="https://i.postimg.cc/SKQ1bDyx/Verte-Olavarria.png" group-title="🇦🇷Interior🇦🇷", Canal Verte+
 https://cdn.cvattv.com.ar/live/c7eds/Somos_Azul/SA_Live_dash_enc_C/Somos_Azul.mpd
 
