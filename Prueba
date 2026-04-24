@@ -1,9 +1,9 @@
 #extm3u
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=819c353c167435409d2b41c76f75b2d7:13fdd0f0ca3fcb309867a5557e125fe1
-#EXTINF:-1 ch-number="11" tvg-id="America TV (ARG).ar" tvg-logo="https://i.postimg.cc/WpH8xpLd/Normal_2.png" group-title="🇦🇷Argentina🇦🇷", dsports 
-https://1066-aws.vrioott.com/1066_DIRECTV_SPORTS_OCC_3_DASH/manifest.mpd
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
+http://38.224.73.146:8000/play/a0vs/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4663000,RESOLUTION=Variant_1
+http://38.224.73.146:8000/play/a0vs/45659824.m3u8
 
 
 EXTINF:-1 tvg-id="DSports.ar@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png",DSports
