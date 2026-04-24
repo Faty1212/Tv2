@@ -12,7 +12,8 @@ http://201.230.121.85:8000/play/a0yv/index.m3u8
 
 
 
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4343f3f5f5b4d3dffa9584d20d912ac6:9f0c94b68cf89c38d30dd56a2fbecd48
 #EXTINF:-1 ch-number="11" tvg-id="Verte Olavarria.ar" tvg-logo="https://i.postimg.cc/SKQ1bDyx/Verte-Olavarria.png" group-title="🇦🇷Interior🇦🇷", Canal Verte+
 https://cdn.cvattv.com.ar/live/c7eds/Somos_Azul/SA_Live_dash_enc_C/Somos_Azul.mpd
 
