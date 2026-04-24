@@ -1,5 +1,11 @@
 #extm3u
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
+#EXTINF:-1 ch-number="11" tvg-id="America TV (ARG).ar" tvg-logo="https://i.postimg.cc/WpH8xpLd/Normal_2.png" group-title="🇦🇷Argentina🇦🇷", America 
+https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd
+
+
 EXTINF:-1 tvg-id="DSports.ar@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png",DSports
 http://pi3server.local/dsport/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/TyC_Sports_%281994%29.png",TyC Sports
@@ -53,6 +59,8 @@ http://181.78.27.128:12543/play/a06f/index.m3u8
 DSPORTS+
 https://1066-aws.vrioott.com/1066_DIRECTV_SPORTS_OCC_3_DASH/manifest.mpd
 819c353c167435409d2b41c76f75b2d7:13fdd0f0ca3fcb309867a5557e125fe1
+
+
 
 https://1063-aws-da-mt.vrioott.com/1063_DIRECTV_SPORTS_2_HD_DASH/manifest.mpd
 c1863664cbc33e9b951ac0e270309891:6e50b1ed60c0feb12836cb6a37d299b5
