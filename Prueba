@@ -1,17 +1,10 @@
 #extm3u
 
-EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png",El Trece
-
-
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png",TyC Sports 
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6998236b64344416a20ab019c04e79a3:58e3f758c8fced31611023bb833244f7
-#EXTINF:-1 ch-number="11" tvg-id="ESPN PREMIUM.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png" group-title="Deportes", ESPN Premium 
-https://el4live1.boldmss.com/ESPN_PREMIUM/ESPN_PREMIUM_EL4.isml/manifest
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
