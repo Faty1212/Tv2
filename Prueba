@@ -11,11 +11,7 @@
 #EXTINF:-1 ch-number="11" tvg-id="TNT SPORTS PREMIUM.ar" tvg-logo="https://i.postimg.cc/WbsZGtb2/Fondo_Oscuro.png" group-title="Deportes", TNT Sports Premium 
 https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="DEPORTES", TNT SPORTS 1
-http://38.7.101.90:8000/play/a1yo/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="DEPORTES", TNT SPORTS 2
-http://181.78.192.238:8000/play/a1ti/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_Sports_Argentina_2026.webp" group-title="DEPORTES", FOX SPORTS 
 http://190.7.19.197:232/play/a05u/index.m3u8
