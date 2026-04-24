@@ -936,6 +936,13 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-104.play
 http://181.78.82.6:46090/play/a00w/index.m3u8
 #EXTINF:0 group-title="⚽Deportes🏀" ,ESPN 7
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-106.playlist.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6998236b64344416a20ab019c04e79a3:58e3f758c8fced31611023bb833244f7
+#EXTINF:-1 ch-number="11" tvg-id="ESPN PREMIUM.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png" group-title="Deportes", ESPN Premium 
+https://el4live1.boldmss.com/ESPN_PREMIUM/ESPN_PREMIUM_EL4.isml/manifest
+
 #EXTINF:-1 group-title="⚽Deportes🏀" ,ESPN Premium
 http://200.112.174.230/mtcast_espnpremiumhd/mpegts
 #EXTINF:0 group-title="⚽Deportes🏀" ,ESPN PREMIUM
@@ -948,6 +955,7 @@ http://181.13.252.102:8000/play/a078/index.m3u8
 http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157562
 #EXTINF:-1 tvg-id="321566" tvg-name="ESPN Premium • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="⚽Deportes🏀", ESPN Premium
 http://45.181.122.46:8090/play/a015?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1604.png" group-title="⚽DEPORTES🏀", ESPN PREMIUM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QYanwqFfWQqTmYhv6uxCVw","kid":"TCMNvH9qS/pq0Kpz/3kjdA"}],"type":"temporary"}
@@ -955,8 +963,11 @@ http://45.181.122.46:8090/play/a015?PlaylistM3UCL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd
+
 #EXTINF:-1 tvg-id="321566" tvg-name="ESPN Premium • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="⚽Deportes🏀", ESPN Premium
 http://45.5.151.62:8000/play/a02o/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3950.png" group-title="⚽DEPORTES🏀", TNT premium
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6kbk6fETLo3XH7d/fVUFig","kid":"vID6PaaW5QP5QP3l9oGhxQ"}],"type":"temporary"}
