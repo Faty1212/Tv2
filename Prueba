@@ -1,5 +1,9 @@
 #extm3u
 
+#EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png",El Trece (1080p)
+http://pi3server.local/canal13/index.m3u8
+#EXTINF:-1 tvg-id="TN.ar@SD" tvg-logo="https://i.imgur.com/vFwPhPS.png",TN (1080p)
+http://pi3server.local/tn/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", a DSPORTS
 http://217.26.190.76:8888/play/a0co/index.m3u8
