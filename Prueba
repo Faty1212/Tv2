@@ -1,5 +1,11 @@
 #extm3u
 
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://i.ibb.co/fMh1j6W/610.png" group-title="DEPORTES", DIRECTV SPORTS 1
+http://38.224.175.2:8000/play/a0l4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DEP | DIRECTV SPORTS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg" group-title="DEPORTES", DIRECTV SPORTS 2
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+
 #EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports Op1 (1080)
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 #EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports Op2 (720)
