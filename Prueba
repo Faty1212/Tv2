@@ -48,20 +48,8 @@ https://1066-aws.vrioott.com/1066_DIRECTV_SPORTS_OCC_3_DASH/manifest.mpd
 https://1063-aws-da-mt.vrioott.com/1063_DIRECTV_SPORTS_2_HD_DASH/manifest.mpd
 c1863664cbc33e9b951ac0e270309891:6e50b1ed60c0feb12836cb6a37d299b5
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", p DSPORTS
 http://190.238.43.117:8000/play/a09d/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", q DSPORTS
-http://181.198.105.69:8111/play/a279/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", r DSPORTS
-http://190.108.89.228:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="Tango Sports", s DSPORTS 2
 http://190.238.43.117:8000/play/a09g/index.m3u8
