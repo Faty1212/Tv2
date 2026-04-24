@@ -50,6 +50,16 @@ http://181.78.27.128:12543/play/a06f/index.m3u8
 
 
 
+DSPORTS+
+https://1066-aws.vrioott.com/1066_DIRECTV_SPORTS_OCC_3_DASH/manifest.mpd
+819c353c167435409d2b41c76f75b2d7:13fdd0f0ca3fcb309867a5557e125fe1
+
+https://1063-aws-da-mt.vrioott.com/1063_DIRECTV_SPORTS_2_HD_DASH/manifest.mpd
+c1863664cbc33e9b951ac0e270309891:6e50b1ed60c0feb12836cb6a37d299b5
+
+
+
+
 #EXTINF:-1 tvg-logo="https://juani.webcindario.com/img/dsports1.png" group-title="DEPORTES", n D Sports ar
 ###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"l48HPu4yYGo/JUQwb7Gnsw","kid":"PhwN2NlRM12djFNNKSd8kQ"}],"type":"temporary"}###
 ###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey###
