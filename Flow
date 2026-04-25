@@ -909,6 +909,8 @@ http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592039.ts
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592038.ts
 #EXTINF:0 group-title="⚽Deportes🏀" ,DSPORTS (URU)
 http://br1.urutelam.com:8073/VTV%20HD%20URUGUAY?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="⚽Deportes🏀", DSPORTS
+http://38.252.213.12:8000/play/a01k
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="⚽Deportes🏀", DSPORTS
 http://217.26.190.76:8888/play/a0co/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="Deportes" ch-number="125",f DSports 
