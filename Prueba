@@ -1,27 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="180" tvg-name="Evento 1" tvg-logo="https://i.postimg.cc/BQqDVChS/Black_and_Green_Simple_Business_Youtube_Thumbnail.png" group-title="deportes",Evento 1
-http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-01.playlist.m3u8
 
-#EXTINF:-1 tvg-id="181" tvg-name="Evento 2" tvg-logo="https://i.postimg.cc/BQqDVChS/Black_and_Green_Simple_Business_Youtube_Thumbnail.png" group-title="deportes",Evento 2
-http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-02.playlist.m3u8
 
-#EXTINF:-1 tvg-id="182" tvg-name="Evento 3" tvg-logo="https://i.postimg.cc/BQqDVChS/Black_and_Green_Simple_Business_Youtube_Thumbnail.png" group-title="deportes",Evento 3
-http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-03.playlist.m3u8
 
-#EXTINF:-1 tvg-id="183" tvg-name="Evento 4" tvg-logo="https://i.postimg.cc/BQqDVChS/Black_and_Green_Simple_Business_Youtube_Thumbnail.png" group-title="deportes",Evento 4
-http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-04.playlist.m3u8
 
-#EXTINF:-1 tvg-id="184" tvg-name="Evento 5" tvg-logo="https://i.postimg.cc/BQqDVChS/Black_and_Green_Simple_Business_Youtube_Thumbnail.png" group-title="deportes",Evento 5
-http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-05.playlist.m3u8
 
-#EXTINF:-1 tvg-id="185" tvg-name="Evento 6" tvg-logo="https://i.postimg.cc/BQqDVChS/Black_and_Green_Simple_Business_Youtube_Thumbnail.png" group-title="deportes",Evento 6
-http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-06.playlist.m3u8
-
-#EXTINF:1,-PPV EVENTOS ( Pay Per View ) -
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G3rXn3hY/In-Shot-20260302-112432556.png" group-title="PPV EVENTOS ( Pay Per View ) ", HTV PLAY 
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/153585
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 1
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 2
@@ -29,12 +12,9 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
 
-#EXTINF:-1 tvg-id="" tvg-name="TV LITE PLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgA0PDqSIjOYowNomkRBjR86ZsJhSR6yJ9g&s" group-title="CANALES EXCLUSIVOS",TV LITE PLAY
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137365
+
 #EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT FULLHD 60FPS" tvg-logo="https://i.ibb.co/7Lbfbbn/unnamed.jpg" group-title="CANALES EXCLUSIVOS",TV LITE SPORT FULLHD 60FPS
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137366
-#EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT SD" tvg-logo="https://i.ibb.co/7Lbfbbn/unnamed.jpg" group-title="CANALES EXCLUSIVOS",TV LITE SPORT SD
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137367
 #EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT 2" tvg-logo="https://i.ibb.co/pvfhxpX7/SPORT2.jpg" group-title="CANALES EXCLUSIVOS",TV LITE SPORT 2
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137368
 #EXTINF:-1 tvg-id="" tvg-name="TVLITE PPV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/PS_PPV_1.svg/revision/latest/scale-to-width-down/200?cb=20250118001249" group-title="CANALES EXCLUSIVOS",TVLITE PPV 1
