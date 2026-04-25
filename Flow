@@ -1126,6 +1126,17 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_C/Eventos1HD.mpd
 #EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT FULL HD" tvg-logo="https://i.ibb.co/7Lbfbbn/unnamed.jpg" group-title="⭐Eventos en Vivo⭐",TV LITE SPORT FULL HD
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137366
+#EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT 2" tvg-logo="https://i.ibb.co/pvfhxpX7/SPORT2.jpg" group-title="⭐Eventos en Vivo⭐",TV LITE SPORT 2
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137368
+#EXTINF:-1 tvg-id="" tvg-name="TV LITE 4K" tvg-logo="https://i.ibb.co/cSqz7ZtY/4K.jpg" group-title="⭐Eventos en Vivo⭐",TV LITE 4K
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137372
+#EXTINF:-1 tvg-id="" tvg-name="TVLITE PPV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/PS_PPV_1.svg/revision/latest/scale-to-width-down/200?cb=20250118001249" group-title="⭐Eventos en Vivo⭐",TVLITE PPV 1
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137369
+#EXTINF:-1 tvg-id="" tvg-name="TVLITE PPV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/PS_PPV_2.svg/revision/latest/scale-to-width-down/200?cb=20250118001742" group-title="⭐Eventos en Vivo⭐",TVLITE PPV 2
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137370
+#EXTINF:-1 tvg-id="" tvg-name="TVLITE PPV 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Prima_Sport_PPV_3.svg/revision/latest/scale-to-width-down/1000?cb=20250118001004" group-title="⭐Eventos en Vivo⭐",TVLITE PPV 3
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137371
+
 
 
 
