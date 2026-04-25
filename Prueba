@@ -36,8 +36,7 @@
 
 
 
-#EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/TyC_Sports_%281994%29.png",TyC Sports
-https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+
 
 
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", a DSPORTS
