@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 tvg-id="Cadena103TV.ar@SD",Cadena 103 (720p) [Not 24/7]
+http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 
 
 
