@@ -1,18 +1,7 @@
 #EXTM3U
 
 
-https://1063-aws-da-mt.vrioott.com/1063_DIRECTV_SPORTS_2_HD_DASH/manifest.mpd
-c1863664cbc33e9b951ac0e270309891:6e50b1ed60c0feb12836cb6a37d299b5
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flow_logo_2021.svg/1280px-Flow_logo_2021.svg.png" group-title="Tango Sports", EVENTO FLOW 2
-https://af1c1onados.vercel.app/10.EVEntOs.dEl.DiA.w3u
 
 #EXTINF:-1  group-title="LATINO 1" ,DSPORTS HD
 http://190.238.43.117:8000/play/a09d/index.m3u8
