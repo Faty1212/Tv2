@@ -906,8 +906,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Hustler/SA_Live_dash_enc_C/Hustler.mpd
 https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_C/Sextreme.mpd
 
 
-#EXTINF:0 group-title="⚽Deportes🏀" ,DSPORTS +
-http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592039.ts
+
 #EXTINF:0 group-title="⚽Deportes🏀" ,DSPORTS 2
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592038.ts
 #EXTINF:0 group-title="⚽Deportes🏀" ,DSPORTS (URU)
@@ -929,6 +928,8 @@ https://tv.nousiptv.com:8443/Henrymaria/Perato/32882
 ñ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="⚽Deportes🏀", dsports +
 http://190.238.43.117:8000/play/a09g/index.m3u8
+#EXTINF:0 group-title="⚽Deportes🏀" ,DSPORTS +
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592039.ts
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFK_heqWba22Mvq468L1tEM42AcS0CHGuiA&s" group-title="⚽Deportes🏀",Dsports 2
 http://217.26.190.76:8888/play/a0jb/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
