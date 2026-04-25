@@ -926,10 +926,11 @@ http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9562
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9563
 #EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="⚽Deportes🏀",DSPORTS 2
 https://tv.nousiptv.com:8443/Henrymaria/Perato/32882
+ñ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="⚽Deportes🏀", dsports +
+http://190.238.43.117:8000/play/a09g/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFK_heqWba22Mvq468L1tEM42AcS0CHGuiA&s" group-title="⚽Deportes🏀",Dsports +
 http://217.26.190.76:8888/play/a0jb/index.m3u8
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - DIRECTV SPORTS PLUS SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="⚽Deportes🏀",DSPORTS +
-https://tv.nousiptv.com:8443/Henrymaria/Perato/8520
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
 #EXTINF:-1 group-title="⚽Deportes🏀" ,ESPN
