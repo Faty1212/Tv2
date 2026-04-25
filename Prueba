@@ -1,21 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="Cadena103TV.ar@SD",Cadena 103 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Cadena103TV.ar@SD",Cadena 103
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar@SD",El Trece (1080p)
-#EXTVLCOPT:http-referrer=https://vodgc.net
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports.ar@SD",Fox Sports (1080p)
-#EXTVLCOPT:http-referrer=https://foxsports.com.ar/
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar@SD",TyC Sports (720p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-90.playlist.m3u8
-#EXTINF:-1 tvg-id="TN.ar@SD",TN (2160p)
-https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
-#EXTINF:-1 tvg-id="TelefeSantaFe.ar@SD",Telefe Santa Fe (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-10.playlist.m3u8
-#EXTINF:-1 tvg-id="Telefe.ar@SD",Telefe (1080p)
+#EXTINF:-1 tvg-id="Telefe.ar@SD",Telefe
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
 
 
