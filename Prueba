@@ -1,11 +1,13 @@
 #extm3u
 
+https://1066-aws.vrioott.com/1066_DIRECTV_SPORTS_OCC_3_DASH/manifest.mpd
 
+819c353c167435409d2b41c76f75b2d7:13fdd0f0ca3fcb309867a5557e125fe1
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-#EXTINF:-1 ch-number="11" tvg-id="TNT SPORTS PREMIUM.ar" tvg-logo="https://i.postimg.cc/WbsZGtb2/Fondo_Oscuro.png" group-title="Deportes", TNT Sports Premium 
-https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=819c353c167435409d2b41c76f75b2d7:13fdd0f0ca3fcb309867a5557e125fe1
+#EXTINF:-1 ch-number="11" tvg-id="TNT SPORTS PREMIUM.ar" tvg-logo="https://i.postimg.cc/WbsZGtb2/Fondo_Oscuro.png" group-title="Deportes", dsports 
+https://1066-aws.vrioott.com/1066_DIRECTV_SPORTS_OCC_3_DASH/manifest.mpd
 
 
 
