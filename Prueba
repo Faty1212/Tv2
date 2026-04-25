@@ -12,16 +12,9 @@
 
 
 
-#EXTINF:1,-DEPORTES-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="DEPORTES", EVENTOS TICKET 1
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="DEPORTES", EVENTOS TICKET 2
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="DEPORTES", EVENTOS TICKET 3
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
 
-#EXTINF:-1 tvg-id="Cadena103TV.ar@SD",Cadena 103
-http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="Telefe.ar@SD",Telefe
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
 
