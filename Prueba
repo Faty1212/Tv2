@@ -14,8 +14,7 @@ https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-id="ESPN.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", Disney
-http://181.225.190.242:8000/play/a01l
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Telefe
 http://tv.zapping.life:8080/Cuentadece/0eaa700b6a7b/157589
