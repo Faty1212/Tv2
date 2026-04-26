@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="BravoTV.ar@SD" group-title="ARGENTINA", Bravo TV (ARG)
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
+
 #EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN PREMIUM SUR FHD" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="• LATINO DEPORTES •", ESPN PREMIUM
 https://tv.nousiptv.com:8443/Henrymaria/Perato/7940
 
