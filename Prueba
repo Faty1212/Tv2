@@ -6,8 +6,6 @@ https://tv.nousiptv.com:8443/Henrymaria/Perato/7940
 https://tv.nousiptv.com:8443/Henrymaria/Perato/43638
 
 
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://i.ibb.co/LrNsJsP/espnpremium.png" group-title="⚽ ESPN ⚽", ESPN PREMIUM 3
-http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157562
 
 #EXTINF:0 CUID="1366" tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="PACK FUTBOL",Espn Premiun 4
 http://190.7.19.197:232/play/a038/index.m3u8
