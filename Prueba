@@ -3,7 +3,26 @@
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png",Canal 10 Cordoba
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 
-
+#EXTINF:-1 group-title="Videx Ultra", ARGElNueveHD
+videx-limit182-stream.x10.mx:9992/videx/ultratv/ARGElNueveHD
+#EXTINF:-1 group-title="Videx Ultra", ARGEncuentroHD
+videx-limit182-stream.x10.mx:9992/videx/ultratv/ARGEncuentroHD
+#EXTINF:-1 group-title="Videx Ultra", ARGGarageTVHD
+videx-limit182-stream.x10.mx:9992/videx/ultratv/ARGGarageTVHD
+#EXTINF:-1 group-title="Videx Ultra", ARGInformacionPeriodisticaHD
+videx-limit182-stream.x10.mx:9992/videx/ultratv/ARGInformacionPeriodisticaHD
+#EXTINF:-1 group-title="Videx Ultra", ARGTelefeInternacionalHD
+videx-limit182-stream.x10.mx:9992/videx/ultratv/ARGTelefeInternacionalHD
+#EXTINF:-1 group-title="Videx Ultra", ARGTNNoticias
+videx-limit182-stream.x10.mx:9992/videx/ultratv/ARGTNNoticias
+#EXTINF:-1 group-title="Videx Ultra", BRAMCHD
+videx-limit182-stream.x10.mx:9992/videx/ultratv/BRAMCHD
+#EXTINF:-1 group-title="Videx Ultra", BRGloboHD
+videx-limit182-stream.x10.mx:9992/videx/ultratv/BRGloboHD
+#EXTINF:-1 group-title="Videx Ultra", BRHBOHD
+videx-limit182-stream.x10.mx:9992/videx/ultratv/BRHBOHD
+#EXTINF:-1 group-title="Videx Ultra", CanalUno.ec
+videx-limit182-stream.x10.mx:9992/videx/ultratv/CanalUno.ec
 
 
 
