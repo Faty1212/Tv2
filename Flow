@@ -982,7 +982,7 @@ https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 http://190.7.19.197:232/play/a037/index.m3u8
 #EXTINF:0 group-title="⚽Deportes🏀" ,TNT Premium
 http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png" group-title="⚽Deportes🏀", TNT SPORTs
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png" group-title="⚽Deportes🏀", TNT premium
 https://latam-cache-sv2-cdn.latamlive.net/TNTS_ENC_LIVE/index.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="⚽Deportes🏀", TNT Premium
 http://181.13.252.102:8000/play/a0bc/index.m3u8
