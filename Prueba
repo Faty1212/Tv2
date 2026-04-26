@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png",Canal 10 Cordoba
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 
-#EXTINF:-1 group-title="Videx Ultra", ARGElNueveHD
+#EXTINF:-1 tvg-id="Canal10Cordoba.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png", group-title="Videx Ultra", ARGElNueveHD
 videx-limit182-stream.x10.mx:9992/videx/ultratv/ARGElNueveHD
 #EXTINF:-1 group-title="Videx Ultra", ARGEncuentroHD
 videx-limit182-stream.x10.mx:9992/videx/ultratv/ARGEncuentroHD
