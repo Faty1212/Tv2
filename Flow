@@ -1269,6 +1269,8 @@ http://181.13.252.102:8000/play/a0bg/index.m3u8
 #EXTINF:-1 group-title="🇦🇷Argentina🇦🇷",el trece
 #EXTINF:-1 tvg-id="330182" tvg-name="América 24 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yfXBuQmon9WVy3ETX9fuq0w4U8Hvq391YA&s" group-title="🇦🇷Argentina🇦🇷", A24 
 http://181.13.252.102:8000/play/a01o/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-id="NETTV.ar" group-title="🇦🇷ARGENTINA🇦🇷", Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 
 
