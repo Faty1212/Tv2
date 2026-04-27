@@ -3,6 +3,20 @@
 
 #EXTINF:-1,LU32 - Radio Olavarria 1160 AM
 https://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.mp3
+#EXTINF:-1,FM_107.1_Moebius
+https://streaming.escuchanosonline.com:7220/stream
+#EXTINF:-1,FM_Tiempo_101
+https://radios.streamingdha.com.ar/8064/stream
+#EXTINF:-1,Radio_Tiempo_Online
+https://streaming3.locucionar.com/proxy/radiotiempoonline?mp=/stream
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Telefe
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
