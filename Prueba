@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1,FM_99.9_Olavarria
+200 https://streamall.alsolnet.com/la99olavarria
 #EXTINF:-1,LU32 - Radio Olavarria 1160 AM
 https://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.mp3
 #EXTINF:-1,FM_107.1_Moebius
