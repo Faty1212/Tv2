@@ -10,8 +10,8 @@ https://streaming.escuchanosonline.com:7220/stream
 https://radios.streamingdha.com.ar/8064/stream
 #EXTINF:-1,Radio_Tiempo_Online
 https://streaming3.locucionar.com/proxy/radiotiempoonline?mp=/stream
-#EXTINF:-1,Radio_Sapiens_102.7
-http://190.61.250.140:8042/
+#EXTINF:-1,Radio_Sapiens
+http://gnstreammedia.us:9994/stream/
 #EXTINF:-1,Radio_Show_106.5
 200 http://desatec.net:8704/
 #EXTINF:-1,Radio Magica
