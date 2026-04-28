@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="LD - DIRECTV SPORTS" tvg-logo="http://descargas.podzone.net/Logos3/005.png" group-title="• LATINO DEPORTES •",LD - DIRECTV SPORTS
-https://tv.nousiptv.com:8443/Henrymaria/Perato/1091366
+
 
 #EXTINF:-1 tvg-id="" tvg-name="DIREC TV HD" group-title="CANALES DE CABLE",DIREC TV
 http://217.26.190.76:8888/play/a0co/index.m3u8
