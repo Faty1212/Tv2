@@ -72,7 +72,8 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137371
 
 
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="⚽Deportes🏀", Dsports
+http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DIREC TV HD" group-title="⚽Deportes🏀",Dsports
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/132.ts
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="LD - DIRECTV SPORTS" tvg-logo="http://descargas.podzone.net/Logos3/005.png" group-title="⚽DEPORTES🏀",DSPORTS
