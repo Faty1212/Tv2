@@ -220,6 +220,8 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_C/FoxSports2H
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
+#EXTINF:1 CUID="189" tvg-name="Fox Sports 3 HD" tvg-logo="https://logo.m3uassets.com/foxsports3.png" tvg-id="FOXSports3.ar" group-title="⚽Deportes🏀",Fox Sports 3
+https://tv.nousiptv.com:8443/Henrymaria/Perato/33475
 #EXTINF:-1 tvg-id="FOX Sports 3 (ARG).ar" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/33795984072366.png" group-title="⚽Deportes🏀", FOX Sports 3
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3HD.mpd
 
