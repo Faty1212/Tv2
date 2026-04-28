@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ESPN.cl" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", DISNEY 2
+#EXTVLCOPT:network-caching=1000
+http://45.169.163.237:4000/play/a03e
 #EXTINF:-1,Disney
 #EXTVLCOPT:network-caching=1000
 http://91.202.196.122:8000/play/a001/index.m3u8
