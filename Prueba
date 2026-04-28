@@ -16,7 +16,14 @@ http://gnstreammedia.us:9994/stream/
 200 http://desatec.net:8704/
 #EXTINF:-1,Radio telefe
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/sa_hls_full_e_95AEFABF606F67368D62A486/TelefeHD-mp4a_145200_spa=4.m3u8
-
+#EXTINF:-1 tvg-id="USA | D SPORTS" tvg-name="USA | D SPORTS" tvg-logo="" group-title="DEPORTES", 120.1 | D SPORTS 
+http://190.238.43.117:8000/play/a09d/index.m3u8
+#EXTINF:-1 tvg-id="USA | D SPORTS" tvg-name="USA | D SPORTS" tvg-logo="" group-title="DEPORTES", 120.1.1 | D SPORTS 
+http://190.238.43.117:8000/play/a09d/index.m3u8
+#EXTINF:-1 tvg-id="USA | D SPORTS2" tvg-name="USA | D SPORTS2" tvg-logo="" group-title="DEPORTES", 120.2 | D SPORTS 2 
+http://190.238.43.117:8000/play/a09g/index.m3u8
+#EXTINF:-1 tvg-id="USA | D SPORTS +" tvg-name="USA | D SPORTS+" tvg-logo="" group-title="DEPORTES", 120.3 | D SPORTS +
+http://190.238.43.117:8000/play/a09f/index.m3u8
 
 
 
