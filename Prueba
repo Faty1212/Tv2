@@ -4,9 +4,9 @@
 
 
 
-#EXTINF:-1 group-title="📻Radios📻" tvg-logo="https://streaminglocucionar.com/portal/images/logos/olavarria999.png",FM_99.9_Olavarria
+#EXTINF:-1 group-title="📻Radios📻" tvg-logo="https://streaminglocucionar.com/portal/images/logos/olavarria999.png", FM 99.9 Olavarria
 200 https://streamall.alsolnet.com/la99olavarria
-#EXTINF:-1 group-title="📻Radios📻" tvg-logo="",LU32 - Radio Olavarria 1160 AM
+#EXTINF:-1 group-title="📻Radios📻" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXzS6nzdYPabRknB7i3-1YRzYtIDXMoPMHWc8e_Kunzp6qKN59uols_jU0&s=10", Radio Olavarria 1160 AM
 https://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.mp3
 #EXTINF:-1 group-title="📻Radios📻" tvg-logo="" ,FM_107.1_Moebius
 https://streaming.escuchanosonline.com:7220/stream
