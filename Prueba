@@ -7,27 +7,6 @@
 
 
 
-#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •",DSPORTS 2 op1
-
-https://tv.nousiptv.com:8443/Henrymaria/Perato/32882
-
-
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - DIRECTV SPORTS PLUS SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •",DSPORTS plus 
-
-http://190.238.43.117:8000/play/a09g/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
-
-#EXTINF:-1 ch-number="11" tvg-id="Flow Sports.ar" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/53028730071359.png" group-title="Deportes", Flow Sports
-
-https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_C/Eventos1HD.mpd
-
-#EXTINF:0 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS" CUID="22" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="ALTERNATIVOS 2",FOX SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-
-https://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd.m3u8
 
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-FoxSports.png?raw=true" group-title="Deportes",Fox Sports 1 🇦🇷 2
