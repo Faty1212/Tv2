@@ -5,6 +5,74 @@ url-tvg="https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://www.open-ep
 #KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
 url-tvg="https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://www.open-epg.com/generate/YbXmXks9dD.xml.gz,https://epghub.xyz/epg/EPG-ES-UY.xml.gz,https://epghub.xyz/epg/EPG-PLEX-RAKUTEN-SV.xml.gz,https://juno.epg.elektamedia.com/api/Programme/40mediaSpA/Juno/xml/allchannels/xmltv.xml,https://nocords.xyz/pluto/epg.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/br.xml.gz,http://192.99.212.247/epg.xml"
 
+#EXTINF:-1 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 01
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-01.playlist.m3u8
+#EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 02
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02.playlist.m3u8
+#EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 03
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-03.playlist.m3u8
+#EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 04
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-04.playlist.m3u8
+#EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 05
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-05.playlist.m3u8
+#EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 06
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-06.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="⭐Eventos en Vivo⭐", EVENTOS TICKET 1
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="⭐Eventos en Vivo⭐", EVENTOS TICKET 2
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="⭐Eventos en Vivo⭐", EVENTOS TICKET 3
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
+#EXTINF:-1 tvg-id="Canal.ESPN.(Chile).sv" tvg-name="CHI-Espn 1 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="⭐Eventos en Vivo⭐",DISNEY 1
+http://181.225.190.242:8000/play/a01l
+#EXTINF:0 tvg-id="ESPN.cl" group-title="⭐Eventos en Vivo⭐" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", DISNEY OPC 2
+#EXTVLCOPT:network-caching=1000
+http://45.169.163.237:4000/play/a03e
+#EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="⭐Eventos en Vivo⭐",DISNEY 2
+http://191.97.14.162:8000/play/a016/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed53871dc50dcdc59a6271db3c8c51b3:0c21dc8629e3f2e6fe9efa8b80dc447e
+#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="⭐Eventos en Vivo⭐" ch-number="103" type="channel",DISNEY 3
+https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc_C/ESPN3_Uy-Py.mpd
+#EXTINF:-1 group-title="⭐Eventos en Vivo⭐",DISNEY 4
+http://205.235.6.29:8000/play/a0pz/index.m3u8
+#EXTINF:-1 tvg-id="321566" tvg-name="ESPN Premium • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="⭐ Eventos en vivo⭐", Disney 4 
+http://45.181.122.46:8090/play/a015?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="⭐Eventos en Vivo⭐",TIGO 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://sam-py-edge02.tigo.com.py
+#KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+#EXTINF:-1  group-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg=w600-h300-pc0xffffff-pd" tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="⭐Eventos en Vivo⭐",TIGO 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
+https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
+#EXTINF:-1 ch-number="11" tvg-id="Flow Sports.ar" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/53028730071359.png" group-title="⭐Eventos en Vivo⭐", Flow Sports
+https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_C/Eventos1HD.mpd
+#EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT FULL HD" tvg-logo="https://i.ibb.co/7Lbfbbn/unnamed.jpg" group-title="⭐Eventos en Vivo⭐",TV LITE SPORT FULL HD
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137366
+#EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT 2" tvg-logo="https://i.ibb.co/pvfhxpX7/SPORT2.jpg" group-title="⭐Eventos en Vivo⭐",TV LITE SPORT 2
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137368
+#EXTINF:-1 tvg-id="" tvg-name="TV LITE 4K" tvg-logo="https://i.ibb.co/cSqz7ZtY/4K.jpg" group-title="⭐Eventos en Vivo⭐",TV LITE 4K
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137372
+#EXTINF:-1 tvg-id="" tvg-name="TVLITE PPV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/PS_PPV_1.svg/revision/latest/scale-to-width-down/200?cb=20250118001249" group-title="⭐Eventos en Vivo⭐",TVLITE PPV 1
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137369
+#EXTINF:-1 tvg-id="" tvg-name="TVLITE PPV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/PS_PPV_2.svg/revision/latest/scale-to-width-down/200?cb=20250118001742" group-title="⭐Eventos en Vivo⭐",TVLITE PPV 2
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137370
+#EXTINF:-1 tvg-id="" tvg-name="TVLITE PPV 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Prima_Sport_PPV_3.svg/revision/latest/scale-to-width-down/1000?cb=20250118001004" group-title="⭐Eventos en Vivo⭐",TVLITE PPV 3
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137371
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="DIREC TV HD" group-title="⚽Deportes🏀",Dsports
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/132.ts
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="LD - DIRECTV SPORTS" tvg-logo="http://descargas.podzone.net/Logos3/005.png" group-title="⚽DEPORTES🏀",DSPORTS
@@ -1095,70 +1163,6 @@ http://181.13.252.102:8000/play/a05a/index.m3u8?PlaylistM3UCL
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3u8
 
 
-#EXTINF:-1 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 01
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-01.playlist.m3u8
-#EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 02
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02.playlist.m3u8
-#EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 03
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-03.playlist.m3u8
-#EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 04
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-04.playlist.m3u8
-#EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 05
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-05.playlist.m3u8
-#EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 06
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-06.playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="⭐Eventos en Vivo⭐", EVENTOS TICKET 1
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="⭐Eventos en Vivo⭐", EVENTOS TICKET 2
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="⭐Eventos en Vivo⭐", EVENTOS TICKET 3
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
-#EXTINF:-1 tvg-id="Canal.ESPN.(Chile).sv" tvg-name="CHI-Espn 1 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="⭐Eventos en Vivo⭐",DISNEY 1
-http://181.225.190.242:8000/play/a01l
-#EXTINF:0 tvg-id="ESPN.cl" group-title="⭐Eventos en Vivo⭐" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", DISNEY OPC 2
-#EXTVLCOPT:network-caching=1000
-http://45.169.163.237:4000/play/a03e
-#EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="⭐Eventos en Vivo⭐",DISNEY 2
-http://191.97.14.162:8000/play/a016/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed53871dc50dcdc59a6271db3c8c51b3:0c21dc8629e3f2e6fe9efa8b80dc447e
-#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="⭐Eventos en Vivo⭐" ch-number="103" type="channel",DISNEY 3
-https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc_C/ESPN3_Uy-Py.mpd
-#EXTINF:-1 group-title="⭐Eventos en Vivo⭐",DISNEY 4
-http://205.235.6.29:8000/play/a0pz/index.m3u8
-#EXTINF:-1 tvg-id="321566" tvg-name="ESPN Premium • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="⭐ Eventos en vivo⭐", Disney 4 
-http://45.181.122.46:8090/play/a015?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="⭐Eventos en Vivo⭐",TIGO 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://sam-py-edge02.tigo.com.py
-#KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
-https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
-#EXTINF:-1  group-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg=w600-h300-pc0xffffff-pd" tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="⭐Eventos en Vivo⭐",TIGO 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
-https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
-#EXTINF:-1 ch-number="11" tvg-id="Flow Sports.ar" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/53028730071359.png" group-title="⭐Eventos en Vivo⭐", Flow Sports
-https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_C/Eventos1HD.mpd
-#EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT FULL HD" tvg-logo="https://i.ibb.co/7Lbfbbn/unnamed.jpg" group-title="⭐Eventos en Vivo⭐",TV LITE SPORT FULL HD
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137366
-#EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT 2" tvg-logo="https://i.ibb.co/pvfhxpX7/SPORT2.jpg" group-title="⭐Eventos en Vivo⭐",TV LITE SPORT 2
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137368
-#EXTINF:-1 tvg-id="" tvg-name="TV LITE 4K" tvg-logo="https://i.ibb.co/cSqz7ZtY/4K.jpg" group-title="⭐Eventos en Vivo⭐",TV LITE 4K
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137372
-#EXTINF:-1 tvg-id="" tvg-name="TVLITE PPV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/PS_PPV_1.svg/revision/latest/scale-to-width-down/200?cb=20250118001249" group-title="⭐Eventos en Vivo⭐",TVLITE PPV 1
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137369
-#EXTINF:-1 tvg-id="" tvg-name="TVLITE PPV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/PS_PPV_2.svg/revision/latest/scale-to-width-down/200?cb=20250118001742" group-title="⭐Eventos en Vivo⭐",TVLITE PPV 2
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137370
-#EXTINF:-1 tvg-id="" tvg-name="TVLITE PPV 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Prima_Sport_PPV_3.svg/revision/latest/scale-to-width-down/1000?cb=20250118001004" group-title="⭐Eventos en Vivo⭐",TVLITE PPV 3
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137371
-
-
 
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343477/jpaigp1p0weik0s8red0.png" group-title="🇦🇷Argentina🇦🇷",CNN en Español (C)
@@ -1540,7 +1544,12 @@ http://45.228.234.30:16000/play/a00a
 #EXTINF:-1 group-title="🎬Cine, Novelas y Series🎥" ,Hbo family
 http://45.228.234.30:16000/play/a00b
 
-
+#EXTINF:-1 group-title="📻Radios📻" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXzS6nzdYPabRknB7i3-1YRzYtIDXMoPMHWc8e_Kunzp6qKN59uols_jU0&s=10", Radio Olavarria 1160 AM
+https://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.mp3
+#EXTINF:-1 group-title="📻Radios📻" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsnwINANEQxuQa7UNpAMb827HHrxAQltgvA-V8XUD2-B9jaqqCePYIixOg&s=10" , FM 107.1 Moebius
+https://streaming.escuchanosonline.com:7220/stream
+#EXTINF:-1 group-title="📻Radios📻" tvg-logo="https://i0.wp.com/fmtiempo.com/wp-content/uploads/2023/08/cropped-512.png?fit=512%2C512&ssl=1" ,FM Tiempo 101
+https://radios.streamingdha.com.ar/8064/stream
 
 
 
