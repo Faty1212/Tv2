@@ -10,12 +10,7 @@ https://streaming.escuchanosonline.com:7220/stream
 https://radios.streamingdha.com.ar/8064/stream
 #EXTINF:-1,Radio_Tiempo_Online
 https://streaming3.locucionar.com/proxy/radiotiempoonline?mp=/stream
-#EXTINF:-1,Radio_Sapiens
-http://gnstreammedia.us:9994/stream/
-#EXTINF:-1,Radio_Show_106.5
-200 http://desatec.net:8704/
-#EXTINF:-1,Radio telefe
-https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/sa_hls_full_e_95AEFABF606F67368D62A486/TelefeHD-mp4a_145200_spa=4.m3u8
+ 
 #EXTINF:-1 tvg-id="USA | D SPORTS" tvg-name="USA | D SPORTS" tvg-logo="" group-title="DEPORTES", 120.1 | D SPORTS 
 http://190.238.43.117:8000/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="USA | D SPORTS" tvg-name="USA | D SPORTS" tvg-logo="" group-title="DEPORTES", 120.1.1 | D SPORTS 
@@ -24,7 +19,18 @@ http://190.238.43.117:8000/play/a09d/index.m3u8
 http://190.238.43.117:8000/play/a09g/index.m3u8
 #EXTINF:-1 tvg-id="USA | D SPORTS +" tvg-name="USA | D SPORTS+" tvg-logo="" group-title="DEPORTES", 120.3 | D SPORTS +
 http://190.238.43.117:8000/play/a09f/index.m3u8
-
+#EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES", 121 | ESPN
+http://siriustv.lat:8000/play/a0dg/index.m3u8
+#EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES", 122 | ESPN 2
+http://siriustv.lat:8000/play/a0db/index.m3u8
+#EXTINF:-1 tvg-id="USA | ESPN 3" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES", 123 | ESPN 3
+http://siriustv.lat:8000/play/a0dc/index.m3u8
+#EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/250px-ESPN_4_logo.svg.png" group-title="DEPORTES", 124 | ESPN 4
+http://siriustv.lat:8000/play/a0dp/index.m3u8
+#EXTINF:-1 tvg-id="USA | ESPN 5" tvg-name="USA | ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/250px-ESPN_5_logo.svg.png" group-title="DEPORTES", 125 | ESPN 5
+http://siriustv.lat:8000/play/a0de/index.m3u8
+#EXTINF:-1 tvg-id="USA | ESPN 6" tvg-name="USA | ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/250px-ESPN_6_logo.svg.png" group-title="DEPORTES", 126 | ESPN 6
+http://siriustv.lat:8000/play/a0dd/index.m3u8
 
 
 
