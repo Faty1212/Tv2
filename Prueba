@@ -2,8 +2,16 @@
 
 
 
-
-
+#EXTINF:0,ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://45.181.122.46:8090/play/a01t
+#EXTINF:-1,TNT SPORTS PREM ARG
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.181.122.46:8090/play/a01v
+#EXTINF:-1,ESPN 2
+http://181.78.82.6:46090/play/a00i/index.m3u8
 #EXTINF:-1 group-title="📻Radios📻" tvg-logo="https://streaminglocucionar.com/portal/images/logos/olavarria999.png", FM 99.9 Olavarria
 https://streamall.alsolnet.com/la99olavarria
 
