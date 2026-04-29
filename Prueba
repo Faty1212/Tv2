@@ -10,12 +10,7 @@ https://streamall.alsolnet.com/la99olavarria
 #EXTINF:-1 group-title="📻Radios📻" tvg-logo="" ,Radio_Tiempo_Online
 https://streaming3.locucionar.com/proxy/radiotiempoonline?mp=/stream
  
-#EXTINF:-1 tvg-id="USA | D SPORTS" tvg-name="USA | D SPORTS" tvg-logo="" group-title="DEPORTES", 120.1 | D SPORTS 
-http://190.238.43.117:8000/play/a09d/index.m3u8
-#EXTINF:-1 tvg-id="USA | D SPORTS" tvg-name="USA | D SPORTS" tvg-logo="" group-title="DEPORTES", 120.1.1 | D SPORTS 
-http://190.238.43.117:8000/play/a09d/index.m3u8
-#EXTINF:-1 tvg-id="USA | D SPORTS2" tvg-name="USA | D SPORTS2" tvg-logo="" group-title="DEPORTES", 120.2 | D SPORTS 2 
-http://190.238.43.117:8000/play/a09g/index.m3u8
+
 #EXTINF:-1 tvg-id="USA | D SPORTS +" tvg-name="USA | D SPORTS+" tvg-logo="" group-title="DEPORTES", 120.3 | D SPORTS +
 http://190.238.43.117:8000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES", 121 | ESPN
