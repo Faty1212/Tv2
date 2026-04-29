@@ -11,8 +11,6 @@ https://streamall.alsolnet.com/la99olavarria
 https://streaming3.locucionar.com/proxy/radiotiempoonline?mp=/stream
  
 
-#EXTINF:-1 tvg-id="USA | D SPORTS +" tvg-name="USA | D SPORTS+" tvg-logo="" group-title="⚽DEPORTES🏀", DSPORTS +
-http://190.238.43.117:8000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES", 121 | ESPN
 http://siriustv.lat:8000/play/a0dg/index.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES", 122 | ESPN 2
