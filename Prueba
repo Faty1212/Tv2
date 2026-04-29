@@ -42,8 +42,6 @@ http://siriustv.lat:8000/play/a0dp/index.m3u8
 http://siriustv.lat:8000/play/a0de/index.m3u8
 #EXTINF:-1 tvg-id="USA | ESPN 6" tvg-name="USA | ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/250px-ESPN_6_logo.svg.png" group-title="DEPORTES", 126 | ESPN 6
 http://siriustv.lat:8000/play/a0dd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="⚽ Deportes",✔️ Dsports
-http://190.108.83.69:8000/play/a05w/index.m3u8
 
 
 
