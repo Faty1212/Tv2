@@ -14,18 +14,6 @@ https://streaming3.locucionar.com/proxy/radiotiempoonline?mp=/stream
 
 
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title="ARGENTINA" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2035855.jpg", América TV
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-
 #EXTINF:-1 tvg-id="0915" group-title="ARGENTINA" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece 1 (ARG)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.m3u8player.online/
