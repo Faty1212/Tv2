@@ -9,27 +9,6 @@ https://streamall.alsolnet.com/la99olavarria
 
 #EXTINF:-1 group-title="📻Radios📻" tvg-logo="" ,Radio_Tiempo_Online
 https://streaming3.locucionar.com/proxy/radiotiempoonline?mp=/stream
- 
-
-#EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES", 121 | ESPN
-http://siriustv.lat:8000/play/a0dg/index.m3u8
-#EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES", 122 | ESPN 2
-http://siriustv.lat:8000/play/a0db/index.m3u8
-#EXTINF:-1 tvg-id="USA | ESPN 3" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES", 123 | ESPN 3
-http://siriustv.lat:8000/play/a0dc/index.m3u8
-#EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/250px-ESPN_4_logo.svg.png" group-title="DEPORTES", 124 | ESPN 4
-http://siriustv.lat:8000/play/a0dp/index.m3u8
-#EXTINF:-1 tvg-id="USA | ESPN 5" tvg-name="USA | ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/250px-ESPN_5_logo.svg.png" group-title="DEPORTES", 125 | ESPN 5
-http://siriustv.lat:8000/play/a0de/index.m3u8
-#EXTINF:-1 tvg-id="USA | ESPN 6" tvg-name="USA | ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/250px-ESPN_6_logo.svg.png" group-title="DEPORTES", 126 | ESPN 6
-http://siriustv.lat:8000/play/a0dd/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Telefe
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 
 
 
@@ -40,11 +19,9 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="Prueba", Telefe
-http://tv.zapping.life:8080/Cuentadece/0eaa700b6a7b/157589
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://cdn.storyasset.link/LvEHmehvPQc4kbsFtQVQguewG3c2/logotn1-ms-vcnfcadech.png" group-title="Noticias",TN
-https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
+
+
 
 #EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title="ARGENTINA" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/2035855.jpg", América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
