@@ -1,6 +1,25 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-id="" tvg-name="AR ESPN_HD" tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ARGENTINA || SPORTS", ESPN_HD
+http://supersonictv.live:8080/Norman123/Norman123/5100
+#EXTINF:-1 tvg-id="" tvg-name="AR ESPN_2_HD" tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ARGENTINA || SPORTS", ESPN_2_HD
+http://supersonictv.live:8080/Norman123/Norman123/5098
+#EXTINF:-1 tvg-id="" tvg-name="AR ESPN_3_HD" tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ARGENTINA || SPORTS", ESPN_3_HD
+http://supersonictv.live:8080/Norman123/Norman123/5099
+#EXTINF:-1 tvg-id="" tvg-name="AR ESPN4_HD" tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ARGENTINA || SPORTS", ESPN4_HD
+http://supersonictv.live:8080/Norman123/Norman123/5097
+#EXTINF:-1 tvg-id="" tvg-name="AR DEPORTV" tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ARGENTINA || SPORTS", DEPORTV
+http://supersonictv.live:8080/Norman123/Norman123/5090
+#EXTINF:-1 tvg-id="" tvg-name="AR FOX_SPORTS_HD" tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ARGENTINA || SPORTS", FOX_SPORTS_HD
+http://supersonictv.live:8080/Norman123/Norman123/5118
+#EXTINF:-1 tvg-id="" tvg-name="AR FOX_SPORTS_2_HD" tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ARGENTINA || SPORTS", FOX_SPORTS_2_HD
+http://supersonictv.live:8080/Norman123/Norman123/5116
+#EXTINF:-1 tvg-id="" tvg-name="AR FOX_SPORTS_3_HD" tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ARGENTINA || SPORTS", FOX_SPORTS_3_HD
+http://supersonictv.live:8080/Norman123/Norman123/5117
+#EXTINF:-1 tvg-id="" tvg-name="AR GOLF" tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ARGENTINA || SPORTS", GOLF
+http://supersonictv.live:8080/Norman123/Norman123/5123
+#EXTINF:-1 tvg-id="" tvg-name="AR TYC_SPORTS" tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ARGENTINA || SPORTS", TYC_SPORTS
+http://supersonictv.live:8080/Norman123/Norman123/5177
 #EXTINF:-1,Los Simpons 24/7
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/playlist.m3u8
 #EXTINF:0,ESPN 6HD
