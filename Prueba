@@ -20,8 +20,7 @@ http://supersonictv.live:8080/Norman123/Norman123/5117
 http://supersonictv.live:8080/Norman123/Norman123/5123
 #EXTINF:-1 tvg-id="" tvg-name="AR TYC_SPORTS" tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="SHAREEXT@ ARGENTINA || SPORTS", TYC_SPORTS
 http://supersonictv.live:8080/Norman123/Norman123/5177
-#EXTINF:-1,Los Simpons 24/7
-https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/playlist.m3u8
+
 #EXTINF:0,ESPN 6HD
 #EXTVLCOPT:network-caching=1000
 http://45.181.122.46:8090/play/a01u
