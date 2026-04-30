@@ -1,5 +1,83 @@
 #EXTM3U
 
+#EXTINF:-1 ,tycsports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bGFuZQ.fubohd.com:443/tycsports/mono.m3u8?token=164a3141104c6eb9cae7e2ca12a3324b70c05a34-8c-1776980672-1776962672
+
+
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" ggroup-title="Noticias" user-agent="iPhone",A24-2
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+
+#EXTINF:-1 tvg-id="09172" tvg-name="Canal 26-2" tvg-logo="https://camo.githubusercontent.com/15d862457b0cbf7025a7fa820b5d787210ffbc04385f13dd93db74eae5b2cda9/68747470733a2f2f692e696d6775722e636f6d2f78446a4f55757a2e706e67" group-title="Noticias", Canal 26-2
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__26.1CANAL26___
+
+#EXTINF:-1 tvg-id="0001" tvg-name="TN1" group-title="Noticias" tvg-logo="https://camo.githubusercontent.com/3c80ccd3373c1e6b8a6ddd0dd6f65b3b36af5509d3ad2a55ba6e8471ba4035aa/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34662f544e5f746f646f5f6e6f7469636961735f6c6f676f2e7376672f32303070782d544e5f746f646f5f6e6f7469636961735f6c6f676f2e7376672e706e67", TN-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvlibr3.com/html/fl/?get=VG9kb05vdGljaWFz
+
+
+#EXTINF:-1 ,Todo Noticias (CABA)
+https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
+
+
+
+# General------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="0915" group-title="General/Abierta" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
+#EXTVLCOPT:http-referrer=https://www.m3u8player.online/
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
+
+#EXTINF:-1 tvg-id="190923" tvg-name="Telefe-3",Telefe-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="General/Abierta" tvg-logo="https://camo.githubusercontent.com/f214a53f9120715748ba74bdb8996e3b68bdf1b2fd803f126be4833f0943c6d4/68747470733a2f2f692e696d6775722e636f6d2f45746356536d342e706e67", El Nueve
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-16_720.m3u8
+
+
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://camo.githubusercontent.com/3681523dcb92981be2a5de033c17a88728be3351c5b47d4d9b93fcf342386bb0/68747470733a2f2f692e696d6775722e636f6d2f4a7437644f516d2e706e67" group-title="General/Abierta" user-agent="iPhone",America TV-2
+#EXTVLCOPT:http-user-agent=iPhone
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
+
+
+#EXTINF:-1 tvg-id="0903" tvg-name="TV Pública" group-title="General/Abierta" tvg-logo="https://camo.githubusercontent.com/5b6aec0ad97f7e2a6a9bcd157a1c9e9a872ce0297b2e9a9168a9341d9fca75ba/68747470733a2f2f692e696d6775722e636f6d2f346859597069752e706e67", TV Publica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="0640" tvg-name="Unife TV" group-title="General/Abierta" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbmmnhGHqQfMIHzqf5KrGGTxVUMXufmE4FaNl5C3Pudx7rl-ypzYXwkYGCPZZyDXrszqfEvkB-cqKX8SSHLlGpAmYrfZXB7Qm8ub5t1xiYJp_yZdtUOWioLoVYZr2vUVga_0mV7lGY_5o/s283/unife-2021.png", Unife TV
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
+
+#EXTINF:-1 tvg-id="0939" tvg-name="Net TV" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png", Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+
+# Otros/Tematicos---------------------------------------------------------------------
+
+
+#EXTINF:-1 tvg-id="0912" tvg-name="Argentinisima Satelital" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="Temáticos Argentinos", Argentinisima
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+
+#EXTINF:-1 tvg-id="0937" tvg-name="Telemax" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/512px-Telemax_Argentina_%282018%29.png" group-title="Otros/Extras y Radios", Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+#EXTINF:-1 tvg-id="10001" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg1mrzDakyhcoMIM8Emy40P3X6pkn4JpnTUp7P-R-9KdyYze2CFwUzN8W0KComoef5Ky8QDTM5CYKkWY2I-vIRzLgYcoH4jdLvCXSOatsiJFNgZm1api-BT92vA5WXKBhwaOLdCf1ZVo_bdhIz51DIzC42ev5QyjHxlotVAVOb_TKmP6__aN8Yi01_/s400/garagetv-logo.png" tvg-name="Garage TV",Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="📻Radios📻" tvg-logo="https://streaminglocucionar.com/portal/images/logos/olavarria999.png", FM 99.9 Olavarria
