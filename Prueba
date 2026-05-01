@@ -1,9 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-id="179#DTS+" tvg-title="DirecTV Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/directsports.png?raw=true" tvg-chno="170" group-title="Deportes",DirecTV Sports
-http://kstv.us:8080/live/N427DpynGE/7049166651/47096.ts
-#EXTINF:-1  tvg-id="612#DTS2" tvg-title="DirecTV Sports 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/directsports2.png?raw=true" tvg-chno="175" group-title="Deportes",DirecTV Sports 2
-http://kstv.us:8080/live/N427DpynGE/7049166651/47094.ts
+
 #EXTINF:-1  tvg-id="0419" tvg-title="Claro Sports Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CLAROSPORTS.png?raw=true" tvg-chno="117" group-title="Deportes",Claro Sports
 http://45.5.119.43:4000/play/a024/index.m3u8
 #EXTINF:-1  tvg-id="TNT SPORTS PREMIUM.ar" tvg-title="TNT Sports Premium" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/TNTSPORTSPREMIUM.png?raw=true" tvg-chno="120" group-title="Deportes",TNT Sports Premium
