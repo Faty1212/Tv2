@@ -77,7 +77,7 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137371
 
 
 
-#EXTINF:-1 tvg-id="USA | D SPORTS +" tvg-name="USA | D SPORTS+" tvg-logo="" group-title="⚽DEPORTES🏀", DSPORTS
+#EXTINF:-1 tvg-id="USA | D SPORTS +" tvg-name="USA | D SPORTS+" tvg-logo="" group-title="⚽DEPORTES🏀", DSPORTS 2
 http://190.238.43.117:8000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="⚽Deportes🏀", Dsports Arg
 http://190.108.83.69:8000/play/a05w/index.m3u8
