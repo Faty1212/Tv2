@@ -1195,6 +1195,8 @@ http://45.181.122.46:8090/play/a01v
 http://181.78.82.6:46090/play/a00i/index.m3u8
 #EXTINF:-1 group-title="⚽Deportes🏀" tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/deportv.png",DeporTV
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3u8
+#EXTINF:-1  tvg-id="0419" tvg-title="Claro Sports Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CLAROSPORTS.png?raw=true" tvg-chno="117" group-title="⚽Deportes🏀",Claro Sports
+http://45.5.119.43:4000/play/a024/index.m3u8
 
 
 
