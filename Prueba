@@ -3,12 +3,6 @@
 
 
 
-# General------------------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-id="0915" group-title="General/Abierta" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
-#EXTVLCOPT:http-referrer=https://www.m3u8player.online/
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="General/Abierta" tvg-logo="https://camo.githubusercontent.com/f214a53f9120715748ba74bdb8996e3b68bdf1b2fd803f126be4833f0943c6d4/68747470733a2f2f692e696d6775722e636f6d2f45746356536d342e706e67", El Nueve
@@ -17,9 +11,7 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-16_720.m
 
 
 
-#EXTINF:-1 tvg-id="0903" tvg-name="TV Pública" group-title="General/Abierta" tvg-logo="https://camo.githubusercontent.com/5b6aec0ad97f7e2a6a9bcd157a1c9e9a872ce0297b2e9a9168a9341d9fca75ba/68747470733a2f2f692e696d6775722e636f6d2f346859597069752e706e67", TV Publica
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+
 
 
 
