@@ -1028,9 +1028,9 @@ http://200.112.174.230/mtcast_espn3hd/mpegts
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-95.playlist.m3u8
 #EXTINF:0 group-title="⚽Deportes🏀" ,ESPN 5
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-104.playlist.m3u8
-#EXTINF:0 group-title="⚽Deportes🏀" ,ESPN 6
+#EXTINF:0 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="⚽Deportes🏀" ,ESPN 6
 http://181.78.82.6:46090/play/a00w/index.m3u8
-#EXTINF:0 group-title="⚽Deportes🏀" ,ESPN 7
+#EXTINF:0 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" group-title="⚽Deportes🏀" ,ESPN 7
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-106.playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6998236b64344416a20ab019c04e79a3:58e3f758c8fced31611023bb833244f7
@@ -1125,7 +1125,7 @@ http://217.26.190.76:8888/play/a0kh/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://americancable.ec/wp-content/uploads/2024/04/logo-espn5.png" group-title="⚽Deportes🏀",ESPN 5
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://televvd.com/wp-content/uploads/2024/02/TODOS_2024_ESPN-6.png" group-title="⚽Deportes🏀",ESPN 6
 http://181.78.7.90:12500/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://foro.univers.la/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" group-title="⚽Deportes🏀",ESPN 7
+#EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" group-title="⚽Deportes🏀",ESPN 7
 http://191.97.59.33:8000/play/a094/index.m3u8
 #EXTINF:0 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS" CUID="22" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="⚽Deportes🏀",FOX SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
