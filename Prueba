@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png" group-title="🇦🇷Argentina🇦🇷", Telefe
-http://tv.zapping.life:8080/Cuentadece/0eaa700b6a7b/157589
+
 #EXTINF:-1  tvg-id="179#DTS+" tvg-title="DirecTV Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/directsports.png?raw=true" tvg-chno="170" group-title="Deportes",DirecTV Sports
 http://kstv.us:8080/live/N427DpynGE/7049166651/47096.ts
 #EXTINF:-1  tvg-id="612#DTS2" tvg-title="DirecTV Sports 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/directsports2.png?raw=true" tvg-chno="175" group-title="Deportes",DirecTV Sports 2
