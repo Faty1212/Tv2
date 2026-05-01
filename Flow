@@ -1190,6 +1190,8 @@ http://181.13.252.102:8000/play/a059/index.m3u8?PlaylistM3UCL
 http://181.13.252.102:8000/play/a05a/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="⚽Deportes🏀",ESPN 3
 http://181.78.82.6:46090/play/a00v/index.m3u8
+#EXTINF:-1  tvg-id="ESPN 3.ar" tvg-title="ESPN 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ESPN3.png?raw=true" tvg-chno="140" group-title="⚽Deportes🏀",ESPN 3
+http://kstv.us:8080/live/N427DpynGE/7049166651/47104.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkr2RzuQwTckHKkKyRG6lJD-RyjurAfRqxQ&s" group-title="⚽Deportes🏀",ESPN 2
 #EXTVLCOPT:network-caching=1000
 http://45.181.122.46:8090/play/a01v
