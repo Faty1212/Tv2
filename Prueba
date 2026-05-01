@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ESPN(Spanish).mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN.
+http://tv.zapping.life:8080/tamayoalfredo1/rkWdBzIeL3/9544
+#EXTINF:-1 tvg-id="ESPN(Spanish).mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN..
+http://45.5.119.43:4000/play/a052/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2(Spanish).mx" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES" tvg-shift="-7", audio-track="esp,spa", ESPN 2.
+http://45.5.119.43:4000/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-id="espn" tvg-name="[IZZI] ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_typeface.svg/320px-ESPN_typeface.svg.png" group-title="Deportes",[IZZI] ESPN
 #EXTVLCOPT:network-caching=300
