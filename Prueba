@@ -21,12 +21,9 @@ https://streaming3.locucionar.com/proxy/radiotiempoonline?mp=/stream
 
 
 
-#EXTINF:-1  group-title="LATINO 1" ,DSPORTS HD
-http://190.238.43.117:8000/play/a09d/index.m3u8
-#EXTINF:-1  group-title="LATINO 1" ,DSPORTS+ HD
-http://190.238.43.117:8000/play/a09f/index.m3u8
-#EXTINF:-1  group-title="LATINO 1" ,DSPORTS2 HD
-http://190.238.43.117:8000/play/a09g/index.m3u8
+
+
+
 
 
 
