@@ -1448,15 +1448,15 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_C/Canal_12_CB
 
 
 
-#EXTINF:-1  tvg-id="GHMC" tvg-title="GRAN HERMANO MULTICAM" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="036" group-title="Noticias",GH MULTICAMARA
+#EXTINF:-1  tvg-id="GHMC" tvg-title="GRAN HERMANO MULTICAM" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="036" group-title="Reality Show",GH MULTICAMARA
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/749371.ts
-#EXTINF:-1  tvg-id="GH24HS" tvg-title="GRAN HERMANO 24HS" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="037" group-title="Noticias",GH PRINCIPAL
+#EXTINF:-1  tvg-id="GH24HS" tvg-title="GRAN HERMANO 24HS" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="037" group-title="Reality Show",GH PRINCIPAL
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/749367.ts
-#EXTINF:-1  tvg-id="GHC1" tvg-title="GRAN HERMANO CAM 1" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="038" group-title="Noticias",GH CAM 1
+#EXTINF:-1  tvg-id="GHC1" tvg-title="GRAN HERMANO CAM 1" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="038" group-title="Reality Show",GH CAM 1
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/749368.ts
-#EXTINF:-1  tvg-id="GHC2" tvg-title="GRAN HERMANO CAM 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="039" group-title="Noticias",GH CAM 2
+#EXTINF:-1  tvg-id="GHC2" tvg-title="GRAN HERMANO CAM 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="039" group-title="Reality Show",GH CAM 2
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/749369.ts
-#EXTINF:-1  tvg-id="GHC3" tvg-title="GRAN HERMANO CAM 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="040" group-title="Noticias",GH CAM 3
+#EXTINF:-1  tvg-id="GHC3" tvg-title="GRAN HERMANO CAM 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/GHgeneraciondorada.png?raw=true" tvg-chno="040" group-title="Reality Show",GH CAM 3
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/749370.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.clarin.com/img/2025/12/16/rcuIRK9gO_2000x1500__1.jpg" group-title="Reality Show",GH PRINCIPAL
 https://tv.nousiptv.com:8443/mparodi/6900/1285296
@@ -1470,7 +1470,8 @@ https://tv.nousiptv.com:8443/mparodi/6900/1285663
 https://tv.nousiptv.com:8443/mparodi/6900/1285664
 #EXTINF:-1 tvg-id="" tvg-name="Reality-Gran Hermano - 24 hs (L)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="Reality Show",GH PRINCIPAL
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/184317
-
+#EXTINF:-1 tvg-id="" tvg-name="Reality-Gran Hermano - 24 hs (L)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="Reality Show",GH PRINCIPAL
+http://tv.zapping.life:8080/Cuentadece/0eaa700b6a7b/184317
 
 
 
