@@ -2,29 +2,6 @@
 
 
 
-#EXTINF:-1 tvg-id="0640" tvg-name="Unife TV" group-title="General/Abierta" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbmmnhGHqQfMIHzqf5KrGGTxVUMXufmE4FaNl5C3Pudx7rl-ypzYXwkYGCPZZyDXrszqfEvkB-cqKX8SSHLlGpAmYrfZXB7Qm8ub5t1xiYJp_yZdtUOWioLoVYZr2vUVga_0mV7lGY_5o/s283/unife-2021.png", Unife TV
-https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
-
-#EXTINF:-1 tvg-id="0939" tvg-name="Net TV" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png", Net TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-
-# Otros/Tematicos---------------------------------------------------------------------
-
-
-#EXTINF:-1 tvg-id="0912" tvg-name="Argentinisima Satelital" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="Temáticos Argentinos", Argentinisima
-https://stream1.sersat.com/hls/argentinisima.m3u8
-
-
-#EXTINF:-1 tvg-id="0937" tvg-name="Telemax" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/512px-Telemax_Argentina_%282018%29.png" group-title="Otros/Extras y Radios", Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-
-#EXTINF:-1 tvg-id="10001" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg1mrzDakyhcoMIM8Emy40P3X6pkn4JpnTUp7P-R-9KdyYze2CFwUzN8W0KComoef5Ky8QDTM5CYKkWY2I-vIRzLgYcoH4jdLvCXSOatsiJFNgZm1api-BT92vA5WXKBhwaOLdCf1ZVo_bdhIz51DIzC42ev5QyjHxlotVAVOb_TKmP6__aN8Yi01_/s400/garagetv-logo.png" tvg-name="Garage TV",Garage TV
-https://stream1.sersat.com/hls/garagetv.m3u8
-
-
-
-
-
 
 
 
