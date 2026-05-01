@@ -76,7 +76,10 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137371
 
 
 
-
+#EXTINF:-1  tvg-id="179#DTS+" tvg-title="DirecTV Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/directsports.png?raw=true" tvg-chno="170" group-title="⚽Deportes🏀",DSports
+http://kstv.us:8080/live/N427DpynGE/7049166651/47096.ts
+#EXTINF:-1  tvg-id="612#DTS2" tvg-title="DirecTV Sports 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/directsports2.png?raw=true" tvg-chno="175" group-title="⚽Deportes🏀",DSports 2
+http://kstv.us:8080/live/N427DpynGE/7049166651/47094.ts
 #EXTINF:-1 tvg-id="USA | D SPORTS +" tvg-name="USA | D SPORTS+" tvg-logo="" group-title="⚽DEPORTES🏀", DSPORTS 2
 http://190.238.43.117:8000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="⚽Deportes🏀", Dsports Arg
