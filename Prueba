@@ -2,19 +2,6 @@
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="General/Abierta" tvg-logo="https://camo.githubusercontent.com/f214a53f9120715748ba74bdb8996e3b68bdf1b2fd803f126be4833f0943c6d4/68747470733a2f2f692e696d6775722e636f6d2f45746356536d342e706e67", El Nueve
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-16_720.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="0640" tvg-name="Unife TV" group-title="General/Abierta" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbmmnhGHqQfMIHzqf5KrGGTxVUMXufmE4FaNl5C3Pudx7rl-ypzYXwkYGCPZZyDXrszqfEvkB-cqKX8SSHLlGpAmYrfZXB7Qm8ub5t1xiYJp_yZdtUOWioLoVYZr2vUVga_0mV7lGY_5o/s283/unife-2021.png", Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
