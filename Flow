@@ -26,8 +26,7 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
 #EXTINF:-1 tvg-id="Canal.ESPN.(Chile).sv" tvg-name="CHI-Espn 1 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="⭐Eventos en Vivo⭐",DISNEY 1
 http://181.225.190.242:8000/play/a01l
 #EXTINF:0 tvg-id="ESPN.cl" group-title="⭐Eventos en Vivo⭐" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", DISNEY OPC 2
-#EXTVLCOPT:network-caching=1000
-http://45.169.163.237:4000/play/a03e
+http://45.5.119.43:4000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="⭐Eventos en Vivo⭐",DISNEY 2
 http://191.97.14.162:8000/play/a016/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -36,8 +35,10 @@ http://191.97.14.162:8000/play/a016/index.m3u8
 https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc_C/ESPN3_Uy-Py.mpd
 #EXTINF:-1 group-title="⭐Eventos en Vivo⭐",DISNEY 4
 http://205.235.6.29:8000/play/a0pz/index.m3u8
-#EXTINF:-1 tvg-id="321566" tvg-name="ESPN Premium • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="⭐ Eventos en vivo⭐", Disney 4 
+#EXTINF:-1 tvg-id="321566" tvg-name="ESPN Premium • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="⭐Eventos en vivo⭐", Disney 4 
 http://45.181.122.46:8090/play/a015?PlaylistM3UCL
+#EXTINF:-1 tvg-id="321566" tvg-name="ESPN Premium • Argentina" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="⭐Eventos en vivo⭐", Disney 5
+http://45.5.119.43:4000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="⭐Eventos en Vivo⭐",TIGO 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
