@@ -78,6 +78,8 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47096.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/47094.ts
 #EXTINF:-1 tvg-id="USA | D SPORTS +" tvg-name="USA | D SPORTS+" tvg-logo="" group-title="⚽DEPORTES🏀", DSPORTS 2
 http://190.238.43.117:8000/play/a09f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSPORTS AR" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/01/dsport-argentina.png" group-title="⚽DEPORTES🏀", DSPORTS ARG
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592036.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="⚽Deportes🏀", Dsports Arg
 http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DIREC TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ja4dtSJKU8Xyj-ZqYPbJ6XTsiQBre-pXi1kxW4QHHA&s=10" group-title="⚽Deportes🏀",Dsports
