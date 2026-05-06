@@ -1057,6 +1057,8 @@ http://45.5.151.62:8000/play/a02o/index.m3u8
 https://tv.nousiptv.com:8443/Henrymaria/Perato/7940
 #EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN PREMIUM SUR HD" tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="⚽Deportes🏀", ESPN PREMIUM
 https://tv.nousiptv.com:8443/Henrymaria/Perato/43638
+#EXTINF:-1 tvg-id="" tvg-name="| ESPN PREMIUM AR |" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" group-title="⚽DEPORTES🏀", ESPN PREMIUM
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/591997.ts
 #EXTINF:0 CUID="1366" tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="⚽Deportes🏀", Espn Premium
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/145.ts
 #EXTINF:-1 group-title="⚽Deportes🏀" , TNT Premium
