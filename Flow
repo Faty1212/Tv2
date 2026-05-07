@@ -1102,8 +1102,6 @@ https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 #EXTVLCOPT:http-referrer=https://play.tycsports.com/
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="| ESPN 1 AR | HD |" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlsx6PJ3RUPwS6AZ6N9c-u7prUxXTxf8ufGg&s" group-title="⚽DEPORTES🏀", ESPN
-http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/591974.ts
 #EXTINF:1 CUID="176" tvg-name="ESPN HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" tvg-id="ESPN.ar" group-title="⚽Deportes🏀",ESPN
 http://190.7.19.197:232/play/a03n/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
