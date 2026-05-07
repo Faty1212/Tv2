@@ -28,7 +28,7 @@ http://181.225.190.242:8000/play/a01l
 #EXTINF:0 tvg-id="ESPN.cl" group-title="⭐Eventos en Vivo⭐" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", DISNEY OPC 2
 http://45.5.119.43:4000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="⭐Eventos en Vivo⭐",DISNEY 2
-http://191.97.14.162:8000/play/a016/index.m3u8
+http://177.10.184.193:8000/play/a0fp/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed53871dc50dcdc59a6271db3c8c51b3:0c21dc8629e3f2e6fe9efa8b80dc447e
 #EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="⭐Eventos en Vivo⭐" ch-number="103" type="channel",DISNEY 3
