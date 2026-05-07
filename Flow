@@ -999,6 +999,14 @@ http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592038.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/47094.ts
 #EXTINF:-1 tvg-id="USA | D SPORTS +" tvg-name="USA | D SPORTS+" tvg-logo="" group-title="⚽DEPORTES🏀", DSPORTS 2
 http://190.238.43.117:8000/play/a09f/index.m3u8
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="⚽Deportes🏀",DSPORTS 2
+https://tv.nousiptv.com:8443/Henrymaria/Perato/32882
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="⚽Deportes🏀", dsports 2
+http://190.238.43.117:8000/play/a09g/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFK_heqWba22Mvq468L1tEM42AcS0CHGuiA&s" group-title="⚽Deportes🏀",Dsports 2
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
 #EXTINF:0 group-title="⚽Deportes🏀" ,DSPORTS (URU)
 http://br1.urutelam.com:8073/VTV%20HD%20URUGUAY?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="⚽Deportes🏀", DSPORTS
@@ -1013,17 +1021,9 @@ http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9561
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9562
 #EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DEPORTES - Directv Sports 1 ECU (e)(720)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="⚽DEPORTES🏀",DSports (Ecu)
 http://tv.proyectox.vip:8080/Epifaniasdelosjueces34/77Q9vrGBKk/9563
-#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="⚽Deportes🏀",DSPORTS 2
-https://tv.nousiptv.com:8443/Henrymaria/Perato/32882
-ñ
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="⚽Deportes🏀", dsports 2
-http://190.238.43.117:8000/play/a09g/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ja4dtSJKU8Xyj-ZqYPbJ6XTsiQBre-pXi1kxW4QHHA&s=10" group-title="⚽Deportes🏀" ,DSPORTS
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592039.ts
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFK_heqWba22Mvq468L1tEM42AcS0CHGuiA&s" group-title="⚽Deportes🏀",Dsports 2
-http://217.26.190.76:8888/play/a0jb/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
+
 #EXTINF:-1 group-title="⚽Deportes🏀" ,ESPN
 http://200.112.174.230/mtcast_espnhd/mpegts
 #EXTINF:-1 group-title="⚽Deportes🏀" ,ESPN 2
