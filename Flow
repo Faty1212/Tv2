@@ -84,10 +84,6 @@ http://tv-max.online:80/Jor584qui/vZfU5jmx2Qb7/592037.ts
 https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="⚽Deportes🏀", Dsports
 http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1  tvg-id="612#DTS2" tvg-title="DirecTV Sports 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/directsports2.png?raw=true" tvg-chno="175" group-title="⚽Deportes🏀",DSports 2
-http://kstv.us:8080/live/N427DpynGE/7049166651/47094.ts
-#EXTINF:-1 tvg-id="USA | D SPORTS +" tvg-name="USA | D SPORTS+" tvg-logo="" group-title="⚽DEPORTES🏀", DSPORTS 2
-http://190.238.43.117:8000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="| DSPORTS CO |" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/01/dsport-colombia.png" group-title="⚽DEPORTES🏀", DSPORTS ARG
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592037.ts
 #EXTINF:-1 tvg-id="" tvg-name="DIREC TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ja4dtSJKU8Xyj-ZqYPbJ6XTsiQBre-pXi1kxW4QHHA&s=10" group-title="⚽Deportes🏀",Dsports
@@ -999,6 +995,10 @@ https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_C/Sextreme.mpd
 
 #EXTINF:0 group-title="⚽Deportes🏀" ,DSPORTS 2
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592038.ts
+#EXTINF:-1  tvg-id="612#DTS2" tvg-title="DirecTV Sports 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/directsports2.png?raw=true" tvg-chno="175" group-title="⚽Deportes🏀",DSports 2
+http://kstv.us:8080/live/N427DpynGE/7049166651/47094.ts
+#EXTINF:-1 tvg-id="USA | D SPORTS +" tvg-name="USA | D SPORTS+" tvg-logo="" group-title="⚽DEPORTES🏀", DSPORTS 2
+http://190.238.43.117:8000/play/a09f/index.m3u8
 #EXTINF:0 group-title="⚽Deportes🏀" ,DSPORTS (URU)
 http://br1.urutelam.com:8073/VTV%20HD%20URUGUAY?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="⚽Deportes🏀", DSPORTS
