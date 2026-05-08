@@ -1542,6 +1542,8 @@ https://joy.nx-pc.edge-apps.net/hls/mb6hp-85n73-pedjc-o07ef.m3u8
 
 
 
+#EXTINF:-1  tvg-id="Netflix" tvg-title="Netflix" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/NETFLIX.png?raw=true" tvg-chno="530" group-title="🎬Cine, Novelas y Series🎥",Netflix
+http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/235580.ts
 #EXTINF:1 CUID="127" tvg-name="AandE HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/800/542/0/0/95118087071584.png" tvg-id="AandE.ar" group-title="🎬Cine, Novelas y Series🎥",A&E
 http://190.7.19.197:232/play/a00c/index.m3u8
 #EXTINF:1 CUID="131" tvg-name="AMC" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/800/542/0/0/29332619071250.png" tvg-id="AMC.ar" group-title="🎬Cine, Novelas y Series🎥",AMC
