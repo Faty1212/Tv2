@@ -80,8 +80,6 @@ http://209.14.108.45:8000/play/a0br
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="⚽Deportes🏀", DSPORTS
 http://177.53.152.117:8000/play/a07d/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="⚽Deportes🏀", DSPORTS
-http://181.64.27.65:8000/play/a0dq/index.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="⚽Deportes🏀", DSPORTS
 http://148.222.230.197:8000/play/a0mm/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="⚽Deportes🏀", DSPORTS
 http://38.187.7.252:8000/play/a03d/index.m3u8
@@ -1034,7 +1032,8 @@ https://cdn.cvattv.com.ar/live/c7eds/Hustler/SA_Live_dash_enc_C/Hustler.mpd
 https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_C/Sextreme.mpd
 
 
-
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="⚽Deportes🏀", DSPORTS 2
+http://181.64.27.65:8000/play/a0dq/index.m3u8
 #EXTINF:-1 tvg-id="USA | D SPORTS +" tvg-name="USA | D SPORTS+" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/d/s/dsports_2.png" group-title="⚽DEPORTES🏀", DSPORTS 2
 http://190.238.43.117:8000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="⚽Deportes🏀", dsports 2
