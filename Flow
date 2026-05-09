@@ -112,6 +112,9 @@ https://tv.nousiptv.com:8443/Henrymaria/Perato/1091366
 http://190.238.43.117:8000/play/a09d/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ja4dtSJKU8Xyj-ZqYPbJ6XTsiQBre-pXi1kxW4QHHA&s=10" group-title="⚽Deportes🏀" , DSPORTS
 http://201.230.121.85:8000/play/a0yv/index.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="⚽Deportes🏀", TyC SPORTS Internacional
+http://190.108.93.75:8001/play/a05d/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d85fcc70989d0dbe8d70dd70a4629c0:a953290192fd5db5bf7936a88ecc6877
