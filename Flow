@@ -1363,14 +1363,8 @@ https://tv.nousiptv.com:8443/beaiptv/ruiz1/1155824
 https://tv.nousiptv.com:8443/beaiptv/ruiz1/51071
 #EXTINF:-1  tvg-id="TELEFE.ar" tvg-title="Telefe" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/telefe.png?raw=true" tvg-chno="070" group-title="🇦🇷Argentina🇦🇷",Telefe
 http://190.7.19.197:232/play/a059/index.m3u8
-#EXTINF:-1 tvg-id="Telefe.ar@SD" group-title="🇦🇷Argetina🇦🇷",Telefe
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
 #EXTINF:-1 tvg-id="Telefe A" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="🇦🇷Argentina🇦🇷",Telefe
 http://190.7.19.197:232/play/a059/index.m3u8
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/02-Telefe.png?raw=true" group-title="🇦🇷Argentina🇦🇷",Telefe
-http://gama-mx.com:8080/PEDRO1984@/PEDRO1984@/50510.m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
 
 #EXTINF:0 tvg-id="TN.ar" tvg-name="TN" CUID="3" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345069/wy5gze1xto6u7pzndpo4.png" group-title="🇦🇷Argentina🇦🇷",TN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
