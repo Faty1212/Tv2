@@ -1041,7 +1041,7 @@ http://br1.urutelam.com:8073/VTV%20HD%20URUGUAY?u=GONZALOVERON:p=9577263913:serv
 http://38.252.213.12:8000/play/a01k
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="⚽Deportes🏀", DSPORTS
 http://217.26.190.76:8888/play/a0co/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="⚽Deportes🏀" ch-number="125", DSports 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="⚽Deportes🏀" , DSports 
 http://201.230.121.85:8000/play/a0yv/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ja4dtSJKU8Xyj-ZqYPbJ6XTsiQBre-pXi1kxW4QHHA&s=10" group-title="⚽Deportes🏀" ,DSPORTS
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592039.ts
@@ -1054,8 +1054,7 @@ http://200.112.174.230/mtcast_espn2hd/mpegts
 http://200.112.174.230/mtcast_espn3hd/mpegts
 #EXTINF:-1 group-title="⚽Deportes🏀" ,ESPN 4
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-95.playlist.m3u8
-#EXTINF:0 group-title="⚽Deportes🏀" ,ESPN 5
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-104.playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="⚽Deportes🏀" , ESPN 6
 http://181.78.82.6:46090/play/a00w/index.m3u8
 #EXTINF:0 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" group-title="⚽Deportes🏀" , ESPN 7
