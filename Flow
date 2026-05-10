@@ -93,7 +93,13 @@ http://190.117.20.37:8000/play/a08d/index.m3u8
 http://190.117.20.39:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="⚽Deportes🏀", DSPORTS
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsip&token=3574401799
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="⚽Deportes🏀", DSPORTS
+http://217.26.190.76:8888/play/a0co/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png" group-title="⚽Deportes🏀", DSPORTS
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsip&token=3574401799
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="⚽Deportes🏀", DSports
+#EXTVLCOPT:network-caching=8000
 http://tv-max.online:80/Jor584qui/vZfU5jmx2Qb7/592037.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="⚽Deportes🏀", DSports
 #EXTVLCOPT:network-caching=4000
