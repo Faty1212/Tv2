@@ -1054,9 +1054,6 @@ http://200.112.174.230/mtcast_espn2hd/mpegts
 http://200.112.174.230/mtcast_espn3hd/mpegts
 #EXTINF:-1 group-title="⚽Deportes🏀" ,ESPN 4
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-95.playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="⚽Deportes🏀" , ESPN 6
-http://181.78.82.6:46090/play/a00w/index.m3u8
 #EXTINF:0 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" group-title="⚽Deportes🏀" , ESPN 7
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-106.playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
