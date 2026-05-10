@@ -1343,6 +1343,8 @@ http://181.13.252.102:8000/play/a055/index.m3u8?PlaylistM3UCL
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 ch-number="11" tvg-id="America TV (ARG).ar" tvg-logo="https://i.postimg.cc/WpH8xpLd/Normal_2.png" group-title="🇦🇷Argentina🇦🇷", America 
 https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd
+#EXTINF:-1 group-title="🇦🇷ARGENTINA🇦🇷", TELEFE
+http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/157589
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="ARG - TELEFE ᴴᴰ" tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="🇦🇷ARGENTINA🇦🇷", TELEFE
 https://tv.nousiptv.com:8443/beaiptv/ruiz1/51071
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ARG - TELEFE " tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="🇦🇷ARGENTINA🇦🇷", TELEFE 
