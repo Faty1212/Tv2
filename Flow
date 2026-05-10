@@ -1093,6 +1093,8 @@ http://181.13.252.102:8000/play/a0bc/index.m3u8
 https://tv.nousiptv.com:8443/Henrymaria/Perato/1229562
 #EXTINF:-1 group-title="⚽Deportes🏀" ,TYC SPORTS
 http://200.112.174.230/mtcast_tychd/mpegts
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjWNfWrf-xwYyvp5egdJ8ki3h9g7RkQ-mJfCPMShCUG7M.png" group-title="⚽DEPORTES🏀" ,TyC Sports
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI25701dNVhmiQaGKq77OrhH4H/m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345246/bkxx3r33ra53vmbwc1qp.png" group-title="⚽Deportes🏀",TyC Sports
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8
@@ -1151,6 +1153,8 @@ http://186.33.40.97:8789/play/56
 http://181.78.7.90:12500/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" group-title="⚽Deportes🏀",ESPN 7
 http://191.97.59.33:8000/play/a094/index.m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjV7ia45k2vd977rehWU2P7FRYaULNP0h2VWy6KSn7r4r.png" group-title="⚽DEPORTES🏀" ,FOX Sports
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254ndZNXnP83PBDj5pbyzf7T/m3u8
 #EXTINF:0 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS" CUID="22" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="⚽Deportes🏀",FOX SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd.m3u8
@@ -1187,6 +1191,8 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_C/FoxSports2H
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344086/ga6vdlikxfa3c8puixeq.png" group-title="⚽Deportes🏀",Fox Sports 2 
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/km6lk-2io4c-7f9jm-peep.m3u8
+#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjV7ia45k2vd977rehWU2P7ERdqrTnMZaSs5j_BCcp-xd.png" group-title="⚽DEPORTES🏀",FOX Sports 3
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI25740sCbtgP3iCeFcvJXUuzy/m3u8
 #EXTINF:1 CUID="189" tvg-name="Fox Sports 3 HD" tvg-logo="https://logo.m3uassets.com/foxsports3.png" tvg-id="FOXSports3.ar" group-title="⚽Deportes🏀",Fox Sports 3
 http://190.7.19.197:232/play/a04x/index.m3u8
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344107/fdnnmnk6gnmfoggvvh8t.png" group-title="⚽Deportes🏀",Fox Sports 3 
