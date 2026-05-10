@@ -101,9 +101,6 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsip&token=3574401799
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="⚽Deportes🏀", DSports
 #EXTVLCOPT:network-caching=8000
 http://tv-max.online:80/Jor584qui/vZfU5jmx2Qb7/592037.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="⚽Deportes🏀", DSports
-#EXTVLCOPT:network-caching=4000
-https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="⚽Deportes🏀", Dsports
 http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="| DSPORTS CO |" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/01/dsport-colombia.png" group-title="⚽DEPORTES🏀", DSPORTS ARG
