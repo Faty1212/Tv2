@@ -1034,9 +1034,6 @@ https://tv.nousiptv.com:8443/Henrymaria/Perato/32882
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592038.ts
 #EXTINF:-1  tvg-id="612#DTS2" tvg-title="DirecTV Sports 2" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/directsports2.png?raw=true" tvg-chno="175" group-title="⚽Deportes🏀",DSports 2
 http://kstv.us:8080/live/N427DpynGE/7049166651/47094.ts
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFK_heqWba22Mvq468L1tEM42AcS0CHGuiA&s" group-title="⚽Deportes🏀",Dsports 2
-http://217.26.190.76:8888/play/a0jb/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
 #EXTINF:0 group-title="⚽Deportes🏀" ,DSPORTS (URU)
 http://br1.urutelam.com:8073/VTV%20HD%20URUGUAY?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
