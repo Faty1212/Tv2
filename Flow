@@ -1093,7 +1093,7 @@ https://tv.nousiptv.com:8443/Henrymaria/Perato/43638
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/591997.ts
 #EXTINF:-1 group-title="⚽Deportes🏀" , TNT Premium
 http://200.112.174.230/mtcast_tntsportshd/mpegts
-#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" group-title="Deportes", TNT Sports
+#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" group-title="⚽Deportes🏀", TNT Sports
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #HTTP-REFERER=https://zapster.trapemn.tv/
 #HTTP-ORIGIN=https://zapster.trapemn.tv
