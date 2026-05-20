@@ -15,16 +15,13 @@ https://cdn.cvattv.com.ar/live/c4eds/Info_Mora/sa_hls_full_e_95AEFABF606F67368D6
 https://cdn.cvattv.com.ar/live/c7eds/Info_Flow/sa_hls_full_e_95AEFABF606F67368D62A486/Info_Flow.m3u8
 
 
-#EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", Metro
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
-https://cdn.cvattv.com.ar/live/c6eds/Metro/sa_hls_full_e_95AEFABF606F67368D62A486/Metro.m3u8
+
 
 
 #EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
-https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/sa_hls_full_e_95AEFABF606F67368D62A486/AmericaTV.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOsOMnB0_UeC6b7puG-gQLJLSylYXc7DT3gc8ut9J9fw&s" group-title="🇦🇷Argentina🇦🇷", Telefe
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -53,79 +50,70 @@ https://cdn.cvattv.com.ar/live/c3eds/Canal9/sa_hls_full_e_95AEFABF606F67368D62A4
 #EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/sa_hls_full_e_95AEFABF606F67368D62A486/TodoNoticias.m3u8
+""
 7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
 
 #EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/sa_hls_full_e_95AEFABF606F67368D62A486/La_Nacion.m3u8
+
 f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
 
 #EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://cdn.cvattv.com.ar/live/c7eds/C5N/sa_hls_full_e_95AEFABF606F67368D62A486/C5N.m3u8
+
 050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
 
 #EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/sa_hls_full_e_95AEFABF606F67368D62A486/CronicaTV.m3u8
+
 745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
 
 #EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/sa_hls_full_e_95AEFABF606F67368D62A486/26_TV_HD.m3u8
 e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
 
 #EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://cdn.cvattv.com.ar/live/c7eds/America24/sa_hls_full_e_95AEFABF606F67368D62A486/America24.m3u8
 3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
 
 #EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://cdn.cvattv.com.ar/live/c3eds/Magazine/sa_hls_full_e_95AEFABF606F67368D62A486/Magazine.m3u8
 4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
 
 #EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://cdn.cvattv.com.ar/live/c6eds/Net_TV/sa_hls_full_e_95AEFABF606F67368D62A486/Net_TV.m3u8
 89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
 
 #EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://cdn.cvattv.com.ar/live/c6eds/Encuentro/sa_hls_full_e_95AEFABF606F67368D62A486/Encuentro.m3u8
 ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
 
 #EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/sa_hls_full_e_95AEFABF606F67368D62A486/CNN_en_Espanol.m3u8
 0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
 
 #EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/sa_hls_full_e_95AEFABF606F67368D62A486/Investigacion_Periodistica.m3u8
 5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
 
 #EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://cdn.cvattv.com.ar/live/c7eds/BravoTV/sa_hls_full_e_95AEFABF606F67368D62A486/BravoTV.m3u8
 ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
 
 #EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://cdn.cvattv.com.ar/live/c6eds/KZO/sa_hls_full_e_95AEFABF606F67368D62A486/KZO.m3u8
 695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a
 
 #EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
@@ -149,19 +137,14 @@ DEPORTES
 #EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/sa_hls_full_e_95AEFABF606F67368D62A486/DeporTVHD.m3u8
 f362097815892a4b83950f1d106ff0b2:4349e42e81c31a8389f4a42fcd298928
 
-https://cdn.cvattv.com.ar/live/c7eds/TyCSport/sa_hls_full_e_95AEFABF606F67368D62A486/TyCSport.m3u8
 2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
 
-https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN2HD.m3u8
 e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 
-https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN2_Arg.m3u8
 65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
 
-https://cdn.cvattv.com.ar/live/c3eds/ESPN3/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN3.m3u8
 f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
 
 https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/sa_hls_full_e_95AEFABF606F67368D62A486/ESPNHD.m3u8
@@ -188,7 +171,6 @@ ed53871dc50dcdc59a6271db3c8c51b3:0c21dc8629e3f2e6fe9efa8b80dc447e
 https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/sa_hls_full_e_95AEFABF606F67368D62A486/Eventos2_PY.m3u8
 0900ce66b82de0fd07aa8f12a48f29a2:e5556dba688fda637374ab5c87d7cda6
 
-https://cdn.cvattv.com.ar/live/c7eds/ESPN4/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN4.m3u8
 24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
 
 https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/sa_hls_full_e_95AEFABF606F67368D62A486/FoxSports3_UY.m3u8
@@ -197,10 +179,8 @@ https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/sa_hls_full_e_95AEFABF606F673
 https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/sa_hls_full_e_95AEFABF606F67368D62A486/FoxSports2_UY.m3u8
 5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
 
-https://cdn.cvattv.com.ar/live/c3eds/FoxSports/sa_hls_full_e_95AEFABF606F67368D62A486/FoxSports.m3u8
 cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
 
-https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/sa_hls_full_e_95AEFABF606F67368D62A486/FoxSports2HD.m3u8
 c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
 
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/sa_hls_full_e_95AEFABF606F67368D62A486/FoxSports3HD.m3u8
@@ -240,7 +220,6 @@ https://cdn.cvattv.com.ar/live/c7eds/Placa_Futbol_PPV/verimatrix_rotating/Placa_
 https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/sa_hls_full_e_95AEFABF606F67368D62A486/Fox_Sports_Premiun_HD.m3u8
 4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 
-https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/sa_hls_full_e_95AEFABF606F67368D62A486/TNT_Sports_HD.m3u8
 bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/sa_hls_full_e_95AEFABF606F67368D62A486/TyC_Internacional.m3u8
