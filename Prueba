@@ -7,6 +7,152 @@ url-tvg="https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://www.open-ep
 url-tvg="https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://www.open-epg.com/generate/YbXmXks9dD.xml.gz,https://epghub.xyz/epg/EPG-ES-UY.xml.gz,https://epghub.xyz/epg/EPG-PLEX-RAKUTEN-SV.xml.gz,https://juno.epg.elektamedia.com/api/Programme/40mediaSpA/Juno/xml/allchannels/xmltv.xml,https://nocords.xyz/pluto/epg.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/br.xml.gz,http://192.99.212.247/epg.xml"
 
 
+#EXTINF:-1,Canal de la ciudad
+http://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_de_la_ciudad-145200_spa=21.m3u8
+
+#EXTINF:-1,Diputados TV
+http://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/sa_hls_full_e_95AEFABF606F67368D62A486/Diputados_TV-mp4a_145200_spa=14.m3u8
+
+#EXTINF:-1,KZO
+http://cdn.cvattv.com.ar/live/c6eds/KZO/sa_hls_full_e_95AEFABF606F67368D62A486/KZO-mp4a_97200_spa=2.m3u8
+
+#EXTINF:-1,Metro
+http://cdn.cvattv.com.ar/live/c6eds/Metro/sa_hls_full_e_95AEFABF606F67368D62A486/Metro-mp4a_97200_spa=12.m3u8
+
+#EXTINF:-1,Encuentro
+http://cdn.cvattv.com.ar/live/c6eds/Encuentro/sa_hls_full_e_95AEFABF606F67368D62A486/Encuentro-mp4a_145200_spa=14.m3u8
+
+#EXTINF:-1,América TV
+http://cdn.cvattv.com.ar/live/c3eds/AmericaTV/sa_hls_full_e_95AEFABF606F67368D62A486/AmericaTV-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:-1,TV Pública
+http://cdn.cvattv.com.ar/live/c6eds/Canal7/sa_hls_full_e_95AEFABF606F67368D62A486/Canal7-mp4a_145200_spa=30.m3u8
+
+#EXTINF:-1,Bravo TV
+http://cdn.cvattv.com.ar/live/c7eds/BravoTV/sa_hls_full_e_95AEFABF606F67368D62A486/BravoTV-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:-1,El Nueve
+http://cdn.cvattv.com.ar/live/c3eds/Canal9/sa_hls_full_e_95AEFABF606F67368D62A486/Canal9-mp4a_145200_spa=20002.m3u8
+
+#EXTINF:-1,Net TV
+http://cdn.cvattv.com.ar/live/c6eds/Net_TV/sa_hls_full_e_95AEFABF606F67368D62A486/Net_TV-mp4a_145200_spa=2.m3u8
+
+#EXTINF:-1,Telefe
+http://cdn.cvattv.com.ar/live/c6eds/TelefeHD/sa_hls_full_e_95AEFABF606F67368D62A486/TelefeHD-mp4a_145200_spa=4.m3u8
+
+#EXTINF:-1,Telefe Internacional
+http://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/sa_hls_full_e_95AEFABF606F67368D62A486/Telefe_Internacional-mp4a_145200_spa=1.m3u8
+
+#EXTINF:-1,El Trece
+http://cdn.cvattv.com.ar/live/c3eds/ArtearHD/sa_hls_full_e_95AEFABF606F67368D62A486/ArtearHD-mp4a_145200_spa=20003.m3u8
+
+#EXTINF:-1,El Trece Internacional
+http://cdn.cvattv.com.ar/live/c4eds/Artear_Internacional/sa_hls_full_e_95AEFABF606F67368D62A486/Artear_Internacional-mp4a_145200_spa=12.m3u8
+
+#EXTINF:-1,Ciudad Magacine
+http://cdn.cvattv.com.ar/live/c3eds/Magazine/sa_hls_full_e_95AEFABF606F67368D62A486/Magazine-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:-1,Volver
+http://cdn.cvattv.com.ar/live/c6eds/Volver/sa_hls_full_e_95AEFABF606F67368D62A486/Volver-mp4a_145200_spa=2.m3u8
+
+#EXTINF:-1,Mix TV
+http://cdn.cvattv.com.ar/live/c4eds/MixTV/sa_hls_full_e_95AEFABF606F67368D62A486/MixTV-mp4a_145200_spa=8.m3u8
+
+#EXTINF:-1,Argentinísima
+http://cdn.cvattv.com.ar/live/c6eds/Argentinisima/sa_hls_full_e_95AEFABF606F67368D62A486/Argentinisima-mp4a_145200_spa=12.m3u8
+
+#EXTINF:-1,Cine AR
+http://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/sa_hls_full_e_95AEFABF606F67368D62A486/INCAA_Tv-mp4a_97200_spa=2.m3u8
+
+#EXTINF:-1,TN
+http://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/sa_hls_full_e_95AEFABF606F67368D62A486/TodoNoticias-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:-1,LN
+http://cdn.cvattv.com.ar/live/c7eds/La_Nacion/sa_hls_full_e_95AEFABF606F67368D62A486/La_Nacion-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:-1,C5N
+http://cdn.cvattv.com.ar/live/c7eds/C5N/sa_hls_full_e_95AEFABF606F67368D62A486/C5N-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:-1,Crónica TV
+http://cdn.cvattv.com.ar/live/c7eds/CronicaTV/sa_hls_full_e_95AEFABF606F67368D62A486/CronicaTV-mp4a_145200_spa=2.m3u8
+
+#EXTINF:-1,A24
+http://cdn.cvattv.com.ar/live/c7eds/America24/sa_hls_full_e_95AEFABF606F67368D62A486/America24-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:-1,AR/12
+http://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/sa_hls_full_e_95AEFABF606F67368D62A486/Investigacion_Periodistica-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:-1,Canal 26
+http://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/sa_hls_full_e_95AEFABF606F67368D62A486/26_TV_HD-mp4a_145200_spa=2.m3u8
+
+#EXTINF:-1,Telemax
+http://cdn.cvattv.com.ar/live/c6eds/Telemax/sa_hls_full_e_95AEFABF606F67368D62A486/Telemax-mp4a_145200_spa=11.m3u8
+
+#EXTINF:-1,Canal a
+http://cdn.cvattv.com.ar/live/c6eds/Canal_a/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_a-mp4a_97200_spa=9.m3u8
+
+#EXTINF:-1,Canal Rural
+http://cdn.cvattv.com.ar/live/c6eds/Canal_Rural/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_Rural-mp4a_145200_spa=3542.m3u8
+
+#EXTINF:-1,ESPN Premiun
+http://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/sa_hls_full_e_95AEFABF606F67368D62A486/Fox_Sports_Premiun_HD-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:-1,ESPN (Uruguay)
+http://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN_UY-mp4a_145200_spa=1.m3u8
+
+#EXTINF:-1,ESPN 2 (Uruguay)
+http://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN2_UY-mp4a_145200_spa=1.m3u8
+
+#EXTINF:-1,ESPN 3 (Uruguay)
+http://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN3_Uy-Py-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:-1,ESPN 4
+http://cdn.cvattv.com.ar/live/c3eds/ESPNHD/sa_hls_full_e_95AEFABF606F67368D62A486/ESPNHD-mp4a_145200_spa=20003.m3u8
+
+#EXTINF:-1,ESPN 5 (Uruguay)
+http://cdn.cvattv.com.ar/live/c7eds/ESPN4/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN4-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:-1,ESPN 6 (Uruguay)
+http://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/sa_hls_full_e_95AEFABF606F67368D62A486/FoxSports3_UY-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:-1,ESPN 7 (Uruguay)
+http://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/sa_hls_full_e_95AEFABF606F67368D62A486/FoxSports2_UY-mp4a_193200_spa=20003.m3u8
+
+#EXTINF:-1,TyC Sports
+http://cdn.cvattv.com.ar/live/c7eds/TyCSport/sa_hls_full_e_95AEFABF606F67368D62A486/TyCSport-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:-1,TyC Sports Internacional
+http://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/sa_hls_full_e_95AEFABF606F67368D62A486/TyC_Internacional-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:-1,TNT Sports
+http://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/sa_hls_full_e_95AEFABF606F67368D62A486/TNT_Sports_HD-mp4a_145200_spa=2.m3u8
+
+#EXTINF:-1,Fox Sports
+http://cdn.cvattv.com.ar/live/c3eds/FoxSports/sa_hls_full_e_95AEFABF606F67368D62A486/FoxSports-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:-1,Fox Sports 2
+http://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/sa_hls_full_e_95AEFABF606F67368D62A486/FoxSports2HD-mp4a_145200_spa=20002.m3u8
+
+#EXTINF:-1,Fox Sports 3
+http://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/sa_hls_full_e_95AEFABF606F67368D62A486/FoxSports3HD-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:-1,DeporTV
+http://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/sa_hls_full_e_95AEFABF606F67368D62A486/DeporTVHD-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:-1,NBA TV
+http://cdn.cvattv.com.ar/live/c6eds/NBA_TV/sa_hls_full_e_95AEFABF606F67368D62A486/NBA_TV-mp4a_145200_spa=29.m3u8
+
+#EXTINF:-1,El Garage
+http://cdn.cvattv.com.ar/live/c6eds/El_Garage/sa_hls_full_e_95AEFABF606F67368D62A486/El_Garage-mp4a_145200_spa=10.m3u8
+
+#EXTINF:-1,Golf Channel
+http://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/sa_hls_full_e_95AEFABF606F67368D62A486/Golf_Channel-mp4a_145200_eng=12.m3u8
+
+#EXTINF:-1,PX Sports
+http://cdn.cvattv.com.ar/live/c7eds/PX_Sports/sa_hls_full_e_95AEFABF606F67368D62A486/PX_Sports-mp4a_145200_spa=20003.m3u8
+
+#EXTINF:-1,America Sports
+http://cdn.cvattv.com.ar/live/c6eds/America_Sports/sa_hls_full_e_95AEFABF606F67368D62A486/America_Sports-mp4a_145200_spa=2.m3u8
 
 
 
@@ -15,7 +161,7 @@ url-tvg="https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://www.open-ep
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="🇦🇷Argentina🇦🇷", Telefe
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/sa_hls_full_e_95AEFABF606F67368D62A486/TelefeHD.m3u8
+https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/sa_hls_full_e_95AEFABF606F67368D62A486/TelefeHD-mp4a_145200_spa=4.m3u8
 
 
 #EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", Mix TV
