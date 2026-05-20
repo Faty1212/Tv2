@@ -18,78 +18,12 @@ https://cdn.cvattv.com.ar/live/c7eds/Info_Flow/sa_hls_full_e_95AEFABF606F67368D6
 
 
 
-#EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOsOMnB0_UeC6b7puG-gQLJLSylYXc7DT3gc8ut9J9fw&s" group-title="🇦🇷Argentina🇦🇷", Telefe
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/sa_hls_full_e_95AEFABF606F67368D62A486/TelefeHD.m3u8
 
 
-#EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://cdn.cvattv.com.ar/live/c6eds/Canal7/sa_hls_full_e_95AEFABF606F67368D62A486/Canal7.m3u8
-cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
 
-#EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/sa_hls_full_e_95AEFABF606F67368D62A486/ArtearHD.m3u8
-5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
 
-#EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://cdn.cvattv.com.ar/live/c3eds/Canal9/sa_hls_full_e_95AEFABF606F67368D62A486/Canal9.m3u8
-24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
-
-#EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-""
-7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
-
-#EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
-
-#EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
-
-#EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-
-745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
-
-#EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
-
-#EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
-
-#EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
-
-#EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
 
 #EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
