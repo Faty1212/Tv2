@@ -168,8 +168,11 @@ https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/sa_hls_full_e_95AEFABF606F67368D62
 
 #EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", Mix TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e1327b5b1f4dfe767aec622c9ef64ce:60c64a922af0121bf73261c825e33f18
-https://cdn.cvattv.com.ar/live/c4eds/MixTV/sa_hls_full_e_95AEFABF606F67368D62A486/MixTV.m3u8
+#KODIPROP:inputstream.adaptive.license_key=15876189db3d34b5a6aa792b71de698c:f179fe214afd143c03ea5e19e715e2ff
+https://1233-aws.akamaized.net/1233_TNT_SPORTS_ARG_DASH/manifest.mpd
+
+
+
 
 #EXTINF:-1 ch-number="11" tvg-id="IP noticias.ar" tvg-logo="https://i.postimg.cc/BnPRzqvb/LEP.png" group-title="🇦🇷Argentina🇦🇷", Canal 90
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
