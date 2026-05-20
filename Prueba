@@ -8,7 +8,8 @@ url-tvg="https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://www.open-ep
 
 
 #EXTINF:-1,Canal de la ciudad
-http://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_de_la_ciudad-145200_spa=21.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=15000000,RESOLUTION=3840x2160
+http://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_de_la_ciudad.m3u8
 
 #EXTINF:-1,Diputados TV
 http://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/sa_hls_full_e_95AEFABF606F67368D62A486/Diputados_TV-mp4a_145200_spa=14.m3u8
