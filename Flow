@@ -216,12 +216,12 @@ https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/sa_hls_full_e_95AEFABF606F6736
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
 #EXTINF:-1 ch-number="11" tvg-id="La Nacion.uy" tvg-logo="https://i.postimg.cc/dtnjTfgB/LN.png" group-title="🇦🇷Argentina🇦🇷", LN+
-https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd
+https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/sa_hls_full_e_95AEFABF606F67368D62A486/La_Nacion.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
 #EXTINF:-1 ch-number="11" tvg-id="[C5NARG].C5N.uy" tvg-logo="https://i.postimg.cc/05w67PCx/Fondo-Oscuro.png" group-title="🇦🇷Argentina🇦🇷", C5N
-https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd
+https://cdn.cvattv.com.ar/live/c7eds/C5N/sa_hls_full_e_95AEFABF606F67368D62A486/C5N.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
