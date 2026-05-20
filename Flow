@@ -316,12 +316,12 @@ https://cdn.cvattv.com.ar/live/c7eds/TyCSport/sa_hls_full_e_95AEFABF606F67368D62
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
 #EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png" group-title="⚽Deportes🏀", ESPN 2
-https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN2HD.m3u8
+https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN2_Arg.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="⚽Deportes🏀", ESPN
-https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN2_Arg.m3u8
+https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN2HD.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
