@@ -8,6 +8,10 @@ url-tvg="https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://www.open-ep
 
 #EXTINF:-1,tnt sports 
 https://www.nebunexa.life/cvatt.html?get=QW1lcmljYVRW&lang=1?
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/500px-2019_Disney_Channel_logo.svg.png" group-title="Infantiles",Disney Channel 
+http://181.78.101.241:25461/live/carlosmadrid.best/CMadrid25$/45.ts
+
+
 
 
 
