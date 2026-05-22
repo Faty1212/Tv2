@@ -1415,7 +1415,7 @@ https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 http://181.13.252.102:8000/play/a0bg/index.m3u8
 #EXTINF:-1 tvg-id="0915" group-title="🇦🇷ARGENTINA🇦🇷" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.m3u8player.online/
+#EXTVLCOPT:http-referrer=https://www.eltrecetv.com.ar/
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="El Trece C" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="🇦🇷Argentina🇦🇷",El Trece
 http://181.13.252.102:8000/play/a0bg/index.m3u8
