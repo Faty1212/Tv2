@@ -6,14 +6,11 @@ url-tvg="https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://www.open-ep
 #KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
 url-tvg="https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://www.open-epg.com/generate/YbXmXks9dD.xml.gz,https://epghub.xyz/epg/EPG-ES-UY.xml.gz,https://epghub.xyz/epg/EPG-PLEX-RAKUTEN-SV.xml.gz,https://juno.epg.elektamedia.com/api/Programme/40mediaSpA/Juno/xml/allchannels/xmltv.xml,https://nocords.xyz/pluto/epg.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/br.xml.gz,http://192.99.212.247/epg.xml"
 
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS
-http://38.187.7.252:8000/play/a03d/index.m3u8
 
 
 
 
-#EXTINF:1, espn premium
-http://kstv.us:8080/KaMFB1hqFc/0130873514/46728
+
 #EXTINF:1, espn 2
 http://bgdc.live:25461/nmullen144/73970570/215147
 
