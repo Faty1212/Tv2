@@ -149,7 +149,10 @@ https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc_C/Canal10_C
 #KODIPROP:inputstream.adaptive.license_key=103ce214b4d04c8eb4dd43670e956dad:20e030576b8dc4df0d1c68e16af3bc0f
 #EXTINF:-1 ch-number="11" tvg-id="Telefe Cordoba.ar" tvg-logo="https://i.postimg.cc/sXnmjsM4/Córdoba.png" group-title="🇦🇷Interior🇦🇷", Telefe Córdoba
 http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/cordobatelefe.playlist.m3u8
-	
+
+#EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1669538372061208579/Wibfqd9H_400x400.jpg" group-title="🇦🇷Interior🇦🇷", TELEFE SANTA FE
+https://cdn.pontiscloud.com/output/COR/TSFH/track_0_3000/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
 #EXTINF:-1 ch-number="11" tvg-id="El Doce CANAL 12 DE CORDOBA.ar" tvg-logo="https://i.postimg.cc/mk9jsWhc/Logo-1.png" group-title="🇦🇷Interior🇦🇷", eldoce Córdoba
@@ -165,7 +168,7 @@ https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
 #EXTINF:-1 ch-number="11" tvg-id="Verte Olavarria.ar" tvg-logo="https://i.postimg.cc/SKQ1bDyx/Verte-Olavarria.png" group-title="🇦🇷Interior🇦🇷", Canal Verte+
 https://cdn.cvattv.com.ar/live/c7eds/Somos_Azul/SA_Live_dash_enc_C/Somos_Azul.mpd
 
-#EXTINF:-1 tvg-id="Cadena103TV.ar@SD" tvg-logo="https://repro.arcast.cloud/cadena103/logo.jpg" group-title="🇦🇷Interior🇦🇷",Cadena 103
+#EXTINF:-1 tvg-id="Cadena103TV.ar@SD" tvg-logo="https://repro.arcast.cloud/cadena103/logo.jpg" group-title="📻Radios📻",Cadena 103
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 
 #EXTINF:-1 ch-number="11" tvg-id="Info Flow" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/59186910073646.png" group-title="Flow", Info Flow
