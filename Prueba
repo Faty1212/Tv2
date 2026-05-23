@@ -15,7 +15,7 @@ http://bgdc.live:25461/nmullen144/73970570/215147
 
 
 
-#EXTINF:-1,Canal de la ciudad
+#EXTINF:-1,Telefe
 #EXT-X-STREAM-INF:BANDWIDTH=15000000,RESOLUTION=3840x2160
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
