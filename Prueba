@@ -9,11 +9,7 @@ url-tvg="https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://www.open-ep
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS
 http://38.187.7.252:8000/play/a03d/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS
-http://177.53.152.117:8000/play/a07d/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS", DSPORTS
-http://209.14.108.45:8000/play/a0br
 
 
 #EXTINF:1, espn premium
