@@ -92,6 +92,7 @@ http://201.230.121.85:8000/play/a0yv/index.m3u8
 #EXTINF:-1 group-title="⚽Deportes🏀" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png", DSPORTS
 http://190.117.20.37:8000/play/a08d/index.m3u8
 EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="🇦🇷Deportes🇦🇷", DSPORTS
+http://148.222.230.197:8000/play/a0mm/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="| DSPORTS CO |" tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="⚽DEPORTES🏀", DSPORTS ARG
