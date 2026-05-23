@@ -8,8 +8,9 @@ url-tvg="https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://www.open-ep
 
 
 
-
-#EXTINF:1, espn
+#EXTINF:1, espn premium
+http://kstv.us:8080/KaMFB1hqFc/0130873514/46728
+#EXTINF:1, espn 2
 http://bgdc.live:25461/nmullen144/73970570/215147
 
 
