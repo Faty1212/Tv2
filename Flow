@@ -86,7 +86,7 @@ http://177.53.152.117:8000/play/a07d/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="⚽Deportes🏀", DSPORTS 
 http://179.63.6.12:9000/play/a01k
 #EXTINF:-1  tvg-id="179#DTS+" tvg-title="DirecTV Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ja4dtSJKU8Xyj-ZqYPbJ6XTsiQBre-pXi1kxW4QHHA&s=10" tvg-chno="170" group-title="⚽Deportes🏀",DSports
-http://kstv.us:8080/live/N427DpynGE/7049166651/47096.ts
+http://181.64.27.65:8000/play/a0cq/index.m3u8
 #EXTINF:-1 group-title="⚽Deportes🏀" tvg-logo="https://yt3.googleusercontent.com/TMzi1CE7Cg1HUYJbbYfGSgAVKzYrEPztlDflq6x170GGq53c1Yxv_JAs10QjdHeQ6fiW99hSHg=s900-c-k-c0x00ffffff-no-rj", DSPORTS
 http://201.230.121.85:8000/play/a0yv/index.m3u8
 #EXTINF:-1 group-title="⚽Deportes🏀" tvg-logo="https://yt3.googleusercontent.com/TMzi1CE7Cg1HUYJbbYfGSgAVKzYrEPztlDflq6x170GGq53c1Yxv_JAs10QjdHeQ6fiW99hSHg=s900-c-k-c0x00ffffff-no-rj", DSPORTS
