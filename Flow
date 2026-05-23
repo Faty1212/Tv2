@@ -93,10 +93,6 @@ http://201.230.121.85:8000/play/a0yv/index.m3u8
 http://190.117.20.37:8000/play/a08d/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="⚽Deportes🏀", DSports
-http://148.222.230.201:8000/play/a0pk/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="⚽Deportes🏀", Dsports
-http://179.43.96.253:8000/play/a24w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="| DSPORTS CO |" tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="⚽DEPORTES🏀", DSPORTS ARG
 http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592037.ts
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="LD - DIRECTV SPORTS" tvg-logo="http://descargas.podzone.net/Logos3/005.png" group-title="⚽DEPORTES🏀",DSPORTS (uru)
