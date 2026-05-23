@@ -148,7 +148,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc_C/Canal10_C
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=103ce214b4d04c8eb4dd43670e956dad:20e030576b8dc4df0d1c68e16af3bc0f
 #EXTINF:-1 ch-number="11" tvg-id="Telefe Cordoba.ar" tvg-logo="https://i.postimg.cc/sXnmjsM4/Córdoba.png" group-title="🇦🇷Interior🇦🇷", Telefe Córdoba
-https://cdn.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc_C/Canal_8_CBA.mpd
+http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/cordobatelefe.playlist.m3u8
 	
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
