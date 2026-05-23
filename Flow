@@ -91,13 +91,9 @@ http://181.64.27.65:8000/play/a0cq/index.m3u8
 http://201.230.121.85:8000/play/a0yv/index.m3u8
 #EXTINF:-1 group-title="⚽Deportes🏀" tvg-logo="https://yt3.googleusercontent.com/TMzi1CE7Cg1HUYJbbYfGSgAVKzYrEPztlDflq6x170GGq53c1Yxv_JAs10QjdHeQ6fiW99hSHg=s900-c-k-c0x00ffffff-no-rj", DSPORTS
 http://190.117.20.37:8000/play/a08d/index.m3u8
-#EXTINF:-1 group-title="⚽Deportes🏀" tvg-logo="https://yt3.googleusercontent.com/TMzi1CE7Cg1HUYJbbYfGSgAVKzYrEPztlDflq6x170GGq53c1Yxv_JAs10QjdHeQ6fiW99hSHg=s900-c-k-c0x00ffffff-no-rj", DSPORTS
-#EXTVLCOPT:network-caching=1000
-http://190.117.20.39:8000/play/a08d/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="⚽Deportes🏀", DSports
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="⚽Deportes🏀", DSports
 http://148.222.230.201:8000/play/a0pk/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="⚽Deportes🏀", Dsports
 http://179.43.96.253:8000/play/a24w/index.m3u8
