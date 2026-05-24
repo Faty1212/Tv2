@@ -183,15 +183,14 @@ https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/sa_hls_full_e_95AEFABF606F67368D6
 #EXTINF:-1 ch-number="11" tvg-id="Canal 8 Mar del Plata.ar" tvg-logo="https://i.postimg.cc/P53snskB/CANAL-8-MDQ.png" group-title="🇦🇷Interior🇦🇷", Canal 8 MDQ
 https://cdn.cvattv.com.ar/live/c4eds/Telefe_MDQ_HD/SA_Live_dash_enc_C/Telefe_MDQ_HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
-#EXTINF:-1 ch-number="11" tvg-id="La TV Pública (ARG).ar" tvg-logo="https://i.postimg.cc/5t1Qr2mk/LEP.png" group-title="🇦🇷Argentina🇦🇷", TV Publica
-https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd	
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5f353c7f02f643da9049646fb835abcf:ae8630fc13b9e4554c56bd0be31be74f
+#EXTINF:-1 ch-number="11" tvg-id="La TV Pública (ARG).ar" tvg-logo="https://i.postimg.cc/5t1Qr2mk/LEP.png" group-title="🇦🇷Argentina🇦🇷", TV Publica
+https://g5.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8	
+
+
 #EXTINF:-1 ch-number="11" tvg-id="Canal 10 Mar del Plata.ar" tvg-logo="https://i.postimg.cc/QM7Fq0Jv/Logo-1.png" group-title="🇦🇷Interior🇦🇷", Canal 10 MDQ
-https://cdn.cvattv.com.ar/live/c3eds/Canal_10_MDQ/SA_Live_dash_enc_C/Canal_10_MDQ.mpd	
+https://g2.proy-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8	
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
@@ -259,10 +258,10 @@ https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 #EXTINF:-1 ch-number="11" tvg-id="KZO.ar" tvg-logo="https://i.postimg.cc/sBhMQqhX/KZO.png" group-title="🇦🇷Argentina🇦🇷", KZO
 https://cdn.cvattv.com.ar/live/c6eds/KZO/sa_hls_full_e_95AEFABF606F67368D62A486/KZO.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=30691d3980864458cc24a230708cf003:9f11ac9715b016312f6a222d0886c2af
+
 #EXTINF:-1 ch-number="11" tvg-id="Canal 2 Mar del Plata.ar" tvg-logo="https://i.postimg.cc/W1VTgL7f/Logo.png" group-title="🇦🇷Interior🇦🇷", Canal 2 (Mar del Plata)
-https://cdn.cvattv.com.ar/live/c4eds/Canal_2_MDQ_LCC/SA_Live_dash_enc_C/Canal_2_MDQ_LCC.mpd
+https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
+
  
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f6ab7206de81b4f19edcbc735a7f4ca:5d05b9738b9a999a4b7c5b495866c21c
@@ -274,10 +273,10 @@ https://cdn.cvattv.com.ar/live/c7eds/Universidad_MDQ/SA_Live_dash_enc_C/Universi
 #EXTINF:-1 ch-number="11" tvg-id="Diputados TV.ar" tvg-logo="https://i.postimg.cc/m2VyFnKH/Diputados.png" group-title="🇦🇷Interior🇦🇷", Diputados TV
 https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc_C/Diputados_TV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=32b5308f8e6d411eab8a8f1576f95e27:0afb56f72dbf8a5555e30a6f086049ac
+
 #EXTINF:-1 ch-number="11" tvg-id="Canal 79 Mar del Plata.ar" tvg-logo="https://i.postimg.cc/Pxttkbh4/Logo.png" group-title="🇦🇷Interior🇦🇷", Canal 79 MDQ
-https://cdn.cvattv.com.ar/live/c3eds/Canal_79_MDQ/SA_Live_dash_enc_C/Canal_79_MDQ.mpd
+https://streamconex.com:19360/mardelplata/mardelplata.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e1327b5b1f4dfe767aec622c9ef64ce:60c64a922af0121bf73261c825e33f18
