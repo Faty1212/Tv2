@@ -26,61 +26,6 @@ http://181.13.252.102:8000/play/a06c/index.m3u8
 #EXTINF:-1, Cronica TV
 http://181.13.252.102:8000/play/a01q/index.m3u8
 
-#EXTINF:-1,KZO
-http://cdn.cvattv.com.ar/live/c6eds/KZO/sa_hls_full_e_95AEFABF606F67368D62A486/KZO-mp4a_97200_spa=2.m3u8
-
-#EXTINF:-1,Metro
-http://cdn.cvattv.com.ar/live/c6eds/Metro/sa_hls_full_e_95AEFABF606F67368D62A486/Metro-mp4a_97200_spa=12.m3u8
-
-#EXTINF:-1,Encuentro
-http://cdn.cvattv.com.ar/live/c6eds/Encuentro/sa_hls_full_e_95AEFABF606F67368D62A486/Encuentro-mp4a_145200_spa=14.m3u8
-
-#EXTINF:-1,América TV
-http://cdn.cvattv.com.ar/live/c3eds/AmericaTV/sa_hls_full_e_95AEFABF606F67368D62A486/AmericaTV.m3u8
-
-#EXTINF:-1,TV Pública
-http://cdn.cvattv.com.ar/live/c6eds/Canal7/sa_hls_full_e_95AEFABF606F67368D62A486/Canal7.m3u8
-
-#EXTINF:-1,Bravo TV
-http://cdn.cvattv.com.ar/live/c7eds/BravoTV/sa_hls_full_e_95AEFABF606F67368D62A486/BravoTV-mp4a_145200_spa=20000.m3u8
-
-#EXTINF:-1,El Nueve
-http://cdn.cvattv.com.ar/live/c3eds/Canal9/sa_hls_full_e_95AEFABF606F67368D62A486/Canal9-mp4a_145200_spa=20002.m3u8
-
-#EXTINF:-1,Net TV
-http://cdn.cvattv.com.ar/live/c6eds/Net_TV/sa_hls_full_e_95AEFABF606F67368D62A486/Net_TV-mp4a_145200_spa=2.m3u8
-
-#EXTINF:-1,Telefe
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
-http://cdn.cvattv.com.ar/live/c6eds/TelefeHD/sa_hls_full_e_95AEFABF606F67368D62A486/TelefeHD.m3u8
-
-#EXTINF:-1,Telefe Internacional
-http://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/sa_hls_full_e_95AEFABF606F67368D62A486/Telefe_Internacional.m3u8
-
-#EXTINF:-1,El Trece
-http://cdn.cvattv.com.ar/live/c3eds/ArtearHD/sa_hls_full_e_95AEFABF606F67368D62A486/ArtearHD-mp4a_145200_spa=20003.m3u8
-
-#EXTINF:-1,El Trece Internacional
-http://cdn.cvattv.com.ar/live/c4eds/Artear_Internacional/sa_hls_full_e_95AEFABF606F67368D62A486/Artear_Internacional-mp4a_145200_spa=12.m3u8
-
-#EXTINF:-1,Ciudad Magacine
-http://cdn.cvattv.com.ar/live/c3eds/Magazine/sa_hls_full_e_95AEFABF606F67368D62A486/Magazine-mp4a_145200_spa=20001.m3u8
-
-#EXTINF:-1,Volver
-http://cdn.cvattv.com.ar/live/c6eds/Volver/sa_hls_full_e_95AEFABF606F67368D62A486/Volver-mp4a_145200_spa=2.m3u8
-
-#EXTINF:-1,Mix TV
-http://cdn.cvattv.com.ar/live/c4eds/MixTV/sa_hls_full_e_95AEFABF606F67368D62A486/MixTV-mp4a_145200_spa=8.m3u8
-
-#EXTINF:-1,Argentinísima
-http://cdn.cvattv.com.ar/live/c6eds/Argentinisima/sa_hls_full_e_95AEFABF606F67368D62A486/Argentinisima-mp4a_145200_spa=12.m3u8
-
-#EXTINF:-1,Cine AR
-http://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/sa_hls_full_e_95AEFABF606F67368D62A486/INCAA_Tv-mp4a_97200_spa=2.m3u8
-
-#EXTINF:-1,TN
-http://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/sa_hls_full_e_95AEFABF606F67368D62A486/TodoNoticias-mp4a_145200_spa=20000.m3u8
-
 #EXTINF:-1,LN
 http://cdn.cvattv.com.ar/live/c7eds/La_Nacion/sa_hls_full_e_95AEFABF606F67368D62A486/La_Nacion-mp4a_145200_spa=20001.m3u8
 
