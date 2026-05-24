@@ -126,10 +126,6 @@ https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="🇦🇷Argentina🇦🇷", Telefe
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
 
 
 #EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="🇦🇷Argentina🇦🇷", Telefe
@@ -166,11 +162,6 @@ https://cdn.cvattv.com.ar/live/c7eds/Somos_Azul/SA_Live_dash_enc_C/Somos_Azul.mp
 #EXTINF:-1 tvg-id="Cadena103TV.ar@SD" tvg-logo="https://repro.arcast.cloud/cadena103/logo.jpg" group-title="📻Radios📻",Cadena 103
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 
-#EXTINF:-1 ch-number="11" tvg-id="Info Flow" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/59186910073646.png" group-title="Flow", Info Flow
-https://cdn.cvattv.com.ar/live/c7eds/Info_Flow/SA_Live_dash_enc_C/Info_Flow.mpd
-
-#EXTINF:-1 ch-number="11" tvg-id="Info Flow" tvg-logo="https://i.postimg.cc/hj3hYjSv/Info-Mora.png" group-title="Flow", Info Mora
-https://cdn.cvattv.com.ar/live/c4eds/Info_Mora/SA_Live_dash_enc_C/Info_Mora.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b57763b8d9c205d609ea509432201fac:a476cf79190fe4810efdd81e32317ff3
@@ -222,10 +213,10 @@ https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/sa_hls_full_e_95AEFABF606F67368D6
 #EXTINF:-1 ch-number="11" tvg-id="[C5NARG].C5N.uy" tvg-logo="https://i.postimg.cc/05w67PCx/Fondo-Oscuro.png" group-title="🇦🇷Argentina🇦🇷", C5N
 https://cdn.cvattv.com.ar/live/c7eds/C5N/sa_hls_full_e_95AEFABF606F67368D62A486/C5N.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
-#EXTINF:-1 ch-number="11" tvg-id="CRONICA TV.ar" tvg-logo="https://i.postimg.cc/Ny2kSPBN/Cronica.png" group-title="🇦🇷Argentina🇦🇷", Cronica TV
-https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/sa_hls_full_e_95AEFABF606F67368D62A486/CronicaTV.m3u8
+
+#EXTINF:-1 tvg-id="CRONICA TV.ar" tvg-logo="https://i.postimg.cc/Ny2kSPBN/Cronica.png" group-title="🇦🇷Argentina🇦🇷", Cronica TV
+https://g1.proy-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
