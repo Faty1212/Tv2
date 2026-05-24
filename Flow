@@ -625,10 +625,9 @@ https://cdn.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_C/A3_Series.mpd
 http://38.44.109.41:8003/play/a002/index.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=88b9c41e72acd5b589bbfb4776969781:43b9403f7a9e28fc2d7cbf10373b85aa
 #EXTINF:-1 ch-number="11" tvg-id="[SONYHD].Sony.Movie.Channel.HD.uy" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/59061481076336.png" group-title="🎬Cine, Novelas y Series🎥", Sony Movies
-https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc_C/Sony_Movies.mpd
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f0fc214d9844a7590f0884d55b44c42:b2fe1bb5f9c79035301c328c1e93b0ee
@@ -1616,12 +1615,12 @@ http://190.7.19.197:232/play/a049/index.m3u8
 http://190.7.19.197:232/play/a014/index.m3u8
 #EXTINF:1 CUID="238" tvg-name="TLNovelas" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/301/CH_LOGO/800/542/0/0/9347484107170.png" tvg-id="TLNovelas.ar" group-title="🎬Cine, Novelas y Series🎥",TLNovelas 
 http://190.7.19.197:232/play/a01q/index.m3u8
-#EXTINF:1 CUID="240" tvg-name="TNT HD" tvg-logo="https://logo.m3uassets.com/tnt.png" tvg-id="TNT.ar" group-title="🎬Cine, Novelas y Series🎥",TNT
-http://190.7.19.197:232/play/a060/index.m3u8
+#EXTINF:1 CUID="240" tvg-name="TNT HD" tvg-logo="https://logo.m3uassets.com/tnt.png" tvg-id="TNT.ar" group-title="🎬Cine, Novelas y Series🎥",Tnt
+http://152.231.29.139:8000/play/a0dc/index.m3u8
 #EXTINF:1 CUID="241" tvg-name="TNT Novelas HD" tvg-logo="https://logo.m3uassets.com/tntnovelas.png" tvg-id="TNTNovelas.ar" group-title="🎬Cine, Novelas y Series🎥",TNT Novelas
 http://190.7.19.197:232/play/a00g/index.m3u8
 #EXTINF:1 CUID="242" tvg-name="TNT Series HD" tvg-logo="https://logo.m3uassets.com/tntseries.png" tvg-id="TNTSeries.ar" group-title="🎬Cine, Novelas y Series🎥",TNT Series 
-http://190.7.19.197:232/play/a088/index.m3u8
+http://152.231.29.139:8000/play/a02f/index.m3u8
 #EXTINF:1 CUID="252" tvg-name="USA Network" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/488/CH_LOGO/800/542/0/0/81694330078327.png" tvg-id="USANetwork.ar" group-title="🎬Cine, Novelas y Series🎥",USA Network 
 http://190.7.19.197:232/play/a04a/index.m3u8
 #EXTINF:1 CUID="253" tvg-name="Universal TV HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/800/542/0/0/9929073907327.png" tvg-id="UniversalTV.ar" group-title="🎬Cine, Novelas y Series🎥",Universal
@@ -1669,7 +1668,7 @@ http://190.7.19.197:232/play/a055/index.m3u8
 #EXTINF:1 CUID="201" tvg-name="History 2" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/800/542/0/0/16627153073621.png" tvg-id="History2.ar" group-title="⏩Variedades⏪",History 2 
 http://190.7.19.197:232/play/a019/index.m3u8
 #EXTINF:1 CUID="202" tvg-name="History Channel" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/800/542/0/0/9019422407178.png" tvg-id="History.ar" group-title="⏩Variedades⏪",History Channel 
-http://45.228.234.30:16000/play/a011
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 #EXTINF:1 CUID="213" tvg-name="Nat Geo HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/110/CH_LOGO/800/542/0/0/83674247072710.png" tvg-id="NationalGeographic.ar" group-title="⏩Variedades⏪",Nat Geo 
 http://190.7.19.197:232/play/a03s/index.m3u8
 #EXTINF:-1 group-title="🎬Cine, Novelas y Series🎥" ,Hbo+
