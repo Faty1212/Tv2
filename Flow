@@ -131,10 +131,9 @@ https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 #EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="🇦🇷Argentina🇦🇷", Telefe
 http://zapster.trapemn.tv:1935/Zapsterv2/TelefeHD.stream/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d85fcc70989d0dbe8d70dd70a4629c0:a953290192fd5db5bf7936a88ecc6877
 #EXTINF:-1 ch-number="11" tvg-id="Canal 10.ar" tvg-logo="https://i.postimg.cc/d01Cq2c4/canal-10-cordoba.png" group-title="🇦🇷Interior🇦🇷", Canal 10 Córdoba
-https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc_C/Canal10_CBA_HD.mpd
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=103ce214b4d04c8eb4dd43670e956dad:20e030576b8dc4df0d1c68e16af3bc0f
@@ -178,10 +177,8 @@ https://cdn.cvattv.com.ar/live/c6eds/Metro/sa_hls_full_e_95AEFABF606F67368D62A48
 http://45.5.151.62:8000/play/a00f/index.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cd82180cb606cee7547f58298c4f8fcb:844489c5f007fbe4afa36c8d64528d73
 #EXTINF:-1 ch-number="11" tvg-id="Canal 8 Mar del Plata.ar" tvg-logo="https://i.postimg.cc/P53snskB/CANAL-8-MDQ.png" group-title="🇦🇷Interior🇦🇷", Canal 8 MDQ
-https://cdn.cvattv.com.ar/live/c4eds/Telefe_MDQ_HD/SA_Live_dash_enc_C/Telefe_MDQ_HD.mpd
+https://cdn.pontiscloud.com/output/SMT2/C8MPD/output.mpd
 
 
 #EXTINF:-1 ch-number="11" tvg-id="La TV Pública (ARG).ar" tvg-logo="https://i.postimg.cc/5t1Qr2mk/LEP.png" group-title="🇦🇷Argentina🇦🇷", TV Publica
@@ -190,7 +187,10 @@ https://g5.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 
 #EXTINF:-1 ch-number="11" tvg-id="Canal 10 Mar del Plata.ar" tvg-logo="https://i.postimg.cc/QM7Fq0Jv/Logo-1.png" group-title="🇦🇷Interior🇦🇷", Canal 10 MDQ
 https://g2.proy-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8	
-
+#EXTINF:-1 ch-number="11" tvg-id="Canal 10 Mar del Plata.ar" tvg-logo="https://i.postimg.cc/QM7Fq0Jv/Logo-1.png" group-title="🇦🇷Interior🇦🇷", Canal 10 MDQ
+https://cdn.pontiscloud.com/output/SMT6/C10MPD/output.mpd
+#EXTINF:-1 ch-number="11" tvg-id="Canal 10 Mar del Plata.ar" tvg-logo="https://i.postimg.cc/QM7Fq0Jv/Logo-1.png" group-title="🇦🇷Interior🇦🇷", Canal 10 MDQ
+https://g4.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
@@ -1680,7 +1680,8 @@ https://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high
 https://streaming.escuchanosonline.com:7220/stream
 #EXTINF:-1 group-title="📻Radios📻" tvg-logo="https://i0.wp.com/fmtiempo.com/wp-content/uploads/2023/08/cropped-512.png?fit=512%2C512&ssl=1" ,FM Tiempo 101
 https://radios.streamingdha.com.ar/8064/stream
-
+EXTINF:-1 tvg-logo="https://www.jumplay.com.ar/img/logo_1709226569.png" group-title="📻Radio📻", JumPlay OLAVARRIA
+https://inliveserver.com:1936/17050/17050/playlist.m3u8
 
 
 
