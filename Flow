@@ -811,10 +811,10 @@ https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_C/MTV_HD.mpd
 #EXTINF:-1 ch-number="511" tvg-id="QUIERO.ar" tvg-logo="https://i.postimg.cc/tJWc3vRN/QUIERO.png" group-title="🎙️Musica🎤", Quiero Música
 https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc_C/Quiero_HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabe2c22350c26c7f0ad84b34932f08d:39fa06836ec0f81d8dd9b6e01a3070e3
+
 #EXTINF:-1 ch-number="11" tvg-id="Vorterix.ar" tvg-logo="https://i.postimg.cc/ZK5jK2FZ/Vorterix.png" group-title="🎙️Musica🎤", Vorterix
-https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_C/Vorterix.mpd
+https://g3.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e55e61b81b992d6c21466891d72157e9:566d341bf7209a88976e75c20ad7aca2
