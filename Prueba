@@ -19,7 +19,7 @@ http://bgdc.live:25461/nmullen144/73970570/215147
 #EXTVLCOPT:http-referrer=https://mitelefe.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/${newToken}/master.m3u8
-#EXTINF:-1,Telefe
+#EXTINF:-1,Telefe 1
 #EXT-X-STREAM-INF:BANDWIDTH=15000000,RESOLUTION=3840x2160
 http://181.13.252.102:8000/play/a06c/index.m3u8
 
