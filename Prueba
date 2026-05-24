@@ -23,8 +23,8 @@ https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/${newToken
 #EXT-X-STREAM-INF:BANDWIDTH=15000000,RESOLUTION=3840x2160
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
-#EXTINF:-1,Diputados TV
-http://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/sa_hls_full_e_95AEFABF606F67368D62A486/Diputados_TV-mp4a_145200_spa=14.m3u8
+#EXTINF:-1, Cronica TV
+http://181.13.252.102:8000/play/a01q/index.m3u8
 
 #EXTINF:-1,KZO
 http://cdn.cvattv.com.ar/live/c6eds/KZO/sa_hls_full_e_95AEFABF606F67368D62A486/KZO-mp4a_97200_spa=2.m3u8
