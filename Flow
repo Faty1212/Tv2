@@ -620,10 +620,10 @@ https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 ch-number="11" tvg-id="[ATRESSD].Atreseries.uy" tvg-logo="https://i.postimg.cc/ZKk2fxtg/Logo_1.png" group-title="🎬Cine, Novelas y Series🎥", A3 Series
 https://cdn.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_C/A3_Series.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b7d085dbd4539afcc6a55445efb2b04e:0a55fbe044fed379d1632b589265b571
+
 #EXTINF:-1 group-title="🎬Cine, Novelas y Series🎥" ch-number="317" tvg-id="Golden.co" tvg-logo="https://i.postimg.cc/KjMgzy0F/Fondo_Oscuro_1.png", Golden
-https://cdn.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc_C/Golden.mpd
+http://38.44.109.41:8003/play/a002/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b9c41e72acd5b589bbfb4776969781:43b9403f7a9e28fc2d7cbf10373b85aa
