@@ -7,23 +7,23 @@ url-tvg="https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://www.open-ep
 url-tvg="https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://www.open-epg.com/generate/YbXmXks9dD.xml.gz,https://epghub.xyz/epg/EPG-ES-UY.xml.gz,https://epghub.xyz/epg/EPG-PLEX-RAKUTEN-SV.xml.gz,https://juno.epg.elektamedia.com/api/Programme/40mediaSpA/Juno/xml/allchannels/xmltv.xml,https://nocords.xyz/pluto/epg.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/br.xml.gz,http://192.99.212.247/epg.xml"
 
 
-#EXTINF:-1 group-title="Videx Ultra", ARGAmericaTVHD
+#EXTINF:-1, group-title="Videx Ultra", ARGAmericaTVHD
 videx-limit182-stream.x10.mx:9992/videx/ultratv/ARGAmericaTVHD
-#EXTINF:-1 group-title="Videx Ultra", ARGC5NHD
+#EXTINF:-1, group-title="Videx Ultra", ARGC5NHD
 videx-limit182-stream.x10.mx:9992/videx/ultratv/ARGC5NHD
-#EXTINF:-1 group-title="Videx Ultra", ARGCineArgentino
+#EXTINF:-1, group-title="Videx Ultra", ARGCineArgentino
 videx-limit182-stream.x10.mx:9992/videx/ultratv/ARGCineArgentino
-#EXTINF:-1 group-title="Videx Ultra", ARGElNueveHD
+#EXTINF:-1, group-title="Videx Ultra", ARGElNueveHD
 videx-limit182-stream.x10.mx:9992/videx/ultratv/ARGElNueveHD
-#EXTINF:-1 group-title="Videx Ultra", ARGEncuentroHD
+#EXTINF:-1, group-title="Videx Ultra", ARGEncuentroHD
 videx-limit182-stream.x10.mx:9992/videx/ultratv/ARGEncuentroHD
-#EXTINF:-1 group-title="Videx Ultra", ARGGarageTVHD
+#EXTINF:-1, group-title="Videx Ultra", ARGGarageTVHD
 videx-limit182-stream.x10.mx:9992/videx/ultratv/ARGGarageTVHD
-#EXTINF:-1 group-title="Videx Ultra", ARGInformacionPeriodisticaHD
+#EXTINF:-1, group-title="Videx Ultra", ARGInformacionPeriodisticaHD
 videx-limit182-stream.x10.mx:9992/videx/ultratv/ARGInformacionPeriodisticaHD
-#EXTINF:-1 group-title="Videx Ultra", ARGTelefeInternacionalHD
+#EXTINF:-1, group-title="Videx Ultra", ARGTelefeInternacionalHD
 videx-limit182-stream.x10.mx:9992/videx/ultratv/ARGTelefeInternacionalHD
-#EXTINF:-1 group-title="Videx Ultra", ARGTNNoticias
+#EXTINF:-1, group-title="Videx Ultra", ARGTNNoticias
 videx-limit182-stream.x10.mx:9992/videx/ultratv/ARGTNNoticias
 
 
