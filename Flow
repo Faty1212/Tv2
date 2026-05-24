@@ -1610,7 +1610,7 @@ http://45.228.234.30:16000/play/a02e
 #EXTINF:1 CUID="233" tvg-name="Star Channel HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/42/CH_LOGO/800/542/0/0/6901418607879.png" tvg-id="StarChannel.ar" group-title="🎬Cine, Novelas y Series🎥",Star Channel
 http://45.228.234.30:16000/play/a01n
 #EXTINF:1 CUID="234" tvg-name="Studio Universal" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/267/CH_LOGO/800/542/0/0/223329100777.png" tvg-id="StudioUniversal.ar" group-title="🎬Cine, Novelas y Series🎥",Studio Universal
-http://190.7.19.197:232/play/a049/index.m3u8
+http://lunar.pm:8080/shacara/7274249488/115166
 #EXTINF:1 CUID="236" tvg-name="TCM" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/800/542/0/0/1820288007328.png" tvg-id="TCM.ar" group-title="🎬Cine, Novelas y Series🎥",TCM 
 http://190.7.19.197:232/play/a014/index.m3u8
 #EXTINF:1 CUID="238" tvg-name="TLNovelas" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/301/CH_LOGO/800/542/0/0/9347484107170.png" tvg-id="TLNovelas.ar" group-title="🎬Cine, Novelas y Series🎥",TLNovelas 
