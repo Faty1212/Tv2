@@ -611,10 +611,10 @@ https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_C/TCM.mpd
 #EXTINF:0 tvg-id="AMC HD.co" tvg-logo="https://i.postimg.cc/Y0Q4pc7b/Fondo_Oscuro.png" group-title="🎬Cine, Novelas y Series🎥", AMC
 https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_C/AMC.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=10d3d4f33a6bad277accc2688c46b406:588fd56bcab1fcdb4f33b5c2f7018d29
+
 #EXTINF:-1 ch-number="419" tvg-id="[MASCHIC].Mas.Chic.uy" tvg-logo="https://i.postimg.cc/Hcd31vF7/AMC-Series.png" group-title="🎬Cine, Novelas y Series🎥", AMC Series
-https://cdn.cvattv.com.ar/live/c6eds/AMC_Series/SA_Live_dash_enc_C/AMC_Series.mpd
+https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5e34e08ae5ae440f01a03e505dd24a57:ed30cc7f5040a75d73f619320249272b
