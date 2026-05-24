@@ -24,7 +24,7 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/112.ts
 #EXTINF:0 tvg-id="ESPN.cl" group-title="⭐Eventos en Vivo⭐" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png", DISNEY OPC 2
 #EXTVLCOPT:network-caching=1000
-http://38.210.3.64:8090/play/a0bu/index.m3u8
+http://latinostvhd.club:25461/8642755377/437ca16994/31122
 #EXTINF:-1 tvg-id="ESPN 2 A" tvg-logo="https://iili.io/JKrdO5x.png" group-title="⭐Eventos en Vivo⭐",DISNEY 2
 #EXTVLCOPT:network-caching=1000
 http://177.10.184.193:8000/play/a0fp/index.m3u8
