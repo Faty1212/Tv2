@@ -7,6 +7,23 @@ url-tvg="https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://www.open-ep
 url-tvg="https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://www.open-epg.com/generate/YbXmXks9dD.xml.gz,https://epghub.xyz/epg/EPG-ES-UY.xml.gz,https://epghub.xyz/epg/EPG-PLEX-RAKUTEN-SV.xml.gz,https://juno.epg.elektamedia.com/api/Programme/40mediaSpA/Juno/xml/allchannels/xmltv.xml,https://nocords.xyz/pluto/epg.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/br.xml.gz,http://192.99.212.247/epg.xml"
 
 
+#EXTINF:-1 tvg-id="CronicaTV" tvg-logo="" group-title="test" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" http-referer="https://www.gigared.com.ar/" http-origin="https://www.gigared.com.ar",CronicaTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2932730b9b35ad5ded0e4d96af122676:57f01dd4f21f8786352399c80d36caf8
+https://cdn02.gigared.com.ar/live/eds/CronicaTV/sa_live_dash/CronicaTV.mpd
+
+#EXTINF:-1 tvg-id="CronicaTV" tvg-logo="" group-title="test",CronicaTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://www.gigared.com.ar/
+#EXTVLCOPT:http-origin=https://www.gigared.com.ar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2932730b9b35ad5ded0e4d96af122676:57f01dd4f21f8786352399c80d36caf8
+https://cdn02.gigared.com.ar/live/eds/CronicaTV/sa_live_dash/CronicaTV.mpd
+
+
+
 #EXTINF:-1, group-title="Videx Ultra", ARGAmericaTVHD
 videx-limit182-stream.x10.mx:9992/videx/ultratv/ARGAmericaTVHD
 #EXTINF:-1, group-title="Videx Ultra", ARGC5NHD
