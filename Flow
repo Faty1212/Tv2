@@ -72,6 +72,17 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137371
 
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="⚽Deportes🏀", DSports 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4db80473af2ed318c41d879f2822203e:d30f94e60344adf0f4b242a5952575ad
+https://cdn.cvattv.com.ar/live/c3eds/DSports_1/SA_Live_dash_cenc/DSports_1.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="⚽Deportes🏀", DSports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0dd493fa74640442abd75139b67307d6:31cf4295392d939a97f3b60ebf1ceb44
+https://cdn.cvattv.com.ar/live/c3eds/DSports_2/SA_Live_dash_cenc/DSports_2.mpd
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFK_heqWba22Mvq468L1tEM42AcS0CHGuiA&s" group-title="⚽DEPORTES🏀", Dsports +
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:live-caching=5000
