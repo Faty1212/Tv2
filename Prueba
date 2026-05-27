@@ -1,14 +1,33 @@
 #EXTM3U
-Dsports 1 Flow Ar
-https://cdn.cvattv.com.ar/live/c3eds/DSports_1/SA_Live_dash_cenc/DSports_1.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; Samsung; LGNetCast.TV; LG Smart TV)
+#EXTVLCOPT:network-caching=8000
+http://soporte-visual.com:8080/latinires2023/TVm8pr9dEAdM/124531
 
-4db80473af2ed318c41d879f2822203e:d30f94e60344adf0f4b242a5952575ad
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 2
+#EXTVLCOPT:network-caching=4000
+https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports opc 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; Samsung; LGNetCast.TV; LG Smart TV)
+#EXTVLCOPT:network-caching=8000
+http://tv-max.online:80/Jor584qui/vZfU5jmx2Qb7/592037.ts
 
-Dsports 2 Flow Ar
-https://cdn.cvattv.com.ar/live/c3eds/DSports_2/SA_Live_dash_cenc/DSports_2.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports opc 4
+#EXTVLCOPT:network-caching=3000
+http://tv.zeuspro.xyz:8080/live/alejalcala2/43ef535bdee5/184009.m3u8
 
-0dd493fa74640442abd75139b67307d6:31cf4295392d939a97f3b60ebf1ceb44
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •",DSPORTS 2
+
+https://tv.nousiptv.com:8443/Henrymaria/Perato/32882
+
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - DIRECTV SPORTS PLUS SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •",DSPORTS plus
+
+https://tv.nousiptv.com:8443/Henrymaria/Perato/27879
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
 
 
  
