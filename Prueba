@@ -1,9 +1,10 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/killxd26/Ote/refs/heads/main/logo/GH.png" group-title="CCC", GH 24HS
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/t/gran_hermano.json|User-Agent=okhttp/4.12.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 &x-flow-origin="Android"
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://186.148.224.170:81/manifest_dgo.php?uri=https%3A//1282-aws-da-mt.vrioott.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1282/1282_GRAN_HERMANO_24HRS_DASH/manifest.mpd
 
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -14,6 +15,7 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="⚽Deportes🏀", DSports 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4db80473af2ed318c41d879f2822203e:d30f94e60344adf0f4b242a5952575ad
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 https://cdn.cvattv.com.ar/live/c3eds/DSports_1/SA_Live_dash_cenc/DSports_1.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="⚽Deportes🏀", DSports 2
