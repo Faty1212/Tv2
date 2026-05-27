@@ -510,6 +510,85 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_C/FoxSports2H
 #EXTINF:-1 tvg-id="FOX Sports 3 (ARG).ar" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/33795984072366.png" group-title="⚽Deportes🏀", FOX Sports 3
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3HD.mpd
 
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://static.flow.com.ar/images/280/CH_LOGO/100/100/0/0/71306601073189.png" group-title="⚽Deportes🏀", ESPN
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn1.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc3eds%2FESPN2HD%2FSA_Live_dash_enc%2FESPN2HD.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
+
+#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://static.flow.com.ar/images/278/CH_LOGO/100/100/0/0/294103520718.png" group-title="⚽Deportes🏀", ESPN 2
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn2.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc6eds%2FESPN2_Arg%2FSA_Live_dash_enc%2FESPN2_Arg.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
+
+#EXTINF:-1 tvg-id="ESPN 3.ar" tvg-logo="https://static.flow.com.ar/images/72/CH_LOGO/100/100/0/0/29145259074972.png" group-title="⚽Deportes🏀", ESPN 3
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn3.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc3eds%2FESPN3%2FSA_Live_dash_enc%2FESPN3.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
+
+#EXTINF:-1 tvg-id="ESPN 4.ar" tvg-logo="https://static.flow.com.ar/images/279/CH_LOGO/100/100/0/0/43362732071132.png" group-title="⚽Deportes🏀", ESPN 4
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espnextra.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc3eds%2FESPNHD%2FSA_Live_dash_enc%2FESPNHD.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://static.flow.com.ar/images/8897/CH_LOGO/100/100/0/0/5522598607348.png" group-title="⚽Deportes🏀", ESPN 5
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn5.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc7eds%2FESPN4%2FSA_Live_dash_enc%2FESPN4.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://static.flow.com.ar/images/9019/CH_LOGO/100/100/0/0/15905984073899.png" group-title="⚽Deportes🏀", ESPN 6
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn6.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc7eds%2FFoxSports3_UY%2FSA_Live_dash_enc%2FFoxSports3_UY.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://static.flow.com.ar/images/9017/CH_LOGO/100/100/0/0/12041360073463.png" group-title="⚽Deportes🏀", ESPN 7
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn7.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc7eds%2FFoxSports2_UY%2FSA_Live_dash_enc%2FFoxSports2_UY.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
+
+#EXTINF:-1 tvg-id="FOX Sports (ARG).ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content//228/228/aAian9WeLoU0vTudB9xL2g?tags=CH_LOGO" group-title="⚽Deportes🏀", FOX SPORTS
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/foxsportsnew.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc3eds%2FFoxSports%2FSA_Live_dash_enc%2FFoxSports.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
+
+#EXTINF:-1 tvg-id="FOX Sports 2 (ARG).ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content//228/228/8lNQixZEsN3Eadq_eLSVqg?tags=CH_LOGO" group-title="⚽Deportes🏀", FOX SPORTS 2
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/foxsport2.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc3eds%2FFoxSports2HD%2FSA_Live_dash_enc%2FFoxSports2HD.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
+
+#EXTINF:-1 tvg-id="FOX Sports 3 (ARG).ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content//228/228/aAian9WeLoU0vTudB9xL2g?tags=CH_LOGO" group-title="⚽Deportes🏀", FOX SPORTS 3
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/foxsport3.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc3eds%2FFoxSports3HD%2FSA_Live_dash_enc%2FFoxSports3HD.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
+
+#EXTINF:-1 tvg-id="[TYC].TyC.Sports.uy" tvg-logo="https://static.flow.com.ar/images/74/CH_LOGO/100/100/0/0/78711436072355.png" group-title="⚽Deportes🏀", TYC SPORTS
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/tycsportv2.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc7eds%2FTyCSport%2FSA_Live_dash_enc%2FTyCSport.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/685/CH_LOGO/60/40/0/0/3943988507358.png" group-title="⚽Deportes🏀", EL GARAGE
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/garagetv.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc6eds%2FEl_Garage%2FSA_Live_dash_enc%2FEl_Garage.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
+
+#EXTINF:-1 tvg-id="DXTV.ar" tvg-logo="https://static.flow.com.ar/images/270/CH_LOGO/60/40/0/0/81432910072195.png" group-title="⚽Deportes🏀", DEPORTV
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/deportv.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc3eds%2FDeporTVHD%2FSA_Live_dash_enc%2FDeporTVHD.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
+
 #EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png" group-title="⚽Deportes🏀", ESPN 2
 http://45.5.151.62:8000/play/a00p/index.m3u8
 
