@@ -158,7 +158,7 @@ http://190.108.93.75:8001/play/a05d/index.m3u8
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjV7ia45k2vd977rehWU2P7GAEJR1hn8_q3qTPYqydaBC.png" group-title="⚽DEPORTES🏀" ,FOX México
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256FqX8CPxz5QbXEYLz3oEDs/m3u8
-#EXTINF:0 tvg-id="ESPN.ar" tvg-name="ESPN" CUID="25" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png" group-title="⚽Deportes🏀",ESPN
+#EXTINF:0 tvg-id="ESPN.ar" tvg-name="ESPN" CUID="25" tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="⚽Deportes🏀",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham.m3u8
 EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/30/TUDNlogo.png/revision/latest?cb=20190721040715&path-prefix=es" group-title="⚽Deportes🏀" ,TUDN
