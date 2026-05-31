@@ -2,7 +2,10 @@
 
 
 #EXTINF:-1 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 01
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-01.playlist.m3u8
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=19bd2208cafde3890ed4112044c70f7e9a8773752bdfb919801f5c6e332f50fa.1780263147.766dc8f9a5365c6558412767d4e38ac4.1d8465b11356a7353c7702a07b749902.2a6958fc5133fd544899d84d18670d0f&signature
 #EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 02
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02.playlist.m3u8
 #EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 03
