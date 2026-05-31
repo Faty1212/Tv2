@@ -31,7 +31,7 @@ https://broker.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-name="IP Noticias",IP Noticias
 https://broker.cdn.rcs.net.ar/mnp/ip_hls/playlist.m3u8
 
-#EXTINF:-1 group-title="Noticias" tvg-name="LN +",LN +
+#EXTINF:-1 group-title="Noticias" tvg-name="LN +",LN + 1
 https://broker.cdn.rcs.net.ar/mnp/lnmas_hls/playlist.m3u8
 
 #EXTINF:-1 group-title="Desconocida" tvg-name="CN 23",CN 23
