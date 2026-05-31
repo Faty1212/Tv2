@@ -12,7 +12,7 @@ https://broker.cdn.rcs.net.ar/mnp/gt3atkuy2khf7uqk6nx8p400000004an_hls/playlist.
 https://broker.cdn.rcs.net.ar/mnp/79sgpei8yp2kn0ledlptzl8nz5tjc3lz_hls/playlist.m3u8
 
 #EXTINF:-1 group-title="Nacionales" tvg-name="El Trece",El Trece
-https://broker.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
+https://broker.cdn.rcs.net.ar/mnp/el13_hls/output.mpd
 
 #EXTINF:-1 group-title="Nacionales" tvg-name="El Nueve",El Nueve
 https://broker.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
