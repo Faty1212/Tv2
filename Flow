@@ -547,6 +547,87 @@ http://45.5.151.62:8000/play/a00w/index.m3u8
 http://45.5.151.62:8000/play/a00z/index.m3u8
 
 
+
+
+
+#EXTINF:-1 tvg-id="[HBOL].HBO.uy" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/8527518907875.png" group-title="🎬Cine, Novelas y Series🎥", HBO
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/hbonew.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc4eds%2FHBOHD%2FSA_Live_dash_enc%2FHBOHD.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&cdn=https%3A%2F%2Fcdn-token.app.flow.com.ar%2Fcdntoken%2Fv2%2Fgenerator
+
+#EXTINF:-1 tvg-id="HBO 2 HD.uy" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/88341310072684.png" group-title="🎬Cine, Novelas y Series🎥", HBO 2
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/hbo2.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc6eds%2FHBO_2%2FSA_Live_dash_enc%2FHBO_2.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&cdn=https%3A%2F%2Fcdn-token.app.flow.com.ar%2Fcdntoken%2Fv2%2Fgenerator
+
+#EXTINF:-1 tvg-id="HBO Plus HD.uy" tvg-logo="https://static.flow.com.ar/images/883/CH_LOGO/500/500/0/0/17024645072165.png" group-title="🎬Cine, Novelas y Series🎥", HBO PLUS
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/hboplus.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc6eds%2FHBO_Plus%2FSA_Live_dash_enc%2FHBO_Plus.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&cdn=https%3A%2F%2Fcdn-token.app.flow.com.ar%2Fcdntoken%2Fv2%2Fgenerator
+
+#EXTINF:-1 tvg-id="HBO Mundi HD.uy" tvg-logo="https://static.flow.com.ar/images/704/CH_LOGO/500/500/0/0/931513860712.png" group-title="🎬Cine, Novelas y Series🎥", HBO MUNDI
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/hbomundi.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc6eds%2FHBO_Mundi%2FSA_Live_dash_enc%2FHBO_Mundi.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&cdn=https%3A%2F%2Fcdn-token.app.flow.com.ar%2Fcdntoken%2Fv2%2Fgenerator
+
+#EXTINF:-1 tvg-id="HBO POP HD.uy" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/71702634073927.png" group-title="🎬Cine, Novelas y Series🎥", HBO POP
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/hbopop.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc7eds%2FHBO_POP%2FSA_Live_dash_enc%2FHBO_POP.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&cdn=https%3A%2F%2Fcdn-token.app.flow.com.ar%2Fcdntoken%2Fv2%2Fgenerator
+
+#EXTINF:-1 tvg-id="HBO Xtreme HD.uy" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/7754024707334.png" group-title="🎬Cine, Novelas y Series🎥", HBO XTREME
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/hboxtreme.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc6eds%2FHBO_Extreme%2FSA_Live_dash_enc%2FHBO_Extreme.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&cdn=https%3A%2F%2Fcdn-token.app.flow.com.ar%2Fcdntoken%2Fv2%2Fgenerator
+
+#EXTINF:-1 tvg-id="HBO Family.uy" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/9358483307335.png" group-title="🎬Cine, Novelas y Series🎥", HBO FAMILY
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/hbofamilyespanol.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc6eds%2FHBO_Family%2FSA_Live_dash_enc%2FHBO_Family.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&cdn=https%3A%2F%2Fcdn-token.app.flow.com.ar%2Fcdntoken%2Fv2%2Fgenerator
+
+#EXTINF:-1 tvg-id="[HBOSLA].HBO.Signature.uy" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/1793376207500.png" group-title="🎬Cine, Novelas y Series🎥", HBO SIGNATURE
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/hbosignatureespanol.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc6eds%2FHBO_Signature%2FSA_Live_dash_enc%2FHBO_Signature.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&cdn=https%3A%2F%2Fcdn-token.app.flow.com.ar%2Fcdntoken%2Fv2%2Fgenerator
+
+#EXTINF:-1 tvg-id="[UNICI].Universal.Cinema.uy" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/72952746076947.png" group-title="🎬Cine, Novelas y Series🎥", UNIVERSAL CINEMA
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/uni_cinema.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+https://unipluslivedash.akamaized.net/universalcinemat0/manifest.mpd
+
+#EXTINF:-1 tvg-id="[UNICO].Universal.Comedy.uy" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/42891751076948.png" group-title="🎬Cine, Novelas y Series🎥", UNIVERSAL COMEDY
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/uni_comedy.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+https://unipluslivedash.akamaized.net/universalcomedyt0/manifest.mpd
+
+#EXTINF:-1 tvg-id="[UNICR].Universal.Crime.uy" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/19452290076949.png" group-title="🎬Cine, Novelas y Series🎥", UNIVERSAL CRIME
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/uni_crime.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+https://unipluslivedash.akamaized.net/universalcrimet0/manifest.mpd
+
+#EXTINF:-1 tvg-id="[UNIPR].Universal.Premiere.uy" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/63649726076950.png" group-title="🎬Cine, Novelas y Series🎥", UNIVERSAL PREMIERE
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/uni_premier.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
+
+#EXTINF:-1 tvg-id="[UNIRE].Universal.Reality.uy" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/71646876076951.png" group-title="🎬Cine, Novelas y Series🎥", UNIVERSAL REALITY
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/uni_reality.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+https://unipluslivedash.akamaized.net/universalrealityt0/manifest.mpd
+
 #EXTINF:-1 tvg-id="0811" tvg-logo="https://i.postimg.cc/sg7qWnn7/V2.png" group-title="🎬Cine, Novelas y Series🎥", FX
 http://38.44.109.41:8003/play/a01g/index.m3u8
 
