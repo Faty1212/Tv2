@@ -11,8 +11,11 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-03.playl
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-04.playlist.m3u8
 #EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 05
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-05.playlist.m3u8
-#EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 06
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-06.playlist.m3u8
+#EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 00
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4683852/brazil-panama/easy/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-origin=https://sportsembed.su/embed/4683852/brazil-panama/easy/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://lb3.wfty.wtf/secure/Tn1vtNinzXPG8zraJObDGw/easy/brazil-panama/1/4683852/1780286427/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="⭐Eventos en Vivo⭐", EVENTOS TICKET 1
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="⭐Eventos en Vivo⭐", EVENTOS TICKET 2
