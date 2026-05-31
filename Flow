@@ -2,20 +2,18 @@
 
 
 #EXTINF:-1 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 01
-https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=streamsports99&plan=vip
+
 #EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 02
-https://cdnlivetv.tv/api/v1/channels/player/?name=abu+dhabi+sports+1&code=ae&user=streamsports99&plan=vip
+
 #EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 03
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-03.playlist.m3u8
+
 #EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 04
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-04.playlist.m3u8
+
 #EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 05
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-05.playlist.m3u8
+
 #EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 00
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4683852/brazil-panama/easy/1?player=clappr&autoplay=true
-#EXTVLCOPT:http-origin=https://sportsembed.su/embed/4683852/brazil-panama/easy/1?player=clappr&autoplay=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.wfty.wtf/secure/Tn1vtNinzXPG8zraJObDGw/easy/brazil-panama/1/4683852/1780286427/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="⭐Eventos en Vivo⭐", EVENTOS TICKET 1
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="⭐Eventos en Vivo⭐", EVENTOS TICKET 2
@@ -140,10 +138,6 @@ EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSpo
 http://148.222.230.197:8000/play/a0mm/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="| DSPORTS CO |" tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="⚽DEPORTES🏀", DSPORTS ARG
-http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/592037.ts
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="LD - DIRECTV SPORTS" tvg-logo="http://descargas.podzone.net/Logos3/005.png" group-title="⚽DEPORTES🏀",DSPORTS (uru)
-https://tv.nousiptv.com:8443/Henrymaria/Perato/1091366
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="⚽Deportes🏀", DSPORTS
 http://190.238.43.117:8000/play/a09d/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="⚽Deportes🏀" , DSPORTS
@@ -525,13 +519,7 @@ http://tv.diablotv.net:8080/live/arqsandoval100/66afc8bc4e73/161953.ts
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="[https://portal.app.flow.com.ar]https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://186.148.224.170:81/extractor.php?canal=Dazn%20F1&cat=9&p=2#.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/960px-BeIN_Sports_En_Espa%C3%B1ol.png" group-title="⚽Deportes🏀", Bein Sports
-#KODIPROP:inputstream.adaptive.stream_headers=Origin="[https://portal.app.flow.com.ar]https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
-http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F90
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/960px-BeIN_Sports_En_Espa%C3%B1ol.png" group-title="⚽Deportes🏀", Bein Sports
-#KODIPROP:inputstream.adaptive.stream_headers=Origin="[https://portal.app.flow.com.ar]https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
-http://186.148.224.170:81/extractor.php?canal=BEIN%20Sports&cat=9&p=2#.m3u8
 
 
 
