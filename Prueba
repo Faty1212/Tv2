@@ -2,6 +2,8 @@
 
 #EXTM3U
 #EXTINF:-1 group-title="Nacionales" tvg-name="America TV",America TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 https://broker.cdn.rcs.net.ar/mnp/americahls/playlist.m3u8
 
 #EXTINF:-1 group-title="Nacionales" tvg-name="Telefe",Telefe
