@@ -450,7 +450,7 @@ http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc7eds%2FFoxSports2_UY%2FSA_Live_dash_enc%2FFoxSports2_UY.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
 
-#EXTINF:-1 tvg-id="FOX Sports (ARG).ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content//228/228/aAian9WeLoU0vTudB9xL2g?tags=CH_LOGO" group-title="⚽Deportes🏀", FOX SPORTS
+#EXTINF:-1 tvg-id="FOX Sports (ARG).ar" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/5772683307979.png" group-title="⚽Deportes🏀", FOX SPORTS
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/foxsportsnew.json
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
