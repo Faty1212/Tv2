@@ -550,6 +550,11 @@ http://tv.diablotv.net:8080/live/arqsandoval100/66afc8bc4e73/161953.ts
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="[https://portal.app.flow.com.ar]https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://186.148.224.170:81/extractor.php?canal=Dazn%20F1&cat=9&p=2#.m3u8
 
+
+#EXTINF:-1 tvg-name="conect" tvg-logo="https://i.postimg.cc/sDTYkQ3g/tudn.png", group-title="⚽DEPORTES🏀", SPORTV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
 #EXTINF:-1 tvg-name="SporTV 4K" tvg-logo="http://coruja1.com/static/logos/canais/sportv.png" group-title="⚽Deportes🏀",SporTV
 http://coruja1.com:80/2jwY116R/EQ3a2h/72332.ts
 #EXTINF:-1 tvg-name="SporTV FHD" tvg-logo="http://coruja1.com/static/logos/canais/sportv.png" group-title="⚽Deportes🏀",SporTV
