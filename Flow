@@ -2,9 +2,11 @@
 
 
 #EXTINF:-1 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 01
-
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.64:8090/play/a0bu/index.m3u8
 #EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 02
-
+#EXTVLCOPT:network-caching=5000
+http://191.97.14.162:8000/play/a016/index.m3u8
 #EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 03
 
 #EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 04
