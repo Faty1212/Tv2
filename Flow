@@ -103,7 +103,9 @@ http://177.53.152.117:8000/play/a07q/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest?cb=20221115002318&path-prefix=es" group-title="⚽DEPORTES🏀", DSports +
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/314.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="⚽Deportes🏀", dsports
-http://181.78.192.238:8000/play/a2hq/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; Samsung; LGNetCast.TV; LG Smart TV)
+#EXTVLCOPT:network-caching=5000
+http://177.10.184.193:8000/play/a0fc/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="⚽Deportes🏀", DSPORTS
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:live-caching=5000
