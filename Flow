@@ -8,7 +8,7 @@ http://38.210.3.64:8090/play/a0bu/index.m3u8
 #EXTVLCOPT:network-caching=5000
 http://191.97.14.162:8000/play/a016/index.m3u8
 #EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 03
-
+https://joy.nx-pc.edge-apps.net/hls/m8hok-nellb-e6mo6-n858e.m3u8
 #EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 04
 
 #EXTINF:0 group-title="⭐Eventos en Vivo⭐" ,EVENTOS 05
