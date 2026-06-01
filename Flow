@@ -551,7 +551,7 @@ http://tv.diablotv.net:8080/live/arqsandoval100/66afc8bc4e73/161953.ts
 http://186.148.224.170:81/extractor.php?canal=Dazn%20F1&cat=9&p=2#.m3u8
 
 
-#EXTINF:-1 tvg-name="conect" tvg-logo="https://i.postimg.cc/sDTYkQ3g/tudn.png", group-title="⚽DEPORTES🏀", SPORTV 
+#EXTINF:-1 tvg-name="conect" tvg-logo="http://coruja1.com/static/logos/canais/sportv.png" group-title="⚽DEPORTES🏀", SPORTV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
