@@ -4,8 +4,9 @@
 https://apps.playme.com.ar/dash/CH_NEXT/playlist.mpd
 --key 64a8d63334ce49dd8ddd75fe7998f660:1df41beb79bf40e7ca55b1ba17a27381
 
-
-#EXTINF:-1 group-title="Interés General"  tvg-id="[TODONOT].Todo.Noticias.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/800/542/0/0/859370090736.png" group-title="Interés General", TN 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2ff4f665fe9491ea914f5f8f0df0031:a5be72ad37f75ccc739ed951a3360958
+#EXTINF:-1 group-title="Interés General"  tvg-id="[TODONOT].Todo.Noticias.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/800/542/0/0/859370090736.png" group-title="Interés General", TN
 https://bvclive2.boldmss.com/TN/TN_BVC.isml/Manifest
 
 
@@ -14,7 +15,7 @@ https://apps.playme.com.ar/dash/CH_AMERICA24/playlist.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=014e1da962f84a1ea55b62de41daa137:dff58107b8dec036312840f5f02b073b
+#KODIPROP:inputstream.adaptive.license_key=e2ff4f665fe9491ea914f5f8f0df0031:a5be72ad37f75ccc739ed951a3360958
 #EXTINF:-1 ch-number="11" tvg-id="[C5NARG].C5N.uy" tvg-logo="https://i.postimg.cc/05w67PCx/Fondo-Oscuro.png" group-title="Interés General", C5N
 https://apps.playme.com.ar/dash/CH_C5N/playlist.mpd
 
