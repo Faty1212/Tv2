@@ -189,6 +189,11 @@ http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%
 
 
 
+#EXTINF:1 tvg-name="Argentina 12" tvg-logo="https://i.ibb.co/mC9DHS0V/arg12.png" tvg-id="Argentina12.ar" group-title="🇦🇷Argentina🇦🇷",Argentina 12
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+
+
+https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
 
 #EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="🇦🇷Argentina🇦🇷",VOLVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
