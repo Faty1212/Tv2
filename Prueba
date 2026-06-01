@@ -4,10 +4,9 @@
 https://apps.playme.com.ar/dash/CH_NEXT/playlist.mpd
 --key 64a8d63334ce49dd8ddd75fe7998f660:1df41beb79bf40e7ca55b1ba17a27381
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b021db96fd1b471993389f1dd7c30c00:48a10bb1f5e099957565a06915460e57
+
 #EXTINF:-1 group-title="Interés General"  tvg-id="[TODONOT].Todo.Noticias.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/800/542/0/0/859370090736.png" group-title="Interés General", TN
-https://apps.playme.com.ar/dash/CH_TN/playlist.mpd
+https://bvclive2.boldmss.com/TN/TN_BVC.isml/Manifest
 
 
 https://apps.playme.com.ar/dash/CH_AMERICA24/playlist.mpd
