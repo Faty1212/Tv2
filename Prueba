@@ -13,7 +13,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/hubonmgf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.primevideo.com/"
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT:http-user-agent="AivAndroidPlayer/1.0 (AndroidDevice)"
 #EXTVLCOPT--http-reconnect=true
 
 
