@@ -10,11 +10,9 @@ https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1_1080p/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/c086055a-58d6-4916-a19c-484b8cb1995c:SCL2/master.m3u8
 
-
 #EXTINF:0 tvg-id="AMERICA TV INTERIOR.ar" tvg-name="AMERICA TV INTERIOR" CUID="15" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343193/yfswhrfentg6ldidmvkd.png" group-title="🇦🇷Argentina🇦🇷",tv publica
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
-
 
 #EXTINF:0 tvg-id="AMERICA TV INTERIOR.ar" tvg-name="AMERICA TV INTERIOR" CUID="15" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343193/yfswhrfentg6ldidmvkd.png" group-title="🇦🇷Argentina🇦🇷",a24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
@@ -41,6 +39,9 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" group-title="ARGENTINA: AIRE",Bravo TV
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports (1080p)
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 
 
