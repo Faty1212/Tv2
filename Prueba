@@ -20,6 +20,15 @@ https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" group-title="Nacionales", Net TV
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-CiudadMagazine.png" group-title="Espectaculo", Ciudad Magazine
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="NOTICIAS", CANAL E
+https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
 
 
 
