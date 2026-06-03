@@ -2,9 +2,9 @@
  url-tvg="https://www.open-epg.com/generate/JFU226JfzR.xml.gz,https://www.open-epg.com/generate/YbXmXks9dD.xml.gz,https://epghub.xyz/epg/EPG-ES-UY.xml.gz,https://epghub.xyz/epg/EPG-PLEX-RAKUTEN-SV.xml.gz,https://juno.epg.elektamedia.com/api/Programme/40mediaSpA/Juno/xml/allchannels/xmltv.xml,https://nocords.xyz/pluto/epg.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/br.xml.gz,http://192.99.212.247/epg.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.temporary-url.com/0FF3,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz"
 
 
-#EXTINF:0 tvg-id="AMERICA TV INTERIOR.ar" tvg-name="AMERICA TV INTERIOR" CUID="15" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343193/yfswhrfentg6ldidmvkd.png" group-title="🇦🇷Argentina🇦🇷",hbo
+#EXTINF:0 tvg-id="AMERICA TV INTERIOR.ar" tvg-name="AMERICA TV INTERIOR" CUID="15" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343193/yfswhrfentg6ldidmvkd.png" group-title="🇦🇷Argentina🇦🇷",tyc sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih.m3u8
+https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1_1080p/index.m3u8
 
 
 
