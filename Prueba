@@ -10,7 +10,7 @@ http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="Deportes", ESPN
-http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fcdn.cvattv.com.ar%2Flive%2Fc3eds%2FESPN2HD%2FSA_Live_dash_enc_C%2FESPN2HD.mpd&check=h
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fcdn.cvattv.com.ar%2Flive%2Fc3eds%2FESPN2HD%2FSA_Live_dash_enc_C%2FESPN2HD.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
 
 
 
