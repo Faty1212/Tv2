@@ -188,24 +188,13 @@ https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
 
-#EXTINF:-1 tvg-id="America TV (ARG).ar" tvg-logo="https://static.flow.com.ar/images/66/CH_LOGO/60/40/0/0/60528493072631.png" group-title="🇦🇷Argentina🇦🇷", AMERICA
-#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/americatv.json
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
-http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc3eds%2FAmericaTV%2FSA_Live_dash_enc%2FAmericaTV.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
-
-#EXTINF:-1 tvg-id="EL NUEVE.ar" tvg-logo="https://static.flow.com.ar/images/76/CH_LOGO/100/100/0/0/93367508072808.png" group-title="🇦🇷Argentina🇦🇷", EL NUEVE
-#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/canal9.json
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
-http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc3eds%2FCanal9%2FSA_Live_dash_enc%2FCanal9.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
 
 ......EL TRECE......
-#EXTINF:-1  tvg-id="EL TRECE.ar" tvg-title="El Trece" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/eltrece.png?raw=true" tvg-chno="100" group-title="🇦🇷Argentina🇦🇷",El Trece
+#EXTINF:-1  tvg-id="EL TRECE.ar" tvg-title="El Trece" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345193/qp8dffd1cyk93u2guoqx.png" tvg-chno="100" group-title="🇦🇷Argentina🇦🇷",El Trece
 #EXTVLCOPT:http-referrer=https://vodgc.net
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="0915" group-title="🇦🇷ARGENTINA🇦🇷" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece
+#EXTINF:-1 tvg-id="0915" group-title="🇦🇷ARGENTINA🇦🇷" tvg-name="El Trece" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345193/qp8dffd1cyk93u2guoqx.png",El Trece
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.eltrecetv.com.ar/
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
@@ -214,10 +203,10 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="🇦🇷Argentina🇦🇷", El Trece
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345193/qp8dffd1cyk93u2guoqx.png" group-title="🇦🇷Argentina🇦🇷", El Trece
 http://181.13.252.102:8000/play/a0bg/index.m3u8
 
-#EXTINF:-1 tvg-id="El Trece C" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="🇦🇷Argentina🇦🇷",El Trece
+#EXTINF:-1 tvg-id="El Trece C" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345193/qp8dffd1cyk93u2guoqx.png" group-title="🇦🇷Argentina🇦🇷",El Trece
 http://181.13.252.102:8000/play/a0bg/index.m3u8
 
 ......TN......
