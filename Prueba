@@ -81,7 +81,8 @@ http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?devi
 #EXTINF:-1 group-title="Infantiles",Youtube Kids TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 
-
+#EXTINF:-1 channel-id="" tvg-id="6320d80a66666000086712d7" tvg-chno="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/6320d80a66666000086712d7/colorLogoPNG.png" group-title="Deportes", Claro Sports
+https://jmp2.uk/plu-6320d80a66666000086712d7.m3u8
 
 
 
