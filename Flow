@@ -212,12 +212,32 @@ http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc3eds%2FArtearHD%2FSA_Live_dash_enc%2FArtearHD.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
 
+......TN......
+#EXTINF:-1 tvg-id="0905" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA: NOTICIAS", TN
+#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+
+#EXTINF:0 tvg-id="TN.ar" tvg-name="TN" CUID="3" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345069/wy5gze1xto6u7pzndpo4.png" group-title="🇦🇷Argentina🇦🇷",TN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f.m3u8
+
 #EXTINF:-1 tvg-id="TN (Todo Noticias).ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content//228/228/tsozQzIAVMhh2R8LYB3Zdg?tags=CH_LOGO" group-title="🇦🇷Argentina🇦🇷", TN
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/tnnoticias.json
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc7eds%2FTodoNoticias%2FSA_Live_dash_enc%2FTodoNoticias.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
 
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://cdn.storyasset.link/LvEHmehvPQc4kbsFtQVQguewG3c2/logotn1-ms-vcnfcadech.png" group-title="🇦🇷Argentina🇦🇷",TN
+https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="🇦🇷Argentina🇦🇷", TN
+http://181.13.252.102:8000/play/a058/index.m3u8
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tn.png" group-title="🇦🇷ARGENTINA🇦🇷",TN
+https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
+
+......A24......
 #EXTINF:0 tvg-id="A24.ar" tvg-logo="https://i.postimg.cc/1XpC91Rj/Logo-1.png" group-title="🇦🇷Argentina🇦🇷", A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
@@ -243,13 +263,14 @@ http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157613
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_C/America24.mpd
 
-
+......C5N......
 #EXTINF:-1 tvg-id="[C5NARG].C5N.uy" tvg-logo="https://static.flow.com.ar/images/65/CH_LOGO/60/40/0/0/2980387507709.png" group-title="🇦🇷Argentina🇦🇷", C5N
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/c5n.json
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc7eds%2FC5N%2FSA_Live_dash_enc%2FC5N.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
 
+......CANAL26......
 #EXTINF:-1 tvg-id="Canal 26 (ARG)..ar" tvg-logo="https://static.flow.com.ar/images/1025/CH_LOGO/60/40/0/0/12996659073.png" group-title="🇦🇷Argentina🇦🇷", CANAL 26
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/canal26.json
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -936,19 +957,8 @@ http://190.7.19.197:232/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="Telefe A" tvg-logo="https://i.postimg.cc/SxCcws3p/telefe.png" group-title="🇦🇷Argentina🇦🇷",Telefe
 http://181.13.252.102:8000/play/a06c/index.m3u8
 
-#EXTINF:0 tvg-id="TN.ar" tvg-name="TN" CUID="3" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345069/wy5gze1xto6u7pzndpo4.png" group-title="🇦🇷Argentina🇦🇷",TN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f.m3u8
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://cdn.storyasset.link/LvEHmehvPQc4kbsFtQVQguewG3c2/logotn1-ms-vcnfcadech.png" group-title="🇦🇷Argentina🇦🇷",TN
-https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://cdn.storyasset.link/LvEHmehvPQc4kbsFtQVQguewG3c2/logotn1-ms-vcnfcadech.png" group-title="🇦🇷Argentina🇦🇷",TN
-https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
-#EXTINF:-1 tvg-id="TN" tvg-logo="https://i.postimg.cc/XvnBmg9w/tn.png" group-title="🇦🇷ARGENTINA🇦🇷",TN
-https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="🇦🇷Argentina🇦🇷", TN
-http://181.13.252.102:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="🇦🇷ARGENTINA🇦🇷" tvg-id="TN.ar" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tn.png",TN
-https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
+
+
 #EXTINF:-1 tvg-id="0903" tvg-name="TV Pública" group-title="🇦🇷Argentina🇦🇷" tvg-logo="https://camo.githubusercontent.com/5b6aec0ad97f7e2a6a9bcd157a1c9e9a872ce0297b2e9a9168a9341d9fca75ba/68747470733a2f2f692e696d6775722e636f6d2f346859597069752e706e67", TV Publica
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
