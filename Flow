@@ -200,14 +200,28 @@ http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc3eds%2FCanal9%2FSA_Live_dash_enc%2FCanal9.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
 
-#EXTINF:-1 tvg-id="EL TRECE.ar" tvg-logo="https://static.flow.com.ar/images/75/CH_LOGO/60/40/0/0/59037504071341.png" group-title="🇦🇷Argentina🇦🇷", EL TRECE
-#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/eltrece.json
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
-http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc3eds%2FArtearHD%2FSA_Live_dash_enc%2FArtearHD.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
+......EL TRECE......
+#EXTINF:-1  tvg-id="EL TRECE.ar" tvg-title="El Trece" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/eltrece.png?raw=true" tvg-chno="100" group-title="🇦🇷Argentina🇦🇷",El Trece
+#EXTVLCOPT:http-referrer=https://vodgc.net
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="0915" group-title="🇦🇷ARGENTINA🇦🇷" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.eltrecetv.com.ar/
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:0 tvg-id="EL TRECE SATELITAL.ar" tvg-name="EL TRECE SATELITAL" CUID="14" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345193/qp8dffd1cyk93u2guoqx.png" group-title="🇦🇷Argentina🇦🇷",EL TRECE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="🇦🇷Argentina🇦🇷", El Trece
+http://181.13.252.102:8000/play/a0bg/index.m3u8
+
+#EXTINF:-1 tvg-id="El Trece C" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="🇦🇷Argentina🇦🇷",El Trece
+http://181.13.252.102:8000/play/a0bg/index.m3u8
 
 ......TN......
-#EXTINF:-1 tvg-id="0905" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA: NOTICIAS", TN
+#EXTINF:-1 tvg-id="0905" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" group-title="🇦🇷ARGENTINA🇦🇷", TN
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
@@ -986,21 +1000,8 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
 
 
-#EXTINF:-1  tvg-id="EL TRECE.ar" tvg-title="El Trece" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/eltrece.png?raw=true" tvg-chno="100" group-title="🇦🇷Argentina🇦🇷",El Trece
-#EXTVLCOPT:http-referrer=https://vodgc.net
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:0 tvg-id="EL TRECE SATELITAL.ar" tvg-name="EL TRECE SATELITAL" CUID="14" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345193/qp8dffd1cyk93u2guoqx.png" group-title="🇦🇷Argentina🇦🇷",EL TRECE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="🇦🇷Argentina🇦🇷", El Trece
-http://181.13.252.102:8000/play/a0bg/index.m3u8
-#EXTINF:-1 tvg-id="0915" group-title="🇦🇷ARGENTINA🇦🇷" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.eltrecetv.com.ar/
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="El Trece C" tvg-logo="https://i.postimg.cc/D0SX5yLH/canal-13.png" group-title="🇦🇷Argentina🇦🇷",El Trece
-http://181.13.252.102:8000/play/a0bg/index.m3u8
-#EXTINF:-1 group-title="🇦🇷Argentina🇦🇷",el trece
+
+
 #EXTINF:-1 tvg-id="330182" tvg-name="América 24 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yfXBuQmon9WVy3ETX9fuq0w4U8Hvq391YA&s" group-title="🇦🇷Argentina🇦🇷", A24 
 http://181.13.252.102:8000/play/a01o/index.m3u8?PlaylistM3UCL
 
