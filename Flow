@@ -412,17 +412,34 @@ http://190.7.19.197:232/play/a04w/index.m3u8
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8
 
+......ESPN......
 #EXTINF:0 tvg-id="ESPN.ar" tvg-name="ESPN" CUID="25" tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="⚽Deportes🏀",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="⚽Deportes🏀" ,ESPN
+http://200.112.174.230/mtcast_espnhd/mpegts
+
+......ESPN 2......
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png" group-title="⚽Deportes🏀" ,ESPN 2
+http://200.112.174.230/mtcast_espn2hd/mpegts
+
+......ESPN 3......
 #EXTINF:-1 ch-number="101" tvg-id="ESPN 3.ar" tvg-logo="https://i.postimg.cc/0MCLmw7Z/ESPN-3-Argentina.png" group-title="⚽Deportes🏀", ESPN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0MCLmw7Z/ESPN-3-Argentina.png" group-title="⚽Deportes🏀" ,ESPN 3
+http://200.112.174.230/mtcast_espn3hd/mpegts
+
+......ESPN 4......
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1708005521/wazxwdf0tycbg0qc6jwt.png" group-title="⚽Deportes🏀",ESPN 4 
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
+
+
+
+
 
 
 
@@ -437,6 +454,7 @@ https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
 #EXTVLCOPT:network-caching=6500
 #EXTVLCOPT:http-reconnect=true
 http://38.210.3.64:8090/play/a0jd/index.m3u8
+
 
 #EXTINF:0 tvg-logo="https://static.flow.com.ar/images/9019/CH_LOGO/100/100/0/0/15905984073899.png",ESPN 6
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
@@ -453,8 +471,6 @@ http://38.210.3.64:8090/play/a0e6/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png" group-title="⚽Deportes🏀", ESPN 2
-http://45.5.151.62:8000/play/a00p/index.m3u8
 
 
 #EXTINF:-1 tvg-id="318341" tvg-name="ESPN • América Latina" tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="⚽Deportes🏀", ESPN
@@ -649,14 +665,7 @@ http://181.64.27.65:8000/play/a0dq/index.m3u8
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="⚽Deportes🏀", DSPORTS
 http://217.26.190.76:8888/play/a0co/index.m3u8
 
-#EXTINF:-1 group-title="⚽Deportes🏀" ,ESPN
-http://200.112.174.230/mtcast_espnhd/mpegts
 
-#EXTINF:-1 group-title="⚽Deportes🏀" ,ESPN 2
-http://200.112.174.230/mtcast_espn2hd/mpegts
-
-#EXTINF:-1 group-title="⚽Deportes🏀" ,ESPN 3
-http://200.112.174.230/mtcast_espn3hd/mpegts
 
 #EXTINF:-1 group-title="⚽Deportes🏀" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png", ESPN Premium
 http://200.112.174.230/mtcast_espnpremiumhd/mpegts
