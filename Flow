@@ -289,12 +289,31 @@ http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc7eds%2FLa_Nacion%2FSA_Live_dash_enc%2FLa_Nacion.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
 
+......TV PUBLICA......
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="🇦🇷ARGENTINA🇦🇷",TV Publica
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343316/lbquokaz3dmb2gtsynxh.png" group-title="🇦🇷Argentina🇦🇷",TV Publica
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
+
 #EXTINF:-1 tvg-id="La TV Pública (ARG).ar" tvg-logo="https://static.flow.com.ar/images/77/CH_LOGO/60/40/0/0/37906384071569.png" group-title="🇦🇷Argentina🇦🇷", TV PUBLICA
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/tvpublica.json
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc6eds%2FCanal7%2FSA_Live_dash_enc%2FCanal7.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
 
+#EXTINF:-1 tvg-id="0903" tvg-name="TV Pública" group-title="🇦🇷Argentina🇦🇷" tvg-logo="https://camo.githubusercontent.com/5b6aec0ad97f7e2a6a9bcd157a1c9e9a872ce0297b2e9a9168a9341d9fca75ba/68747470733a2f2f692e696d6775722e636f6d2f346859597069752e706e67", TV Publica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Television Publica" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="🇦🇷ARGENTINA🇦🇷",TV PUBLICA
+https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+
+#EXTINF:-1  tvg-id="TV PUBLICA.ar" tvg-title="TV Publica" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tvp.png?raw=true" tvg-chno="130" group-title="🇦🇷Argentina🇦🇷",TV Publica
+http://190.7.19.197:232/play/a03c/index.m3u8
+
+......TELEFE......
 #EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-title="🇦🇷Interior🇦🇷", TELEFE CORDOBA
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/telefecordoba.json
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -351,8 +370,6 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1 ch-number="11" tvg-id="America TV (ARG).ar" tvg-logo="https://i.postimg.cc/WpH8xpLd/Normal_2.png" group-title="🇦🇷Argentina🇦🇷", America 
 http://45.5.151.62:8000/play/a00f/index.m3u8
 
-#EXTINF:-1 ch-number="11" tvg-id="La TV Pública (ARG).ar" tvg-logo="https://i.postimg.cc/5t1Qr2mk/LEP.png" group-title="🇦🇷Argentina🇦🇷", TV Publica
-https://g5.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8	
 
 
 #EXTINF:-1 ch-number="11" tvg-id="Canal 10 Mar del Plata.ar" tvg-logo="https://i.postimg.cc/QM7Fq0Jv/Logo-1.png" group-title="🇦🇷Interior🇦🇷", Canal 10 MDQ
@@ -959,20 +976,7 @@ http://181.13.252.102:8000/play/a06c/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="0903" tvg-name="TV Pública" group-title="🇦🇷Argentina🇦🇷" tvg-logo="https://camo.githubusercontent.com/5b6aec0ad97f7e2a6a9bcd157a1c9e9a872ce0297b2e9a9168a9341d9fca75ba/68747470733a2f2f692e696d6775722e636f6d2f346859597069752e706e67", TV Publica
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Television Publica" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="🇦🇷ARGENTINA🇦🇷",TV PUBLICA
-https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343316/lbquokaz3dmb2gtsynxh.png" group-title="🇦🇷Argentina🇦🇷",TV Publica
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
-#EXTINF:-1 tvg-id="321174" tvg-name="TV Pública • Argentina" tvg-logo="https://i.postimg.cc/cLtNCgRK/tvp.png" group-title="🇦🇷Argentina🇦🇷", TV Publica
-https://g5.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/ar-tvp.png" group-title="🇦🇷Argentina🇦🇷", TV Publica 
-https://g1.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
-#EXTINF:-1  tvg-id="TV PUBLICA.ar" tvg-title="TV Publica" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tvp.png?raw=true" tvg-chno="130" group-title="🇦🇷Argentina🇦🇷",TV Publica
-http://190.7.19.197:232/play/a03c/index.m3u8
+
 #EXTINF:-1  tvg-id="EL TRECE.ar" tvg-title="El Trece" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/eltrece.png?raw=true" tvg-chno="100" group-title="🇦🇷Argentina🇦🇷",El Trece
 #EXTVLCOPT:http-referrer=https://vodgc.net
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
