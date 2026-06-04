@@ -221,6 +221,10 @@ http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%
 #EXTINF:0 tvg-id="A24.ar" tvg-logo="https://i.postimg.cc/1XpC91Rj/Logo-1.png" group-title="🇦🇷Argentina🇦🇷", A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tT42fk7G/a24logo.png" group-title="🇦🇷Argentina🇦🇷",A24 
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://joy.nx-pc.edge-apps.net/hls/eh9gc-bail8-o30pk-k1hih.m3u8
+
 #EXTINF:-1 tvg-logo="https://lokos.pages.dev/webp/logos/a24.webp" group-title="🇦🇷Argentina🇦🇷", A24
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/a24.json
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -229,6 +233,16 @@ http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%
 
 #EXTINF:0 tvg-id="A24.ar" tvg-logo="https://i.postimg.cc/1XpC91Rj/Logo-1.png" group-title="🇦🇷Argentina🇦🇷", A24
 http://45.5.151.62:8000/play/a002/index.m3u8
+
+#EXTINF:-1  tvg-id="A24.ar" tvg-title="A24" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/a24.png?raw=true" tvg-chno="160" group-title="🇦🇷ARGENTINA🇦🇷",A24
+http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157613
+
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/343.png" group-title="🇦🇷ARGENTINA🇦🇷", A24
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "RfdarPBlk8m2k/5CfGfluA","kid": "OxsCfdARryD9mVbBbcCE+w"}],"type": "temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
+https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_C/America24.mpd
+
 
 #EXTINF:-1 tvg-id="[C5NARG].C5N.uy" tvg-logo="https://static.flow.com.ar/images/65/CH_LOGO/60/40/0/0/2980387507709.png" group-title="🇦🇷Argentina🇦🇷", C5N
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/c5n.json
@@ -828,16 +842,6 @@ https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd
 #EXTINF:-1  tvg-id="CRONICA TV.ar" tvg-title="Cronica HD" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/cronica.png?raw=true" tvg-chno="180" group-title="🇦🇷ARGENTINA🇦🇷",Cronica TV
 http://181.13.252.102:8000/play/a01q/index.m3u8
 
-#EXTINF:-1  tvg-id="A24.ar" tvg-title="A24" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/a24.png?raw=true" tvg-chno="160" group-title="🇦🇷ARGENTINA🇦🇷",A24
-http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157613
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/343.png" group-title="🇦🇷ARGENTINA🇦🇷", A24
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "RfdarPBlk8m2k/5CfGfluA","kid": "OxsCfdARryD9mVbBbcCE+w"}],"type": "temporary"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_C/America24.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tT42fk7G/a24logo.png" group-title="🇦🇷Argentina🇦🇷",A24 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/eh9gc-bail8-o30pk-k1hih.m3u8
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/709.png" group-title="🇦🇷ARGENTINA🇦🇷", C5N
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DkFB1qsho2y8Tad3qzCW1A","kid":"BQ31xueMd054w+me74obKQ"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
