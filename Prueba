@@ -66,6 +66,11 @@ https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 #EXTINF:-1 group-title="📺 General",Love Nature 4K (2160p) [Geo-bl
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 
+#EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" group-title="General/Abierta" tvg-logo="https://files.catbox.moe/ql9rbg.png",Canal de la Ciudad
+https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Crónica TV
+https://g1.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/playlist.m3u8?sense=true
 
 
 
