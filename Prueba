@@ -11,10 +11,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="🇦🇷ARGENTINA🇦🇷",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
-#EXTINF:-1 tvg-id="0905" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA: NOTICIAS", TN
-#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="🇦🇷ARGENTINA🇦🇷",TV Publica
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8
