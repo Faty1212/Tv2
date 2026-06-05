@@ -389,9 +389,11 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-16_720.m
 http://181.13.252.102:8000/play/a04h/index.m3u8?PlaylistM3UCL
 
 ......LN+......
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344457/fcjc3stfsqmhfiwhg3gl.png" group-title="🇦🇷Argentina🇦🇷",LN+ 
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bo.flow.com.ar/images/content//228/228/BG9e9Motv1bSmOQ5t3kDgw?tags=CH_LOGO" group-title="🇦🇷Argentina🇦🇷", LN+
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/ln+.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc7eds%2FLa_Nacion%2FSA_Live_dash_enc%2FLa_Nacion.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
 
 #EXTINF:-1 ch-number="11" tvg-id="La Nacion.uy" tvg-logo="https://i.postimg.cc/dtnjTfgB/LN.png" group-title="🇦🇷Argentina🇦🇷", LN+
 http://latinostvhd.club:25461/8642755377/437ca16994/128760
