@@ -467,6 +467,9 @@ https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd.m3u8
 
+#EXTINF:-1 tvg-id="FOX Sports (ARG).ar" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/5772683307979.png" group-title="⚽Deportes🏀", FOX Sports
+http://latinostvhd.club:25461/8642755377/437ca16994/128757
+
 #EXTINF:-1 tvg-id="FOX Sports 2 (ARG).ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content//228/228/8lNQixZEsN3Eadq_eLSVqg?tags=CH_LOGO" group-title="⚽Deportes🏀", FOX SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/km6lk-2io4c-7f9jm-peep.m3u8
@@ -561,8 +564,6 @@ http://38.210.3.64:8090/play/a0e6/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="FOX Sports (ARG).ar" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/5772683307979.png" group-title="⚽Deportes🏀", FOX Sports
-http://latinostvhd.club:25461/8642755377/437ca16994/128757
 
 #EXTINF:-1 ch-number="11" tvg-id="ESPN PREMIUM.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/50191211073985.png" group-title="⚽Deportes🏀", ESPN Premium 
 http://latinostvhd.club:25461/8642755377/437ca16994/78448
@@ -570,16 +571,21 @@ http://latinostvhd.club:25461/8642755377/437ca16994/78448
 #EXTINF:-1 ch-number="11" tvg-id="TNT SPORTS PREMIUM.ar" tvg-logo="https://i.postimg.cc/WbsZGtb2/Fondo_Oscuro.png" group-title="⚽Deportes🏀", TNT Premium 
 http://latinostvhd.club:25461/8642755377/437ca16994/31185
 
+......SPORTV......
 #EXTINF:-1 tvg-name="conect" tvg-logo="http://coruja1.com/static/logos/canais/sportv.png" group-title="⚽DEPORTES🏀", SPORTV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+
 #EXTINF:-1 tvg-name="SporTV FHD [H265]" tvg-logo="http://coruja1.com/static/logos/canais/sportv.png" group-title="⚽Deportes🏀",SporTV
 http://coruja1.com:80/2jwY116R/EQ3a2h/72330.ts
+
 #EXTINF:-1 tvg-name="SporTV 2 4K" tvg-logo="http://coruja1.com/static/logos/canais/sportv2.png" group-title="⚽Deportes🏀",SporTV 2
 http://coruja1.com:80/2jwY116R/EQ3a2h/103472.ts
+
 #EXTINF:-1 tvg-name="SporTV 2 FHD" tvg-logo="http://coruja1.com/static/logos/canais/sportv2.png" group-title="⚽Deportes🏀",SporTV 2
 http://coruja1.com:80/2jwY116R/EQ3a2h/72321.ts
+
 #EXTINF:-1 tvg-name="SporTV 2 FHD [H265]" tvg-logo="http://coruja1.com/static/logos/canais/sportv2.png" group-title="⚽Deportes🏀",SporTV 2
 http://coruja1.com:80/2jwY116R/EQ3a2h/131147.ts
 
