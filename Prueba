@@ -3,8 +3,12 @@
 
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="🇦🇷Argentina🇦🇷" , TELEFE
+#EXTINF:-1 group-title="Arabia" tvg-name="TELEFE", TELEFE
 https://www.vavoo.to/play/4160076288/index.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+#EXTINF:-1 group-title="Arabia" tvg-name="TELEMAX", TELEMAX
+https://www.vavoo.to/play/3727005618/index.m3u8
 
 
 
