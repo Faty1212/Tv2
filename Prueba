@@ -3,8 +3,9 @@
 
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
-#EXTINF:-1 group-title="Arabia" tvg-name="TELEFE", TELEFE
+#EXTINF:-1 group-title="Arabia" tvg-name="TELEFE", TELEFE 2
 https://www.vavoo.to/play/4160076288/index.m3u8
+
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.tv
 #EXTINF:-1 group-title="Arabia" tvg-name="TELEMAX", TELEMAX
