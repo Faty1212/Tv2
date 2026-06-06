@@ -781,6 +781,9 @@ http://186.148.224.170:81/renovar.php?uri=https%3A%2F%2Fchromecast.cvattv.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://186.148.224.170:81/renovar.php?uri=https%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc6eds%2FCM%2FSA_Live_dash_enc%2FCM.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F144.0.0.0+Safari%2F537.36&cdn=https%3A%2F%2Fcdn-token.app.flow.com.ar%2Fcdntoken%2Fv2%2Fgenerator
 
+#EXTINF:-1 tvg-id="0534" tvg-name="Canal de la Música" group-title="🎙️Musica🎤" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png",Canal de la Musica 
+https://g1.mc-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/624/CH_LOGO/160/160/0/0/1882958007779.png" group-title="🎙️Musica🎤", QUIERO TV
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/quierotv.json
 #KODIPROP:inputstream.adaptive.license_type=clearkey
