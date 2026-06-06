@@ -228,6 +228,9 @@ http://latinostvhd.club:25461/8642755377/437ca16994/31185
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://joy.nx-pc.edge-apps.net/hls/50l1p-9en4e-g05p7-n6588.m3u8
 
+EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="🇦🇷Argentina🇦🇷", Cronica TV
+https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+
 #EXTINF:-1 tvg-id="CRONICA TV.ar" tvg-logo="https://i.postimg.cc/Ny2kSPBN/Cronica.png" group-title="🇦🇷Argentina🇦🇷", Cronica TV
 https://g1.proy-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
@@ -297,7 +300,7 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/eh9gc-bail8-o30pk-k1hih.m3u8
 
-EXTINF:-1 tvg-id="0222" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/3840px-A24_%282025%29.svg.png" group-title="🇦🇷Argentina🇦🇷", A24
+#EXTINF:-1 tvg-id="0222" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/3840px-A24_%282025%29.svg.png" group-title="🇦🇷Argentina🇦🇷", A24
 https://g1.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8?sense=true
 
 #EXTINF:0 tvg-id="A24.ar" tvg-logo="https://i.postimg.cc/1XpC91Rj/Logo-1.png" group-title="🇦🇷Argentina🇦🇷", A24
