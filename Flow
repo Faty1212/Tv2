@@ -231,6 +231,13 @@ https://joy.nx-pc.edge-apps.net/hls/50l1p-9en4e-g05p7-n6588.m3u8
 #EXTINF:-1 tvg-id="CRONICA TV.ar" tvg-logo="https://i.postimg.cc/Ny2kSPBN/Cronica.png" group-title="🇦🇷Argentina🇦🇷", Cronica TV
 https://g1.proy-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
+#EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="🇦🇷Argentina🇦🇷" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Crónica TV
+https://g1.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/playlist.m3u8?sense=true
+
+......CANAL DE LA CIUDAD......
+#EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" group-title="🇦🇷Argentina🇦🇷" tvg-logo="https://files.catbox.moe/ql9rbg.png",Canal de la Ciudad
+https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
+
 ......AR 12......
 #EXTINF:1 tvg-name="Argentina 12" tvg-logo="https://i.ibb.co/mC9DHS0V/arg12.png" tvg-id="Argentina12.ar" group-title="🇦🇷Argentina🇦🇷",Argentina 12
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
