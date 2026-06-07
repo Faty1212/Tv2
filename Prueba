@@ -1,6 +1,8 @@
 #extm3u
 
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
 
 #EXTINF:-1 xui-id="651389" tvg-id="" tvg-name="MAX CLICK SPORTS  | 01" tvg-logo="https://cdn.ftvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="MUNDIAL 2026 ⏯️ | PREMIUM",MAX CLICK SPORTS  | 01
 http://maxclicktv.net:8080/play/y8jYDQKeryoITuJBi_n_VS9j6J5J9a6S5hL8OHNR45x1Hz-MFZmEHqGBMGQcdzoZ
