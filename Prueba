@@ -7,7 +7,7 @@
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
 
-#EXTINF:-1 tvg-id="Joy.720p" tvg-logo="https://acortar.link/logo-nextel-joy" group-title="Variedades", espn premium prueba*
+#EXTINF:-1 tvg-id="Joy.720p" tvg-logo="https://acortar.link/logo-nextel-joy" group-title="Variedades", espn premium 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=12000
 #EXTVLCOPT:http-reconnect=true
