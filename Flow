@@ -389,28 +389,22 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://camo.githubusercontent.com/15d862457b0cbf7025a7fa820b5d787210ffbc04385f13dd93db74eae5b2cda9/68747470733a2f2f692e696d6775722e636f6d2f78446a4f55757a2e706e67" group-title="🇦🇷ARGENTINA🇦🇷", Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/15d862457b0cbf7025a7fa820b5d787210ffbc04385f13dd93db74eae5b2cda9/68747470733a2f2f692e696d6775722e636f6d2f78446a4f55757a2e706e67" group-title="🇦🇷ARGENTINA🇦🇷", Canal 26
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "rWDF4dN4qXJxv4aI8JTQkg","kid": "4yqqS2dDCztRvh785adKxQ"}],"type": "temporary"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
-https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_C/26_TV_HD.mpd
-
 ......TV PUBLICA......
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="🇦🇷ARGENTINA🇦🇷",TV Publica
+#EXTINF:-1 tvg-logo="hhttp://res.cloudinary.com/doj39auqi/image/upload/v1684343316/lbquokaz3dmb2gtsynxh.png" group-title="🇦🇷ARGENTINA🇦🇷",TV Publica
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343316/lbquokaz3dmb2gtsynxh.png" group-title="🇦🇷Argentina🇦🇷",TV Publica
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.2 (Linux; Android 9; 23100RN82L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
 
-#EXTINF:-1 tvg-id="0903" tvg-name="TV Pública" tvg-logo="https://camo.githubusercontent.com/5b6aec0ad97f7e2a6a9bcd157a1c9e9a872ce0297b2e9a9168a9341d9fca75ba/68747470733a2f2f692e696d6775722e636f6d2f346859597069752e706e67" group-title="🇦🇷Argentina🇦🇷", TV Publica
+#EXTINF:-1 tvg-id="0903" tvg-name="TV Pública" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343316/lbquokaz3dmb2gtsynxh.png" group-title="🇦🇷Argentina🇦🇷", TV Publica
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Television Publica" tvg-logo="https://i.postimg.cc/qMCK3qkC/tv-publica.png" group-title="🇦🇷ARGENTINA🇦🇷",TV PUBLICA
+#EXTINF:-1 tvg-id="Television Publica" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343316/lbquokaz3dmb2gtsynxh.png" group-title="🇦🇷ARGENTINA🇦🇷",TV PUBLICA
 https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
-#EXTINF:-1  tvg-id="TV PUBLICA.ar" tvg-title="TV Publica" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tvp.png?raw=true" tvg-chno="130" group-title="🇦🇷Argentina🇦🇷",TV Publica
+#EXTINF:-1  tvg-id="TV PUBLICA.ar" tvg-title="TV Publica" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343316/lbquokaz3dmb2gtsynxh.png" tvg-chno="130" group-title="🇦🇷Argentina🇦🇷",TV Publica
 http://190.7.19.197:232/play/a03c/index.m3u8
 
 ......TELEFE......
