@@ -125,6 +125,9 @@ http://190.238.43.117:8000/play/a09d/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="⚽Deportes🏀" , DSPORTS
 http://38.187.7.252:8000/play/a03d/index.m3u8
 
+#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="⚽Deportes🏀", DSPORTS
+http://217.26.190.76:8888/play/a0co/index.m3u8
+
 ......DSPORTS 2......
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="⚽Deportes🏀", DSPORTS 2
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/t/dsports2.json|User-Agent=okhttp/4.12.0
@@ -147,6 +150,9 @@ http://177.53.152.117:8000/play/a07q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest?cb=20221115002318&path-prefix=es" group-title="⚽DEPORTES🏀", DSports +
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/314.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="⚽Deportes🏀", DSPORTS +
+http://181.64.27.65:8000/play/a0dq/index.m3u8
 
 ......TYC SPORTS INTERNACIONAL......
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="⚽Deportes🏀", TyC SPORTS Internacional
@@ -648,22 +654,21 @@ http://coruja1.com:80/2jwY116R/EQ3a2h/72321.ts
 #EXTINF:-1 tvg-name="SporTV 2 FHD [H265]" tvg-logo="http://coruja1.com/static/logos/canais/sportv2.png" group-title="⚽Deportes🏀",SporTV 2
 http://coruja1.com:80/2jwY116R/EQ3a2h/131147.ts
 
+......Deportv......
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1749237097/ktodxvqmqpbo1lhl452v.png" tvg-id="DeporTV.ar" group-title="⚽Deportes🏀",Deportv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://joy.nx-pc.edge-apps.net/hls/e1okh-afcc2-ejm6-h8gdj.m3u8
 
 
-
-
-
+......Infantiles......
 #EXTINF:-1 tvg-id="[DISNLS].Disney.Channel.uy" tvg-logo="https://i.postimg.cc/MpXdYn3G/Disney_Channel.png" group-title="🧩Infantil🧩", Disney Channel
 http://45.5.151.62:8000/play/a00u/index.m3u8
-
 
 #EXTINF:-1 tvg-id="Cartoon Network.uy" tvg-logo="https://i.postimg.cc/vmjDf8ZR/Texto_Blanco.png" group-title="🧩Infantil🧩",Cartoon Network
 http://45.5.151.62:8000/play/a00u/index.m3u8
 
-
 #EXTINF:-1 ch-number="204" tvg-id="Discovery Kids HD.uy" tvg-logo="https://i.postimg.cc/WbSw-Jyxm/DKids.png" group-title="🧩Infantil🧩", Discovery Kids
 http://45.5.151.62:8000/play/a00w/index.m3u8
-
 
 #EXTINF:-1 tvg-id="Plim Plim.ar" tvg-logo="https://i.postimg.cc/sf96fdZR/Logo.png" group-title="🧩Infantil🧩", Plim Plim TV
 http://45.5.151.62:8000/play/a00z/index.m3u8
@@ -671,7 +676,7 @@ http://45.5.151.62:8000/play/a00z/index.m3u8
 
 
 
-
+......Hbo......
 #EXTINF:-1 tvg-id="[HBOL].HBO.uy" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/8527518907875.png" group-title="🎬Cine, Novelas y Series🎥", HBO
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/hbonew.json
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -720,6 +725,7 @@ http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc6eds%2FHBO_Signature%2FSA_Live_dash_enc%2FHBO_Signature.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&cdn=https%3A%2F%2Fcdn-token.app.flow.com.ar%2Fcdntoken%2Fv2%2Fgenerator
 
+......universal......
 #EXTINF:-1 tvg-id="[UNICI].Universal.Cinema.uy" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/72952746076947.png" group-title="🎬Cine, Novelas y Series🎥", UNIVERSAL CINEMA
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/uni_cinema.json
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -750,6 +756,7 @@ https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 https://unipluslivedash.akamaized.net/universalrealityt0/manifest.mpd
 
+......Peliculas......
 #EXTINF:-1 tvg-id="0811" tvg-logo="https://i.postimg.cc/sg7qWnn7/V2.png" group-title="🎬Cine, Novelas y Series🎥", FX
 http://38.44.109.41:8003/play/a01g/index.m3u8
 
@@ -764,7 +771,7 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 
 
-
+......Musica......
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/killxd26/Ote/refs/heads/main/logo/unpocoderuido.png" group-title="🎙️Musica🎤", UN POCO DE RUIDO
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="[https://portal.app.flow.com.ar]https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://srv6.zcast.com.br/unpocoderuido/unpocoderuido/playlist.m3u8
@@ -811,10 +818,7 @@ http://45.5.151.62:8000/play/a02k/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="⚽Deportes🏀", DSPORTS +
-http://181.64.27.65:8000/play/a0dq/index.m3u8
-#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="⚽Deportes🏀", DSPORTS
-http://217.26.190.76:8888/play/a0co/index.m3u8
+
 
 
 
