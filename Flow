@@ -54,7 +54,9 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137370
 #EXTINF:-1 tvg-id="" tvg-name="TVLITE PPV 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Prima_Sport_PPV_3.svg/revision/latest/scale-to-width-down/1000?cb=20250118001004" group-title="⭐Eventos en Vivo⭐",TVLITE PPV 3
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137371
 
-
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1747771091/p66yptgchm9w1mp2vlgd.png" group-title="⭐Eventos en Vivo⭐",Cable Videos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://joy.nx-pc.edge-apps.net/hls/m8hok-nellb-e6mo6-n858e.m3u8
 
 
 
