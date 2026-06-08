@@ -197,7 +197,7 @@ https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2rjHKbfAdIZEXNSgGR9KtYD0nGjPP5p66Z5NrOIVpaQ&s=10" group-title="⚽DEPORTES🏀",Claro Sports
 https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2rjHKbfAdIZEXNSgGR9KtYD0nGjPP5p66Z5NrOIVpaQ&s=10" group-title="⚽DEPORTES🏀",Claro Sports Mexico
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2rjHKbfAdIZEXNSgGR9KtYD0nGjPP5p66Z5NrOIVpaQ&s=10" group-title="⚽DEPORTES🏀",Claro Sports
 https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 
 #EXTINF:-1  tvg-id="0419" tvg-title="Claro Sports Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/CLAROSPORTS.png?raw=true" tvg-chno="117" group-title="⚽Deportes🏀",Claro Sports
@@ -323,7 +323,7 @@ http://181.13.252.102:8000/play/a0bg/index.m3u8
 http://181.13.252.102:8000/play/a0bg/index.m3u8
 
 ......TN......
-#EXTINF:-1 tvg-id="0905" tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" group-title="🇦🇷ARGENTINA🇦🇷", TN
+#EXTINF:-1 tvg-id="0905" tvg-name="TN" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345069/wy5gze1xto6u7pzndpo4.png" group-title="🇦🇷ARGENTINA🇦🇷", TN
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
@@ -332,13 +332,13 @@ https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f.m3u8
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://cdn.storyasset.link/LvEHmehvPQc4kbsFtQVQguewG3c2/logotn1-ms-vcnfcadech.png" group-title="🇦🇷Argentina🇦🇷",TN
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345069/wy5gze1xto6u7pzndpo4.png" group-title="🇦🇷Argentina🇦🇷",TN
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="🇦🇷Argentina🇦🇷", TN
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345069/wy5gze1xto6u7pzndpo4.png" group-title="🇦🇷Argentina🇦🇷", TN
 http://181.13.252.102:8000/play/a058/index.m3u8
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tn.png" group-title="🇦🇷ARGENTINA🇦🇷",TN
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345069/wy5gze1xto6u7pzndpo4.png" group-title="🇦🇷ARGENTINA🇦🇷",TN
 https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
 
 ......A24......
