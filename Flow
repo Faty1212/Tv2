@@ -425,27 +425,27 @@ http://181.13.252.102:8000/play/a06c/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 
-#EXTINF:-1 tvg-id="EL NUEVE.ar" tvg-logo="https://static.flow.com.ar/images/76/CH_LOGO/100/100/0/0/93367508072808.png" group-title="🇦🇷Argentina🇦🇷", EL NUEVE
+#EXTINF:-1 tvg-id="EL NUEVE.ar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343409/r6vbn4n6dfsem4thbh7g.png" group-title="🇦🇷Argentina🇦🇷", EL NUEVE
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/canal9.json
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc3eds%2FCanal9%2FSA_Live_dash_enc%2FCanal9.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
 
-#EXTINF:-1 ch-number="11" tvg-id="EL NUEVE.ar" tvg-logo="https://i.postimg.cc/TwrJGTSJ/elnueve_2.png" group-title="🇦🇷Argentina🇦🇷", el nueve
+#EXTINF:-1 ch-number="11" tvg-id="EL NUEVE.ar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343409/r6vbn4n6dfsem4thbh7g.png" group-title="🇦🇷Argentina🇦🇷", el nueve
 https://g5.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
-#EXTINF:-1  tvg-id="EL NUEVE.ar" tvg-title="el nueve" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/elnueve.png?raw=true" tvg-chno="150" group-title="🇦🇷Argentina🇦🇷",el nueve
+#EXTINF:-1  tvg-id="EL NUEVE.ar" tvg-title="el nueve" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343409/r6vbn4n6dfsem4thbh7g.png" tvg-chno="150" group-title="🇦🇷Argentina🇦🇷",el nueve
 http://190.7.19.197:232/play/a03k/index.m3u8
 
-#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="🇦🇷Argentina🇦🇷" tvg-logo="https://camo.githubusercontent.com/f214a53f9120715748ba74bdb8996e3b68bdf1b2fd803f126be4833f0943c6d4/68747470733a2f2f692e696d6775722e636f6d2f45746356536d342e706e67", El Nueve
+#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="🇦🇷Argentina🇦🇷" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343409/r6vbn4n6dfsem4thbh7g.png", El Nueve
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-16_720.m3u8
 
-#EXTINF:-1 tvg-id="321697" tvg-name="El Nueve • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="🇦🇷Argentina🇦🇷", El Nueve
+#EXTINF:-1 tvg-id="321697" tvg-name="El Nueve • Argentina" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343409/r6vbn4n6dfsem4thbh7g.png" group-title="🇦🇷Argentina🇦🇷", El Nueve
 http://181.13.252.102:8000/play/a04h/index.m3u8?PlaylistM3UCL
 
 ......LN+......
-#EXTINF:0 tvg-id="LN+.ar" tvg-name="LN+" CUID="6" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344457/fcjc3stfsqmhfiwhg3gl.png" group-title="🇦🇷Argentina🇦🇷",LN+
+#EXTINF:0 tvg-id="LN+.ar" tvg-name="LN+" CUID="6" tvg-logo="https://cdn.bo.flow.com.ar/images/content//228/228/BG9e9Motv1bSmOQ5t3kDgw?tags=CH_LOGO" group-title="🇦🇷Argentina🇦🇷",LN+
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
 
@@ -455,14 +455,14 @@ https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc7eds%2FLa_Nacion%2FSA_Live_dash_enc%2FLa_Nacion.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
 
-#EXTINF:-1 ch-number="11" tvg-id="La Nacion.uy" tvg-logo="https://i.postimg.cc/dtnjTfgB/LN.png" group-title="🇦🇷Argentina🇦🇷", LN+
+#EXTINF:-1 ch-number="11" tvg-id="La Nacion.uy" tvg-logo="https://cdn.bo.flow.com.ar/images/content//228/228/BG9e9Motv1bSmOQ5t3kDgw?tags=CH_LOGO" group-title="🇦🇷Argentina🇦🇷", LN+
 http://latinostvhd.club:25461/8642755377/437ca16994/128760
 
-#EXTINF:-1 tvg-id="320017" tvg-name="LN Más • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="🇦🇷Argentina🇦🇷", LN+
+#EXTINF:-1 tvg-id="320017" tvg-name="LN Más • Argentina" tvg-logo="https://cdn.bo.flow.com.ar/images/content//228/228/BG9e9Motv1bSmOQ5t3kDgw?tags=CH_LOGO" group-title="🇦🇷Argentina🇦🇷", LN+
 http://181.13.252.102:8000/play/a01s/index.m3u8?PlaylistM3UCL
 
 ......TELEFE CORDOBA......
-#EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-title="🇦🇷Interior🇦🇷", TELEFE CORDOBA
+#EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png" group-title="🇦🇷Interior🇦🇷", TELEFE CORDOBA
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/telefecordoba.json
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
@@ -496,16 +496,16 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
 
-#EXTINF:-1 tvg-id="America TV (ARG).ar" tvg-logo="https://static.flow.com.ar/images/66/CH_LOGO/60/40/0/0/60528493072631.png" group-title="🇦🇷Argentina🇦🇷", AMERICA
+#EXTINF:-1 tvg-id="America TV (ARG).ar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343193/yfswhrfentg6ldidmvkd.png" group-title="🇦🇷Argentina🇦🇷", AMERICA
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/americatv.json
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc3eds%2FAmericaTV%2FSA_Live_dash_enc%2FAmericaTV.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
 
-#EXTINF:-1 tvg-id="320880" tvg-name="América TV • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="🇦🇷Argentina🇦🇷", America
+#EXTINF:-1 tvg-id="320880" tvg-name="América TV • Argentina" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343193/yfswhrfentg6ldidmvkd.png" group-title="🇦🇷Argentina🇦🇷", America
 http://181.13.252.102:8000/play/a055/index.m3u8?PlaylistM3UCL
 
-#EXTINF: -1  tvg-id="america 2.ar" tvg-name="america 2.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="🇦🇷Argentina🇦🇷",America
+#EXTINF: -1  tvg-id="america 2.ar" tvg-name="america 2.ar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343193/yfswhrfentg6ldidmvkd.png" group-title="🇦🇷Argentina🇦🇷",America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 ......CANAL 10 MDQ......
@@ -549,20 +549,20 @@ https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
 ......FOX SPORTS......
-#EXTINF:0 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS" CUID="22" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="⚽Deportes🏀",FOX SPORTS
+#EXTINF:0 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS" CUID="22" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/5772683307979.png" group-title="⚽Deportes🏀",FOX SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd.m3u8
 
 #EXTINF:-1 tvg-id="FOX Sports (ARG).ar" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/5772683307979.png" group-title="⚽Deportes🏀", FOX Sports
 http://latinostvhd.club:25461/8642755377/437ca16994/128757
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_Sports_Argentina_2026.webp" group-title="⚽DEPORTES🏀", FOX SPORTS 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/5772683307979.png" group-title="⚽DEPORTES🏀", FOX SPORTS 
 http://190.7.19.197:232/play/a05u/index.m3u8
 
-#EXTINF:1 CUID="190" tvg-name="Fox Sports HD" tvg-logo="https://logo.m3uassets.com/foxsports.png" tvg-id="FOXSports.ar" group-title="⚽Deportes🏀",Fox Sports
+#EXTINF:1 CUID="190" tvg-name="Fox Sports HD" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/5772683307979.png" tvg-id="FOXSports.ar" group-title="⚽Deportes🏀",Fox Sports
 http://190.7.19.197:232/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/605.png" group-title="⚽DEPORTES🏀", FOX SPORTS
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/-/-/0/0/5772683307979.png" group-title="⚽DEPORTES🏀", FOX SPORTS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qsYbcw4qwd8j8ehy51QcGw","kid":"y8Kgx6ON8KozM81xhB07DQ"}]}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -598,21 +598,21 @@ http://190.7.19.197:232/play/a04x/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8
 
-#EXTINF:-1 tvg-id="[TYC].TyC.Sports.uy" tvg-logo="https://static.flow.com.ar/images/74/CH_LOGO/100/100/0/0/78711436072355.png" group-title="⚽Deportes🏀", TYC SPORTS
+#EXTINF:-1 tvg-id="[TYC].TyC.Sports.uy" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345246/bkxx3r33ra53vmbwc1qp.png" group-title="⚽Deportes🏀", TYC SPORTS
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/tycsportv2.json
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc7eds%2FTyCSport%2FSA_Live_dash_enc%2FTyCSport.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
 
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/74/CH_LOGO/100/100/0/0/78711436072355.png" group-title="⚽Deportes🏀" ,TYC SPORTS
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345246/bkxx3r33ra53vmbwc1qp.png" group-title="⚽Deportes🏀" ,TYC SPORTS
 http://200.112.174.230/mtcast_tychd/mpegts
 
-#EXTINF:-1 tvg-name="TyC Sports Play" tvg-logo="https://static.flow.com.ar/images/74/CH_LOGO/100/100/0/0/78711436072355.png" group-title="⚽Deportes🏀",TyC Sports
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345246/bkxx3r33ra53vmbwc1qp.png" group-title="⚽Deportes🏀",TyC Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 #EXTVLCOPT:http-referrer=https://play.tycsports.com/
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
 
-#EXTINF:-1  tvg-id="TYC SPORTS.ar" tvg-title="TyC Sports" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/tycsport.png?raw=true" tvg-chno="390" group-title="⚽Deportes🏀",TyC Sports
+#EXTINF:-1  tvg-id="TYC SPORTS.ar" tvg-title="TyC Sports" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345246/bkxx3r33ra53vmbwc1qp.png" tvg-chno="390" group-title="⚽Deportes🏀",TyC Sports
 http://190.7.19.197:232/play/a04w/index.m3u8
 
 ......ESPN......
@@ -620,7 +620,7 @@ http://190.7.19.197:232/play/a04w/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/280/CH_LOGO/100/100/0/0/71306601073189.png" group-title="⚽Deportes🏀", ESPN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="⚽Deportes🏀", ESPN
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn1.json
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
@@ -632,20 +632,20 @@ http://200.112.174.230/mtcast_espnhd/mpegts
 #EXTINF:-1 tvg-id="318341" tvg-name="ESPN • América Latina" tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="⚽Deportes🏀", ESPN
 http://181.13.252.102:8000/play/a05a/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="⚽Deportes🏀", ESPN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="⚽Deportes🏀", ESPN
 http://45.5.151.62:8000/play/a00o/index.m3u8
 
-#EXTINF:1 CUID="176" tvg-name="ESPN HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" tvg-id="ESPN.ar" group-title="⚽Deportes🏀",ESPN
+#EXTINF:1 CUID="176" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" tvg-id="ESPN.ar" group-title="⚽Deportes🏀",ESPN
 http://190.7.19.197:232/play/a03n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s37NZCT/espn-1B.png" group-title="⚽Deportes🏀" ch-number="21" type="channel",ESPN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="⚽Deportes🏀" ch-number="21" type="channel",ESPN
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/107.ts
  
 ......ESPN 2......
-#EXTINF:0 tvg-id="ESPN 2.ar" tvg-name="ESPN 2" CUID="26" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343621/dvoznks55wyxhidxt5tz.png" group-title="⚽Deportes🏀",ESPN 2
+#EXTINF:0 tvg-id="ESPN 2.ar" tvg-name="ESPN 2" CUID="26" tvg-logo="https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png" group-title="⚽Deportes🏀",ESPN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/io3a7-ob45b-2dnm5-ac8ak.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://static.flow.com.ar/images/278/CH_LOGO/100/100/0/0/294103520718.png" group-title="⚽Deportes🏀", ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png" group-title="⚽Deportes🏀", ESPN 2
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn2.json
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
@@ -654,20 +654,20 @@ http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png" group-title="⚽Deportes🏀" ,ESPN 2
 http://200.112.174.230/mtcast_espn2hd/mpegts
 
-#EXTINF:-1 tvg-id="318342" tvg-name="ESPN 2 • América Latina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkr2RzuQwTckHKkKyRG6lJD-RyjurAfRqxQ&s" group-title="⚽Deportes🏀", ESPN 2
+#EXTINF:-1 tvg-id="318342" tvg-name="ESPN 2 • América Latina" tvg-logo="https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png" group-title="⚽Deportes🏀", ESPN 2
 http://181.13.252.102:8000/play/a059/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkr2RzuQwTckHKkKyRG6lJD-RyjurAfRqxQ&s" group-title="⚽Deportes🏀",ESPN 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png" group-title="⚽Deportes🏀",ESPN 2
 #EXTVLCOPT:network-caching=1000
 http://45.181.122.46:8090/play/a01v
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkr2RzuQwTckHKkKyRG6lJD-RyjurAfRqxQ&s" group-title="⚽Deportes🏀",ESPN 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png" group-title="⚽Deportes🏀",ESPN 2
 http://181.78.82.6:46090/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn2.png" group-title="⚽Deportes🏀", ESPN 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png" group-title="⚽Deportes🏀", ESPN 2
 http://181.13.252.102:8000/play/a059/index.m3u8
 
-#EXTINF:1 CUID="173" tvg-name="ESPN 2 HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png" tvg-id="ESPN2.ar" group-title="⚽Deportes🏀",ESPN 2
+#EXTINF:1 CUID="173" tvg-name="ESPN 2 HD" tvg-logo="https://i.postimg.cc/D4yRcwg2/ESPN-2-Argentina.png" tvg-id="ESPN2.ar" group-title="⚽Deportes🏀",ESPN 2
 http://190.7.19.197:232/play/a03m/index.m3u8 
 
 ......ESPN 3......
@@ -684,39 +684,39 @@ http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0MCLmw7Z/ESPN-3-Argentina.png" group-title="⚽Deportes🏀" ,ESPN 3
 http://200.112.174.230/mtcast_espn3hd/mpegts
 
-#EXTINF:-1 tvg-id="318343" tvg-name="ESPN 3 • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="⚽Deportes🏀", ESPN 3
+#EXTINF:-1 tvg-id="318343" tvg-logo="https://i.postimg.cc/0MCLmw7Z/ESPN-3-Argentina.png" group-title="⚽Deportes🏀", ESPN 3
 http://128.201.227.251:4000/play/a0er?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="⚽Deportes🏀",ESPN 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0MCLmw7Z/ESPN-3-Argentina.png" group-title="⚽Deportes🏀",ESPN 3
 http://181.78.82.6:46090/play/a00v/index.m3u8
 
-#EXTINF:-1  tvg-id="ESPN 3.ar" tvg-title="ESPN 3" tvg-logo="https://github.com/Jcluis5847/logos/blob/main/ESPN3.png?raw=true" tvg-chno="140" group-title="⚽Deportes🏀",ESPN 3
+#EXTINF:-1  tvg-id="ESPN 3.ar" tvg-title="ESPN 3" tvg-logo="https://i.postimg.cc/0MCLmw7Z/ESPN-3-Argentina.png" tvg-chno="140" group-title="⚽Deportes🏀",ESPN 3
 http://kstv.us:8080/live/N427DpynGE/7049166651/47104.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="⚽Deportes🏀", ESPN 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0MCLmw7Z/ESPN-3-Argentina.png" group-title="⚽Deportes🏀", ESPN 3
 http://181.13.252.102:8000/play/a05b/index.m3u8
 
-#EXTINF:1 CUID="174" tvg-name="ESPN 3 HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png" tvg-id="ESPN3.ar" group-title="⚽Deportes🏀",ESPN 3
+#EXTINF:1 CUID="174" tvg-name="ESPN 3 HD" tvg-logo="https://i.postimg.cc/0MCLmw7Z/ESPN-3-Argentina.png" tvg-id="ESPN3.ar" group-title="⚽Deportes🏀",ESPN 3
 http://190.7.19.197:232/play/a03o/index.m3u8 
  
 ......ESPN 4......
-#EXTINF:0 tvg-id="ESPN 4.ar" tvg-name="ESPN 4" CUID="28" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1708005521/wazxwdf0tycbg0qc6jwt.png" group-title="⚽Deportes🏀",ESPN 4
+#EXTINF:0 tvg-id="ESPN 4.ar" tvg-name="ESPN 4" CUID="28" tvg-logo="https://i.postimg.cc/1fnQ2Sfy/ESPN-4-Sur.png" group-title="⚽Deportes🏀",ESPN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 4.ar" tvg-logo="https://static.flow.com.ar/images/279/CH_LOGO/100/100/0/0/43362732071132.png" group-title="⚽Deportes🏀", ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4.ar" tvg-logo="https://i.postimg.cc/1fnQ2Sfy/ESPN-4-Sur.png" group-title="⚽Deportes🏀", ESPN 4
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espnextra.json
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc3eds%2FESPNHD%2FSA_Live_dash_enc%2FESPNHD.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
 
-#EXTINF:-1 tvg-id="323359" tvg-name="ESPN 4 • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png" group-title="⚽Deportes🏀", ESPN 4
+#EXTINF:-1 tvg-id="323359" tvg-name="ESPN 4 • América Latina" tvg-logo="https://i.postimg.cc/1fnQ2Sfy/ESPN-4-Sur.png" group-title="⚽Deportes🏀", ESPN 4
 http://128.201.227.251:4000/play/a0es?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="⚽Deportes🏀", ESPN 4
+#EXTINF:-1 tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://i.postimg.cc/1fnQ2Sfy/ESPN-4-Sur.png" group-title="⚽Deportes🏀", ESPN 4
 http://181.13.252.102:8000/play/a076/index.m3u8
 
-#EXTINF:1 CUID="175" tvg-name="ESPN 4 HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/800/542/0/0/16514023071132.png" tvg-id="ESPN4.ar" group-title="⚽Deportes🏀",ESPN 4
+#EXTINF:1 CUID="175" tvg-name="ESPN 4 HD" tvg-logo="https://i.postimg.cc/1fnQ2Sfy/ESPN-4-Sur.png" tvg-id="ESPN4.ar" group-title="⚽Deportes🏀",ESPN 4
 http://190.7.19.197:232/play/a05t/index.m3u8
 
 ......ESPN 5......
@@ -732,57 +732,57 @@ http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%
 #EXTVLCOPT:http-reconnect=true
 http://38.210.3.64:8090/play/a0jd/index.m3u8
 
-#EXTINF:-1 tvg-id="323360" tvg-name="ESPN 5 • América Latina" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:ESPN_5_logo.svg" group-title="⚽Deportes🏀", ESPN 5
+#EXTINF:-1 tvg-id="323360" tvg-name="ESPN 5 • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="⚽Deportes🏀", ESPN 5
 http://45.181.122.46:8090/play/a01i?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="⚽Deportes🏀", ESPN 5
 http://201.230.121.171:8000/play/a0ld/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYWu5YTT8VgZW7E1vkzm-1nc.png" group-title="⚽DEPORTES🏀" ,ESPN 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="⚽DEPORTES🏀" ,ESPN 5
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI257b3O3KGKmfqx3iC4jnJZbB/m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1200px-ESPN_5_logo.svg.png" group-title="⚽Deportes🏀",ESPN 5
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/500px-ESPN_5_logo.svg.png" group-title="⚽Deportes🏀",ESPN 5
 http://217.26.190.76:8888/play/a0kh/index.m3u8
 
 ......ESPN 6......
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://static.flow.com.ar/images/9019/CH_LOGO/100/100/0/0/15905984073899.png" group-title="⚽Deportes🏀", ESPN 6
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png" group-title="⚽Deportes🏀", ESPN 6
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn6.json
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc7eds%2FFoxSports3_UY%2FSA_Live_dash_enc%2FFoxSports3_UY.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
 
-#EXTINF:0 tvg-logo="https://static.flow.com.ar/images/9019/CH_LOGO/100/100/0/0/15905984073899.png",ESPN 6
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png",ESPN 6
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
 #EXTVLCOPT:network-caching=6500
 #EXTVLCOPT:http-reconnect=true
 http://38.210.3.64:8090/play/a0dj/index.m3u8
 
-#EXTINF:-1 tvg-id="323728" tvg-name="ESPN 6 • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1200px-ESPN_6_logo.svg.png" group-title="⚽Deportes🏀", ESPN 6
+#EXTINF:-1 tvg-id="323728" tvg-name="ESPN 6 • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png" group-title="⚽Deportes🏀", ESPN 6
 http://45.181.122.46:8090/play/a01u?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png" group-title="⚽Deportes🏀", ESPN 6
 http://201.230.121.171:8000/play/a0bc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjYVSVyGMrfK3xtchV8tpnYXouoQHFNkJteF3kKGT9KxA.png" group-title="⚽DEPORTES🏀" ,ESPN 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png" group-title="⚽DEPORTES🏀" ,ESPN 6
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254B1e4KJrnvxVRXAF0Bj67f/m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="⚽DEPORTES🏀", ESPN 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png" group-title="⚽DEPORTES🏀", ESPN 6
 http://186.33.40.97:8789/play/56
 
 ......ESPN 7......
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://static.flow.com.ar/images/9017/CH_LOGO/100/100/0/0/12041360073463.png" group-title="⚽Deportes🏀", ESPN 7
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="hhttps://foros.forounivers.com/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" group-title="⚽Deportes🏀", ESPN 7
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn7.json
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc7eds%2FFoxSports2_UY%2FSA_Live_dash_enc%2FFoxSports2_UY.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
 
-#EXTINF:0 tvg-logo="https://static.flow.com.ar/images/9017/CH_LOGO/100/100/0/0/12041360073463.png",ESPN 7
+#EXTINF:0 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png",ESPN 7
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
 #EXTVLCOPT:network-caching=6500
 #EXTVLCOPT:http-reconnect=true
 http://38.210.3.64:8090/play/a0e6/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="⚽Deportes🏀", ESPN 7
+#EXTINF:-1 tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" group-title="⚽Deportes🏀", ESPN 7
 http://201.230.121.171:8000/play/a08n/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/small.ESPN7.png.5fa651740fb8cbead168e291cfb29069.png" group-title="⚽Deportes🏀",ESPN 7
