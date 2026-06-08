@@ -553,6 +553,10 @@ http://200.112.174.230/mtcast_espnhd/mpegts
 http://181.13.252.102:8000/play/a05a/index.m3u8
 
 ......ESPN 2......
+#EXTINF:0 tvg-id="ESPN 2.ar" tvg-name="ESPN 2" CUID="26" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343621/dvoznks55wyxhidxt5tz.png" group-title="⚽Deportes🏀",ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://joy.nx-pc.edge-apps.net/hls/io3a7-ob45b-2dnm5-ac8ak.m3u8
+
 #EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://static.flow.com.ar/images/278/CH_LOGO/100/100/0/0/294103520718.png" group-title="⚽Deportes🏀", ESPN 2
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn2.json
 #KODIPROP:inputstream.adaptive.license_type=clearkey
