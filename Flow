@@ -480,7 +480,8 @@ https://g5.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playl
 
 ......TELEFE SANTA FE......
 #EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1669538372061208579/Wibfqd9H_400x400.jpg" group-title="🇦🇷Interior🇦🇷", TELEFE SANTA FE
-https://cdn.pontiscloud.com/output/COR/TSFH/track_0_3000/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
 
 ......CADENA 103......
 #EXTINF:-1 tvg-id="Cadena103TV.ar@SD" tvg-logo="https://repro.arcast.cloud/cadena103/logo.jpg" group-title="📻Radios📻",Cadena 103
