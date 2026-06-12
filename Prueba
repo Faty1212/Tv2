@@ -53,8 +53,8 @@ https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/64393bf81dbc891fd41f53ac/man
 
 
 
-#EXTINF:-1 xui-id="651389" tvg-id="" tvg-name="MAX CLICK SPORTS  | 01" tvg-logo="https://cdn.ftvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="MUNDIAL 2026 ⏯️ | PREMIUM",MAX CLICK SPORTS  | 01
-http://maxclicktv.net:8080/play/y8jYDQKeryoITuJBi_n_VS9j6J5J9a6S5hL8OHNR45x1Hz-MFZmEHqGBMGQcdzoZ
+#EXTINF:-1 xui-id="651389" tvg-id="" tvg-name="MAX CLICK SPORTS  | 01" tvg-logo="https://cdn.ftvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="MUNDIAL 2026 ⏯️ | PREMIUM", tyc sports play 1
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
 #EXTINF:-1 xui-id="651390" tvg-id="" tvg-name="MAX CLICK SPORTS  | 02" tvg-logo="https://cdn.ftvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="MUNDIAL 2026 ⏯️ | PREMIUM",MAX CLICK SPORTS  | 02
 http://maxclicktv.net:8080/play/y8jYDQKeryoITuJBi_n_VS9j6J5J9a6S5hL8OHNR45yOz2JUTLksy8SgXbGQFW4_
 #EXTINF:-1 xui-id="651391" tvg-id="" tvg-name="MAX CLICK SPORTS  | 03" tvg-logo="https://cdn.ftvhd.com/uploads/fifa_ee72f5c955_ad721146d1.png" group-title="MUNDIAL 2026 ⏯️ | PREMIUM",MAX CLICK SPORTS  | 03
