@@ -1,7 +1,7 @@
 #extm3u
 
 
-#EXTINF:-1 group-title="Argentina",TN
+#EXTINF:-1 group-title="Argentina",TN 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5bb6f9ef3b632b7ba2797048b4941a0:53f33a7ab0729daee5dbe8ecc8ee2c08
