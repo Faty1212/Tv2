@@ -1,8 +1,8 @@
 #extm3u
 
-#EXTINF:-1 group-title="Interés General", tyc sports
+#EXTINF:-1 group-title="Interés General", tn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ODI0ZTBhMTdkMjViLTM3MWEtZTVkNC0yNTc4LWU3MDM0ZGY4/master.m3u8
+https://ori1.relay.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f.m3u8
 
 #EXTINF:0 tvg-id="VEO SANTA FE.ar" tvg-name="VEO SANTA FE" CUID="2" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345346/amrez8xvti7qszmwoorl.png" group-title="Argentina TV",VEO SANTA FE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
