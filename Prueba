@@ -19,25 +19,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0060
 
 
 
-
-#EXTINF:-1 group-title="Argentina",Telefe
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4a7f89c229a513fb9d4ceee8463f902:6a39805cde7a539ea1dd22a54dc17404
-https://cdn-live.mundogo.cl/telefehd/telefehd.mpd
-
-#EXTINF:-1 group-title="Argentina",Telefe 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=29099961fdee5277a804e542e2288575:b6ff841f441013f9b621afb0a32a4d0d
-https://cdn-live.mundogo.cl/telefehd/telefehd.mpd
-
-#EXTINF:-1 group-title="Argentina",Telefe 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1062bd6e0aa58999b9d86ac3cbe5c13:2f1ce8cadef4cc01859a23a85e77bef2
-https://cdn-live.mundogo.cl/telefehd/telefehd.mpd
-
 #EXTINF:0 tvg-id="VEO SANTA FE.ar" tvg-name="VEO SANTA FE" CUID="2" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345346/amrez8xvti7qszmwoorl.png" group-title="Argentina TV",VEO SANTA FE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n.m3u8
