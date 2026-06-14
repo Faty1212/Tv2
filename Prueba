@@ -1,6 +1,6 @@
 #extm3u
-#EXTINF:-1 tvg-logo="", evento
-https://mpd.r2img-stock709.workers.dev/mpd/drm?
+#EXTINF:-1 tvg-logo="", evento1
+https://la18hd.com/vivo/canales.php?stream=dsports
 
 #EXTINF:-1 tvg-logo="", telefe 1
 http://190.7.19.197:232/play/a059/index.m3u8
