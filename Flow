@@ -460,7 +460,16 @@ https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 #EXTINF:-1  tvg-id="TV PUBLICA.ar" tvg-title="TV Publica" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343316/lbquokaz3dmb2gtsynxh.png" tvg-chno="130" group-title="🇦🇷Argentina🇦🇷",TV Publica
 http://190.7.19.197:232/play/a03c/index.m3u8
 
+......TELEFE INTERNACIONAL......
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="🇦🇷ARGENTINA🇦🇷",Telefe Internacional
+#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"9AwHrBRP5UkD1rDRS6kKlQ","k":"OvXVovguqGPAkVlYLJCSpg"}],"type":"temporary"}
+https://aca-live4-ott.izzigo.tv/6/out/u/dash/TELEFE-HD-H265/default.mpd
+
 ......TELEFE......
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="🇦🇷ARGENTINA🇦🇷",Telefe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream=inputstream.adaptive
