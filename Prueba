@@ -1,4 +1,7 @@
 #extm3u
+#EXTINF:-1 tvg-logo="", evento
+https://mpd.r2img-stock709.workers.dev/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY=
+
 #EXTINF:-1 tvg-logo="", telefe 1
 http://190.7.19.197:232/play/a059/index.m3u8
 
