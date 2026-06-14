@@ -1,6 +1,6 @@
 #extm3u
-#EXTINF:-1 tvg-logo="", evento1
-https://la18hd.com/vivo/canales.php?stream=dsports
+#EXTINF:-1 tvg-id="TN.ar@SD" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",TN (2160p)
+https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
 
 #EXTINF:-1 tvg-logo="", telefe 1
 http://190.7.19.197:232/play/a059/index.m3u8
