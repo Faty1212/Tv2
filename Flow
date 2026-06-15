@@ -221,6 +221,14 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/PqHsp4OmZENbWOhYWPyLjV7ia45k2vd977rehWU2P7GAEJR1hn8_q3qTPYqydaBC.png" group-title="⚽DEPORTES🏀" ,FOX México
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI256FqX8CPxz5QbXEYLz3oEDs/m3u8
 
+...... TELEMUNDO......
+#EXTM3U url-tvg="https://www.open-epg.com/files/mexico2.xml.gz"
+#EXTINF:-1 tvg-logo="" group-title="⚽DEPORTES🏀", TELEMUNDO EAST 
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+
 ......TUDN......
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/30/TUDNlogo.png/revision/latest?cb=20190721040715&path-prefix=es" group-title="⚽DEPORTES🏀",TUDN
 https://streaming.alwaysdata.net/tudn.php
