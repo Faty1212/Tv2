@@ -605,6 +605,10 @@ https://cdn.pontiscloud.com/output/SMT6/C10MPD/output.mpd
 https://g4.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 
 ......MAGAZINE......
+#EXTINF:0 tvg-id="CIUDAD MAGAZINE.ar" tvg-name="CIUDAD MAGAZINE" CUID="20" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344483/ze80dpksdnhmtrrir0jy.png" group-title="🇦🇷Argentina🇦🇷",CIUDAD MAGAZINE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://joy.nx-pc.edge-apps.net/hls/6i9pl-i9pbb-nlbod-db19m.m3u8
+
 #EXTINF:-1 ch-number="11" tvg-id="MAGAZINE.ar" tvg-logo="https://i.postimg.cc/mDHT4mgR/Logo-2.png" group-title="🇦🇷Argentina🇦🇷", Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
