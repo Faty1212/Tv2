@@ -60,7 +60,7 @@ https://joy.nx-pc.edge-apps.net/hls/m8hok-nellb-e6mo6-n858e.m3u8
 
 
 ......Dsports......
-#EXTINF:-1 tvg-name="DSPORTS" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="⚽Deportes🏀",DSPORTS
+#EXTINF:-1 tvg-name="DSPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="⚽Deportes🏀",DSPORTS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
