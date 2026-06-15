@@ -411,6 +411,9 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 #EXTINF:-1 tvg-id="0222" tvg-name="A24" tvg-logo="hhttps://i.postimg.cc/1XpC91Rj/Logo-1.png" group-title="🇦🇷Argentina🇦🇷", A24
 https://g1.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8?sense=true
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tT42fk7G/a24logo.png" group-title="🇦🇷Argentina🇦🇷",A24 
+https://g4.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8|Referer=https://vmf.edge-apps.net
+
 #EXTINF:0 tvg-id="A24.ar" tvg-logo="https://i.postimg.cc/1XpC91Rj/Logo-1.png" group-title="🇦🇷Argentina🇦🇷", A24
 http://45.5.151.62:8000/play/a002/index.m3u8
 
