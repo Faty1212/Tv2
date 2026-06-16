@@ -1,6 +1,6 @@
 #extm3u
 
-#EXTINF:-1,2
+#EXTINF:-1,1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://tvfuego.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 #EXTINF:-1,3
