@@ -234,6 +234,7 @@ https://streaming.alwaysdata.net/tudn.php
 
 EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/30/TUDNlogo.png/revision/latest?cb=20190721040715&path-prefix=es" group-title="⚽Deportes🏀" ,TUDN
 http://201.216.147.90:8729/play/a00u
+
 ......CANELA DEPORTES......
 #EXTINF:0 group-title="⚽Deportes🏀",Canela Deportes
 https://amg00658-amg00658c10-canelatv-international-7279.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deporteslt-canelatvinternational/pl
@@ -254,6 +255,10 @@ https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
 
 ......CLARO SPORTS......
+#EXTINF:0 tvg-id="CLARO SPORTS.ar" tvg-name="CLARO SPORTS" CUID="30" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346171/casvrwvzsaou1lrvdvyd.png" group-title="⚽deportes🏀",CLARO SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://joy.nx-pc.edge-apps.net/hls/km95e-pj51p-m2ci4-5nj03.m3u8
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2rjHKbfAdIZEXNSgGR9KtYD0nGjPP5p66Z5NrOIVpaQ&s=10" group-title="⚽DEPORTES🏀",Claro Sports
 https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
 
