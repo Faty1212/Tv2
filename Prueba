@@ -1,18 +1,7 @@
 #extm3u
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest?cb=20221115002318&path-prefix=es" group-title="", telefe
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_wl/TelefeHD.mpd
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" group-title="Remodelación" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/1920px-The_Simpsons_yellow_logo.svg.png", El Rincón de los Simpsons
 http://45.225.40.206:12080/Live/76b678bf3a8a411cb7b2f415a567034d/online-24-7_480.m3u8
-
-
-
 
 #EXTINF:0 tvg-id="CLARO SPORTS.ar" tvg-name="CLARO SPORTS" CUID="30" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346171/casvrwvzsaou1lrvdvyd.png" group-title="Argentina TV",CLARO SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
@@ -22,52 +11,30 @@ https://joy.nx-pc.edge-apps.net/hls/km95e-pj51p-m2ci4-5nj03.m3u8
 
 
 
-#EXTINF:0 tvg-id="DISNEY CHANNEL.ar" tvg-name="DISNEY CHANNEL" CUID="33" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343539/hbtoaryt4rspl7nuvo5f.png" group-title="Argentina TV",DISNEY CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/g0hl8-7cc8c-58lnc-8d80n.m3u8
+
 
 #EXTINF:0 tvg-id="DISNEY JR.ar" tvg-name="DISNEY JR." CUID="34" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343555/qquu2rgawhx5vewx5k5s.png" group-title="Argentina TV",DISNEY JR.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/5kd3c-o845m-1fce7-n8520.m3u8
 
-#EXTINF:0 tvg-id="CARTOON NETWORK.ar" tvg-name="CARTOON NETWORK" CUID="35" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343459/qeyq8c2njqjrpfvzwhmz.png" group-title="Argentina TV",CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/f33ci-2pl6j-7pki5-goboo.m3u8
-
-#EXTINF:0 tvg-id="TOONCAST.ar" tvg-name="TOONCAST" CUID="36" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345162/dr9opo1wgzz6rjqestvs.png" group-title="Argentina TV",TOONCAST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/9649e-56dn4-4b1g5-dilf.m3u8
-
-#EXTINF:0 tvg-id="ZOO MOO.ar" tvg-name="ZOO MOO" CUID="37" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345870/wz2y1iajjlrvbuajnsw9.png" group-title="Argentina TV",ZOO MOO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/gpn0p-h6fp8-7689p-kkcc6.m3u8
-
-#EXTINF:0 tvg-id="PAKA PAKA.ar" tvg-name="PAKA PAKA" CUID="38" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344683/o5wmeruzw6cwdozlkb64.png" group-title="Argentina TV",PAKA PAKA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9.m3u8
-
-#EXTINF:0 tvg-id="BABY TV.ar" tvg-name="BABY TV" CUID="39" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343332/k6apxdxseirljmuvoctg.png" group-title="Argentina TV",BABY TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/6onej-bja31-d1m6a-99and.m3u8
-
-#EXTINF:0 tvg-id="CANAL INFANTIL.ar" tvg-name="CANAL INFANTIL" CUID="40" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684348314/yvbj7oz3ujktnle6so2a.png" group-title="Argentina TV",CANAL INFANTIL
-
-https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
-
-#EXTINF:0 tvg-id="PLIM PLIM TV.ar" tvg-name="PLIM PLIM TV" CUID="41" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1750353500/e02amybvvycqtiovtkxy.png" group-title="Argentina TV",PLIM PLIM TV
-https://joy.nx-pc.edge-apps.net/hls/mb6hp-85n73-pedjc-o07ef.m3u8
 
 #EXTINF:0 tvg-id="FX.ar" tvg-name="FX" CUID="42" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1738861342/mxqccbweqij3th5jni3m.png" group-title="Argentina TV",FX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8
 
 #EXTINF:0 tvg-id="CINEMAX.ar" tvg-name="CINEMAX" CUID="43" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344640/awvuauzeynupv9g4w55w.png" group-title="Argentina TV",CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/al2ac-boi6d-kl95l-3n20j.m3u8
+
 #EXTINF:0 tvg-id="MULTIPREMIER.ar" tvg-name="MULTIPREMIER" CUID="44" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346044/hzxoskqpdbco2grcfs1k.png" group-title="Argentina TV",MULTIPREMIER
 https://joy.nx-pc.edge-apps.net/hls/k9bpa-nd884-2a06l-640e1.m3u8
+
 #EXTINF:0 tvg-id="CINECANAL.ar" tvg-name="CINECANAL" CUID="45" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346192/wlqczqrkvqmrr4khdekf.png" group-title="Argentina TV",CINECANAL
 https://joy.nx-pc.edge-apps.net/hls/6bhnd-ee8d5-hegm2-b6l5e.m3u8
+
 #EXTINF:0 tvg-id="TNT.ar" tvg-name="TNT" CUID="46" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345114/pe7pbo0c5bycumcxxcdf.png" group-title="Argentina TV",TNT
 https://joy.nx-pc.edge-apps.net/hls/3cfmo-i74jf-j0b2a-bm53n.m3u8
+
 #EXTINF:0 tvg-id="EUROPA EUROPA.ar" tvg-name="EUROPA EUROPA" CUID="47" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1738069963/jyv6t42pjooaxfefm25e.png" group-title="Argentina TV",EUROPA EUROPA
 https://joy.nx-pc.edge-apps.net/hls/caon2-ko5ei-l3gpc-e772c.m3u8
 #EXTINF:0 tvg-id="FILM & ARTS.ar" tvg-name="FILM & ARTS" CUID="48" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346138/os0793nnsdcby18gttcg.png" group-title="Argentina TV",FILM & ARTS
