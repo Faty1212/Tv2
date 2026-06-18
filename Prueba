@@ -19,6 +19,7 @@ http://45.225.40.206:12080/Live/76b678bf3a8a411cb7b2f415a567034d/online-24-7_480
 https://joy.nx-pc.edge-apps.net/hls/km95e-pj51p-m2ci4-5nj03.m3u8
 
 #EXTINF:0 tvg-id="DEPORTV.ar" tvg-name="DEPORTV" CUID="31" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1749237097/ktodxvqmqpbo1lhl452v.png" group-title="Argentina TV",DEPORTV
+
 https://joy.nx-pc.edge-apps.net/hls/e1okh-afcc2-ejm6-h8gdj.m3u8
 
 #EXTINF:0 tvg-id="CABLEVIDEO EVENTOS.ar" tvg-name="CABLEVIDEO EVENTOS" CUID="32" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1747771091/p66yptgchm9w1mp2vlgd.png" group-title="Argentina TV",CABLEVIDEO EVENTOS
