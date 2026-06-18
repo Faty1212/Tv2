@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ID_DEL_CANAL" tvg-logo="URL_LOGO" group-title="NOMBRE_GRUPO",Nombre del Canal
+#EXTINF:-1 tvg-id="ID_DEL_CANAL" tvg-logo="URL_LOGO" group-title="NOMBRE_GRUPO",Telefe
 #EXTVLCOPT:http-origin=https://portal.app.flow.com.ar
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36...
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5ODk0NTgyIiwic2lwIjoiMjAwLjExNC4xMTEuMjA1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0xhX05hY2lvbi9TQV9MaXZlX2Rhc2hfZW5jX3dsLyIsInNlc3Npb25fY2RuX2lkIjoiZjY2NGEzNmY1Y2FlZWMzMSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.q03_KPnbxhzrko3nVYbZhyMYeZK4PZGaZFEYAklM3MzqvdxbiDxoZvifAcFrJ5k5oPkVb7ikdiY23aHJ--GAtw==/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd|token=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
 
 
