@@ -914,7 +914,10 @@ https://joy.nx-pc.edge-apps.net/hls/e1okh-afcc2-ejm6-h8gdj.m3u8
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1749237097/ktodxvqmqpbo1lhl452v.png" group-title="⚽Deportes🏀",DeporTV
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3u8
 
-
+......GOLF CHANNEL......
+#EXTINF:0 tvg-id="GOLF CHANNEL.ar" tvg-name="GOLF CHANNEL" CUID="29" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345398/pjculxryvg0brhyewhoq.png" group-title="⚽DEPORTES🏀",GOLF CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://joy.nx-pc.edge-apps.net/hls/3ng17-nl903-o8epk-9kaij.m3u8
 
 
 ......Infantiles......
