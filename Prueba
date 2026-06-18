@@ -1,4 +1,8 @@
 #extm3u
+
+https://tvfuego.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", EL NUEVE
 https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/elnueve/output.mpd
 
