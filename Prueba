@@ -18,18 +18,7 @@ http://45.225.40.206:12080/Live/76b678bf3a8a411cb7b2f415a567034d/online-24-7_480
 https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n.m3u8
 
 
-#EXTINF:0 tvg-id="VEO SANTO TOME.ar" tvg-name="VEO SANTO TOME" CUID="7" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345274/vvx5uc4yrteyyaa2w7mb.png" group-title="Argentina TV",VEO SANTO TOME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/dnob-bh2e8-ie61h-da129.m3u8
 
-#EXTINF:0 tvg-id="CANAL 9 LITORAL.ar" tvg-name="CANAL 9 LITORAL" CUID="8" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343169/jhcykgqwd6muxddjsi6b.png" group-title="Argentina TV",CANAL 9 LITORAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/c1l19-dm128-aophc-jlo6n.m3u8
-
-
-#EXTINF:0 tvg-id="RTS.ar" tvg-name="RTS" CUID="11" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1714690363/e6qrjkrewqzvavedhic1.png" group-title="Argentina TV",RTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/8hdof-e4mmh-nbj00-biga5.m3u8
 
 
 #EXTINF:0 tvg-id="EL NUEVE INTERIOR.ar" tvg-name="EL NUEVE INTERIOR" CUID="16" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343409/r6vbn4n6dfsem4thbh7g.png" group-title="Argentina TV",EL NUEVE INTERIOR
@@ -46,9 +35,7 @@ https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 
 
 
-#EXTINF:0 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS" CUID="22" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="Argentina TV",FOX SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd.m3u8
+
 
 #EXTINF:0 tvg-id="FOX SPORTS 2.ar" tvg-name="FOX SPORTS 2" CUID="23" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344086/ga6vdlikxfa3c8puixeq.png" group-title="Argentina TV",FOX SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
