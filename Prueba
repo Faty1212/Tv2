@@ -1,5 +1,5 @@
 #extm3u
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", telefe
 https://tvfuego.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 
 
