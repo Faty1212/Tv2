@@ -1,4 +1,7 @@
 #extm3u
+#EXTINF:-1 ,Telefe
+https://delivery.cdn.rcs.net.ar/mnp/telefe/output.mpd
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", telefe 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://tvfuego.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
