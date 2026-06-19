@@ -1172,6 +1172,9 @@ http://45.228.234.30:16000/play/a01o
 
 
 ......Musica......
+#EXTINF:-1 tvg-id="CumbiaMix.ar@HD" group-title="🎙️Musica🎤",Cumbia Mix
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/killxd26/Ote/refs/heads/main/logo/unpocoderuido.png" group-title="🎙️Musica🎤", UN POCO DE RUIDO
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="[https://portal.app.flow.com.ar]https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://srv6.zcast.com.br/unpocoderuido/unpocoderuido/playlist.m3u8
