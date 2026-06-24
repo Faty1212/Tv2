@@ -1,10 +1,15 @@
 #EXTM3U
-#EXTINF:-1 ,CANAL 7 SANTIAGO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fg6dYtt/Canal-4-Express-SALTA.png" group-title="TV",TN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73477e592667468aadc028053b6f0609:64d6a0a6868f52a3ac58839587fe5b83
+#EXTVLCOPT:http-referrer=https://nowtv.express.com.ar/
+https://anbalancer.express.com.ar/live/c1eds/TN_HD/SA_DASH_cipix/TN_HD.mpd
 
-"https://anedgeros.express.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzQ2MjcxNzk2Iiwic2lwIjoiIiwicGF0aCI6IiIsInNlc3Npb25fY2RuX2lkIjoiZjI1N2YzNzJkNTYwMTE4MCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTkwLjIuMTA1LjIyNSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNCIsInNvdXJjZXMiOls0XX0=.hdWH02KJRXpdESSugXG3jA1k59W3ZEcPUfTJUcPwGdUVyqbzQ8PVMMp-0HU7KeYljYhGhQ7K2kpjW0nJJc6OnA==/live/c1eds/Canal_7_Santiago/SA_DASH_cipix/Canal_7_Santiago.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" -H "Accept: */*" -H "Origin: null" -H "Referer: https://nowtv.express.com.ar/" --key 6a47917ca83343ea8dcca63189e36d78:84b0fe420ed5de7ef83c608d78d74f15 -M format=mkv
 
 #EXTINF:-1 ,TN
-N_m3u8DL-RE "https://anbalancer.express.com.ar/live/c1eds/TN_HD/SA_DASH_cipix/TN_HD.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" -H "Accept: */*" -H "Origin: https://nowtv.express.com.ar" -H "Referer: https://nowtv.express.com.ar/" --key 73477e592667468aadc028053b6f0609:64d6a0a6868f52a3ac58839587fe5b83 -M format=mkv
+dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" -H "Accept: */*" -H "Origin: https://nowtv.express.com.ar" --key  -M format=mkv
 
 
 #EXTINF:-1 , CANAL 26
