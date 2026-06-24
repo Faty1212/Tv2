@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fg6dYtt/Canal-4-Express-SALTA.png" group-title="TV",TN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fg6dYtt/Canal-4-Express-SALTA.png" group-title="TV",TN 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=format=mkv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
