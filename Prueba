@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://nowtv.express.com.ar/
 #EXTVLCOPT:http-origin=https://nowtv.express.com.ar
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mkv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73477e592667468aadc028053b6f0609:64d6a0a6868f52a3ac58839587fe5b83
 https://anbalancer.express.com.ar/live/c1eds/TN_HD/SA_DASH_cipix/TN_HD.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc
@@ -11,9 +11,9 @@ https://anbalancer.express.com.ar/live/c1eds/TN_HD/SA_DASH_cipix/TN_HD.mpd?dvr_w
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fg6dYtt/Canal-4-Express-SALTA.png" group-title="TV",TN 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fg6dYtt/Canal-4-Express-SALTA.png" group-title="TV",TN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mkv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73477e592667468aadc028053b6f0609:64d6a0a6868f52a3ac58839587fe5b83
 #EXTVLCOPT:http-referrer=https://nowtv.express.com.ar/
