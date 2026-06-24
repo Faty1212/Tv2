@@ -5,11 +5,12 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73477e592667468aadc028053b6f0609:64d6a0a6868f52a3ac58839587fe5b83
 #EXTVLCOPT:http-referrer=https://nowtv.express.com.ar/
-https://anbalancer.express.com.ar/live/c1eds/TN_HD/SA_DASH_cipix/TN_HD.mpd
+#EXTVLCOPT:User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://anbalancer.express.com.ar/live/c1eds/TN_HD/SA_DASH_cipix/TN_HD.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc
 
 
 #EXTINF:-1 ,TN
-dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" -H "Accept: */*" -H "Origin: https://nowtv.express.com.ar" --key  -M format=mkv
+" -H "Accept: */*" -H "Origin: https://nowtv.express.com.ar" --key  -M format=mkv
 
 
 #EXTINF:-1 , CANAL 26
