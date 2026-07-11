@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1, telefe
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
 #EXTINF:-1 group-title="Argentina-Soporte" tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",Telefe
 https://broker.cdn.rcs.net.ar/mnp/mdr800000004i1ehev75u46zjoxlbnsy_hls/playlist.m3u8
